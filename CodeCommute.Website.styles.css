@@ -41,62 +41,7 @@
 main[b-t6ge1wp5py] {
     flex: 1;
 }
-
-.top-row[b-t6ge1wp5py] {
-    background: linear-gradient(135deg, #4D5159 0%, #262626 100%);
-    border-bottom: none;
-    justify-content: flex-end;
-    height: 3.5rem;
-    display: flex;
-    align-items: center;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-}
-
-    .top-row[b-t6ge1wp5py]  a, .top-row[b-t6ge1wp5py]  .btn-link {
-        white-space: nowrap;
-        margin-left: 1.5rem;
-        text-decoration: none;
-        color: white;
-        font-weight: 500;
-        transition: color 0.2s ease;
-    }
-
-    .top-row[b-t6ge1wp5py]  a:hover, .top-row[b-t6ge1wp5py]  .btn-link:hover {
-        color: rgba(255, 255, 255, 0.8);
-        text-decoration: underline;
-    }
-
-    .top-row[b-t6ge1wp5py]  a:first-child {
-        overflow: hidden;
-        text-overflow: ellipsis;
-    }
-
-@media (max-width: 640.98px) {
-    .top-row[b-t6ge1wp5py] {
-        justify-content: space-between;
-    }
-
-    .top-row[b-t6ge1wp5py]  a, .top-row[b-t6ge1wp5py]  .btn-link {
-        margin-left: 0;
-    }
-}
 /* codecommute-website-public/Layout/NavMenu.razor.rz.scp.css */
-.navbar-toggler[b-w9ue1ahowa] {
-    background-color: rgba(255, 255, 255, 0.1);
-}
-
-.top-row[b-w9ue1ahowa] {
-    min-height: 3.5rem;
-    background: linear-gradient(135deg, #4D5159 0%, #262626 100%);
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-}
-
-.navbar-brand[b-w9ue1ahowa] {
-    font-size: 1.2rem;
-    font-weight: 600;
-    color: white !important;
-}
-
 .bi[b-w9ue1ahowa] {
     display: inline-block;
     position: relative;
@@ -150,14 +95,6 @@ main[b-t6ge1wp5py] {
 }
 
 @media (max-width: 640.98px) {
-    .navbar-toggler[b-w9ue1ahowa] {
-        display: block;
-    }
-
-    .collapse[b-w9ue1ahowa] {
-        display: none;
-    }
-
     .nav-scrollable[b-w9ue1ahowa] {
         background: linear-gradient(135deg, rgba(77, 81, 89, 0.98) 0%, rgba(38, 38, 38, 0.98) 100%);
         backdrop-filter: blur(10px);
@@ -170,14 +107,6 @@ main[b-t6ge1wp5py] {
 }
 
 @media (min-width: 641px) {
-    .navbar-toggler[b-w9ue1ahowa] {
-        display: none;
-    }
-
-    .collapse[b-w9ue1ahowa] {
-        display: block;
-    }
-
     .nav-scrollable[b-w9ue1ahowa] {
         background: linear-gradient(135deg, rgba(77, 81, 89, 0.95) 0%, rgba(38, 38, 38, 0.95) 100%);
         backdrop-filter: blur(10px);
