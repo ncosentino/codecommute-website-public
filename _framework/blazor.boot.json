@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "CodeCommute.Website",
   "resources": {
-    "hash": "sha256-zjeH/wJYCfSkJgJaFjHtArhfZ9aOsSSqFqDiIbCBcYs=",
+    "hash": "sha256-m9G7NpE48hIyUCylSI1ycEyZ++k3eOuaUg4hJL/fKb0=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Components.1rscozt7ul.wasm": "Microsoft.AspNetCore.Components.wasm",
       "Microsoft.AspNetCore.Components.Web.nl4zcw382h.wasm": "Microsoft.AspNetCore.Components.Web.wasm",
@@ -34,7 +34,7 @@
       "System.Text.Json.u93pa0l0y4.wasm": "System.Text.Json.wasm",
       "System.Text.RegularExpressions.3zydt3n8n9.wasm": "System.Text.RegularExpressions.wasm",
       "System.Private.CoreLib.wfkqeopoqo.wasm": "System.Private.CoreLib.wasm",
-      "CodeCommute.Website.0q9qtjw13w.wasm": "CodeCommute.Website.wasm",
+      "CodeCommute.Website.5cxofh669j.wasm": "CodeCommute.Website.wasm",
       "dotnet.js": "dotnet.js",
       "dotnet.native.rtblh4npr3.js": "dotnet.native.js",
       "dotnet.native.aqhezbunpl.wasm": "dotnet.native.wasm",
@@ -87,7 +87,7 @@
       "System.Text.Encodings.Web.j8jbnca1on.wasm": "sha256-3cJRUrFjSoiaGlI3OmHNndawtN8Y5lEgLHYI76jlAvo=",
       "System.Text.Json.u93pa0l0y4.wasm": "sha256-0nbwSDJN6TofCR7dRVJthNFoOU5NdBoyzFtHdVa6lXs=",
       "System.Text.RegularExpressions.3zydt3n8n9.wasm": "sha256-sXTH9c57ccmOHrE+Bpsiewg0xWGtHrbl8KBKpTJW9VA=",
-      "CodeCommute.Website.0q9qtjw13w.wasm": "sha256-SKPol4XefhmJy6gZ8vFYZhDOYr5qkl21Dxdsu5f7FfA="
+      "CodeCommute.Website.5cxofh669j.wasm": "sha256-xfF7DPmu1GMSz0hxst9of/s0vJTtJzkRfN/X77YfMiE="
     }
   },
   "cacheBootResources": true,
