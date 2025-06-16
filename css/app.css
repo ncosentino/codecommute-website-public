@@ -312,3 +312,136 @@ code {
 .form-floating > .form-control-plaintext:focus::placeholder, .form-floating > .form-control:focus::placeholder {
     text-align: start;
 }
+
+/* Socials page styles */
+.socials-description {
+    font-size: 1.2rem;
+    color: rgba(255, 255, 255, 0.9);
+    margin-top: 1rem;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.socials-section {
+    padding: 4rem 1rem;
+    background: #F2F2F2;
+}
+
+.socials-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.social-card {
+    display: flex;
+    align-items: center;
+    padding: 2rem;
+    background: white;
+    border-radius: 16px;
+    border-left: 4px solid #4D5159;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+    transition: transform 0.2s ease, box-shadow 0.2s ease, border-left-color 0.2s ease;
+    text-decoration: none;
+    color: inherit;
+}
+
+.social-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
+    text-decoration: none;
+    color: inherit;
+}
+
+.social-card.linkedin:hover {
+    border-left-color: #0077B5;
+}
+
+.social-card.youtube:hover {
+    border-left-color: #FF0000;
+}
+
+.social-card.youtube-shorts:hover {
+    border-left-color: #FF0000;
+}
+
+.social-card.tiktok:hover {
+    border-left-color: #000000;
+}
+
+.social-card.facebook:hover {
+    border-left-color: #1877F2;
+}
+
+.social-card.instagram:hover {
+    border-left-color: #E4405F;
+}
+
+.social-card.twitter:hover {
+    border-left-color: #1DA1F2;
+}
+
+.social-icon {
+    font-size: 3rem;
+    margin-right: 1.5rem;
+    flex-shrink: 0;
+}
+
+.social-info h3 {
+    margin: 0 0 0.5rem 0;
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: #0D0D0D;
+}
+
+.social-info p {
+    margin: 0;
+    color: #A6A6A6;
+    font-size: 1rem;
+    line-height: 1.4;
+}
+
+/* Responsive design for socials */
+@media (max-width: 768px) {
+    .socials-section {
+        padding: 3rem 1rem;
+    }
+    
+    .socials-grid {
+        grid-template-columns: 1fr;
+        gap: 1.5rem;
+    }
+    
+    .social-card {
+        padding: 1.5rem;
+    }
+    
+    .social-icon {
+        font-size: 2.5rem;
+        margin-right: 1rem;
+    }
+    
+    .social-info h3 {
+        font-size: 1.3rem;
+    }
+    
+    .socials-description {
+        font-size: 1.1rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .social-card {
+        flex-direction: column;
+        text-align: center;
+        padding: 1.25rem;
+    }
+    
+    .social-icon {
+        margin-right: 0;
+        margin-bottom: 1rem;
+    }
+}
