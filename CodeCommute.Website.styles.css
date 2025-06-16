@@ -106,7 +106,7 @@ main[b-t6ge1wp5py] {
 
     .nav[b-w9ue1ahowa] {
         flex-direction: column;
-        padding: 0.5rem 0;
+        padding: 1rem 0;
     }
 }
 
@@ -119,7 +119,7 @@ main[b-t6ge1wp5py] {
     .nav[b-w9ue1ahowa] {
         flex-direction: row;
         justify-content: center;
-        padding: 0;
+        padding: 0.75rem 0;
     }
 
     .nav-item[b-w9ue1ahowa] {
