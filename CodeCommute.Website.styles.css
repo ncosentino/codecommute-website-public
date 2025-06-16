@@ -5,6 +5,39 @@
     flex-direction: column;
 }
 
+.site-banner[b-t6ge1wp5py] {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000;
+    background-color: white;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.banner-image[b-t6ge1wp5py] {
+    width: 100%;
+    height: auto;
+    max-height: 120px;
+    object-fit: cover;
+    display: block;
+}
+
+.content-wrapper[b-t6ge1wp5py] {
+    margin-top: 120px; /* Space for the fixed banner */
+}
+
+/* Responsive design for banner */
+@media (max-width: 768px) {
+    .banner-image[b-t6ge1wp5py] {
+        max-height: 80px; /* Smaller banner on mobile */
+    }
+    
+    .content-wrapper[b-t6ge1wp5py] {
+        margin-top: 80px; /* Adjust margin for smaller banner */
+    }
+}
+
 main[b-t6ge1wp5py] {
     flex: 1;
 }
