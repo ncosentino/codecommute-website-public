@@ -35,6 +35,13 @@ a:hover, .btn-link:hover {
     box-shadow: 0 8px 15px rgba(77, 81, 89, 0.3);
 }
 
+/* Compact button for inline use */
+.btn-primary.btn-compact {
+    padding: 0.375rem 0.75rem;
+    font-size: 0.9rem;
+    line-height: 1.2;
+}
+
 .btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
   box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
 }
