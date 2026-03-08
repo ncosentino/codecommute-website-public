@@ -20,6 +20,28 @@
         return secs + ' second' + (secs !== 1 ? 's' : '');
     }
 
+    function showSuccess() {
+        var form = document.getElementById('contact-form');
+        if (!form) return;
+        var container = form.parentElement;
+        form.style.display = 'none';
+        var el = document.createElement('div');
+        el.className = 'contact-success';
+        el.innerHTML =
+            '<div class="contact-success-icon">✓</div>' +
+            '<h2 class="contact-success-title">Question submitted!</h2>' +
+            '<p class="contact-success-body">Thanks — I\'ll do my best to cover it on a future episode. Make sure you\'re subscribed on <a href="https://youtube.com/@CodeCommute" target="_blank" rel="noopener noreferrer">YouTube</a> so you don\'t miss it.</p>';
+        container.insertBefore(el, form);
+        el.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    }
+
+    function scrollToMessage() {
+        var el = document.getElementById('submit-message');
+        if (el && el.style.display !== 'none') {
+            el.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+        }
+    }
+
     function showMessage(isSuccess, text) {
         var el = document.getElementById('submit-message');
         if (!el) return;
@@ -115,22 +137,20 @@
             body: payload
         }).then(function (response) {
             if (response.ok) {
-                showMessage(true, "Thank you! Your question has been submitted successfully. Make sure you're subscribed on YouTube!");
                 localStorage.setItem(RATE_LIMIT_KEY, String(Date.now()));
-                e.target.reset();
-                clearValidationErrors();
-                var nameFields = document.getElementById('name-fields');
-                if (nameFields) nameFields.style.display = '';
-                var charCounter = document.getElementById('char-counter');
-                if (charCounter) charCounter.textContent = 'Maximum 10,000 characters. Current: 0/10,000';
+                showSuccess();
             } else if (response.status === 429) {
-                showMessage(false, 'Your question was already submitted -- come back tomorrow!');
+                showMessage(false, 'Your question was already submitted — come back later!');
+                scrollToMessage();
+                updateButtonState();
             } else {
                 showMessage(false, 'Sorry, there was an error submitting your question. Please try again later.');
+                scrollToMessage();
+                updateButtonState();
             }
         }).catch(function () {
             showMessage(false, 'Sorry, there was an error submitting your question. Please try again later.');
-        }).finally(function () {
+            scrollToMessage();
             updateButtonState();
         });
     }
