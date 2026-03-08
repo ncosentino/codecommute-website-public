@@ -800,6 +800,61 @@ code {
     align-items: center;
 }
 
+/* --- Transcript section --- */
+.watch-transcript {
+    margin-top: 2rem;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.watch-transcript-toggle {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.85rem 1.25rem;
+    background: var(--surface);
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 0.95rem;
+    list-style: none;
+    user-select: none;
+}
+
+.watch-transcript-toggle::-webkit-details-marker { display: none; }
+
+.watch-transcript-toggle:hover {
+    background: var(--surface-2);
+}
+
+.watch-transcript-chevron {
+    transition: transform 0.2s ease;
+    font-size: 1.1rem;
+}
+
+.watch-transcript[open] .watch-transcript-chevron {
+    transform: rotate(180deg);
+}
+
+.watch-transcript-body {
+    padding: 1.25rem;
+    border-top: 1px solid var(--border);
+}
+
+.watch-transcript-disclaimer {
+    font-size: 0.8rem;
+    color: var(--text-muted);
+    margin-bottom: 1rem;
+    font-style: italic;
+}
+
+.watch-transcript-body p {
+    font-size: 0.9rem;
+    line-height: 1.7;
+    color: var(--text-muted);
+    margin-bottom: 0.75rem;
+}
+
 .watch-not-found {
     text-align: center;
     padding: 4rem 1rem;
