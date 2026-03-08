@@ -1,0 +1,22 @@
+{
+    "name": "Code Commute",
+    "short_name": "Code Commute",
+    "description": "A software engineering vlog driven by your questions, hosted by Nick Cosentino.",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#0D0D0D",
+    "theme_color": "#0D0D0D",
+    "icons": [
+        {
+            "src": "/icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/favicon.png",
+            "sizes": "any",
+            "type": "image/png"
+        }
+    ]
+}
