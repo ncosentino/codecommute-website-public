@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How do you use AI to improve software development through iterative feedback loops?",
+    "answer": "I use AI agents to build code and then run analysis loops where the AI critiques its own work, identifies gaps, and suggests improvements. This iterative process involves reviewing commits, checking test coverage, and refining guidance to gradually improve the quality and alignment of the code with my expectations. The goal is to have AI incrementally get better at following my engineering philosophies and producing functional, well-architected software."
+  },
+  {
+    "question": "What challenges do you face when letting AI agents work hands-off on complex tasks?",
+    "answer": "When AI agents work hands-off, they often produce results that are mostly good but include some errors or assumptions without evidence. For example, they might make wrong decisions, generate overly large test files, or produce code that passes tests but doesn't reflect real scenarios. To manage this, I implement tighter feedback loops and have the AI emit evidence for its claims so I can review and correct mistakes, ensuring better outcomes over time."
+  },
+  {
+    "question": "How do you incorporate evidence and performance data into AI agent workflows?",
+    "answer": "I require AI agents to emit evidence for their claims during orchestration, such as queries run or results obtained, so I can verify the basis of their suggestions. Additionally, I instrument the workflows to capture performance data like timing and resource usage, which helps identify inefficiencies or redundant operations. This data-driven approach allows me to analyze, critique, and optimize the agents' work, leading to more informed decisions and continuous improvement."
+  }
+]
