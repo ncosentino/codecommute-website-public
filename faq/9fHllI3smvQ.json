@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How do I improve the effectiveness of AI agent prompts when using Claude Flow?",
+    "answer": "I realized that using detailed, multi-line prompts upfront is crucial for success. Generic one-liner prompts like 'go build me an app' don't work well, so being crystal clear and providing detailed instructions helps the AI understand and perform better."
+  },
+  {
+    "question": "What advantages does shared memory provide in AI agent swarms like Claude Flow?",
+    "answer": "Shared memory allows the agents to remember previous instructions and errors, so they don't repeat the same mistakes every time. For example, it helps the AI recall build errors and path configurations, which improves efficiency compared to tools like Co-Pilot that seem to relearn everything for each run."
+  },
+  {
+    "question": "How can AI tools assist with testing and refactoring in my .NET development workflow?",
+    "answer": "I've been using AI to write tests and perform sweeping refactors across my codebase, which helps improve test coverage and identify bugs. Although the AI sometimes produces compilation errors or incomplete tests, it has been effective in complementing my workflow and even helped me discover a real bug in my messaging infrastructure."
+  }
+]

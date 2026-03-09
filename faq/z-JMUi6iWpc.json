@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How should an engineering manager handle a software engineer who has been deleveled from senior to software engineer?",
+    "answer": "I believe it's important for the engineering manager to trust leadership's decision to relevel the engineer if they are not performing at the expected level. However, this can sour the working relationship and create tension, so the manager should focus on clear communication, setting expectations, and providing constructive feedback to help the engineer grow and succeed at their appropriate level."
+  },
+  {
+    "question": "What challenges arise when an engineer has both a non-technical team lead and a floating engineering manager?",
+    "answer": "In this setup, the engineer may receive conflicting feedback because the non-technical team lead tends to focus on quantity of work and gives positive reinforcement, while the floating engineering manager focuses on technical quality and areas for improvement. This misalignment can confuse the engineer and undermine the manager's feedback, so better alignment and communication between the two roles is essential to provide consistent guidance."
+  },
+  {
+    "question": "What strategies can improve the working relationship between an engineering manager and a mis-leveled software engineer?",
+    "answer": "I recommend that the engineering manager balance critical feedback with recognition of the engineer's wins to avoid constant negativity. Spending one-on-one time to build rapport, learning about the engineer personally, and involving them in meaningful responsibilities like defining team processes can also help rebuild trust and engagement. Documentation and rubrics to set clear expectations further support transparent and constructive conversations."
+  }
+]

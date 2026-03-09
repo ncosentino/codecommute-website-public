@@ -1,0 +1,14 @@
+[
+  {
+    "question": "Why should I consider coding outside of my day job as a software developer?",
+    "answer": "I believe coding outside of work can help you skill up in areas you're not getting to explore at your job, add meaningful projects to your resume, or even build software for income or business ideas. However, it's not a requirement to be a good developer, and your life doesn't have to revolve around coding outside of work if you don't want it to."
+  },
+  {
+    "question": "How can I overcome the challenge of finding motivation to code outside of work?",
+    "answer": "I find that aligning your side projects with your personal interests can lower the activation energy needed to get started. For example, if you like video games, you could build a project related to that, which makes the work more engaging and less like a chore. Picking something that excites you helps make coding outside of work feel more enjoyable and sustainable."
+  },
+  {
+    "question": "What should my goals be when building side projects outside of work?",
+    "answer": "I think it's important to clearly define your goals, whether it's learning new skills, building a portfolio, or creating software to sell. Your approach should align with your goal; for learning, take time to understand how things work rather than just copying code, and for making money, focus on shipping working software rather than experimenting with too many new technologies at once. Being honest about your goals helps you stay focused and make meaningful progress."
+  }
+]

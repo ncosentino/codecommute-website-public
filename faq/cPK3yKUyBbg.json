@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How can I improve my chances of getting interviews when job searching as a software developer?",
+    "answer": "I believe the job search happens in three phases: getting seen (applying), performing well in interviews, and performing well on the job. Many people get stuck at the first phase. To improve your chances, you should practice coding and system design regularly, apply to more jobs to increase your volume, and focus on networking to bypass some of the resume screening. Networking can be a cheat code to get interviews by connecting directly with people inside companies."
+  },
+  {
+    "question": "What are some challenges of working at a small startup without established processes?",
+    "answer": "From my experience and what I've heard, small startups often lack clear processes, procedures, and mentorship. This can lead to confusion about priorities, no clear project backlogs, and a lack of psychological safety where asking questions is frowned upon. While startups can be tough and chaotic, it's important to try to bring up ideas for improvement and take ownership to help create some structure, even if the environment is not very supportive."
+  },
+  {
+    "question": "How should I approach suggesting improvements in a toxic or unstructured software development environment?",
+    "answer": "I recommend moving beyond just complaining about issues by also proposing concrete suggestions and potential solutions. Taking ownership means not only identifying problems but also actively working to implement changes, like prioritizing work or improving build systems. Even if your manager or team seems overwhelmed or resistant, try to bring others along by inviting collaboration and showing the benefits of your ideas. This approach can help you influence positive change despite a challenging environment."
+  }
+]

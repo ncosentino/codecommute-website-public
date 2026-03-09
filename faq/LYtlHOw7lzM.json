@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How should developers approach the feedback 'Don't fix what's not broken' when pitching ideas?",
+    "answer": "I believe this feedback often means that the value of the proposed change isn't clear to stakeholders. Developers should focus on clearly identifying and communicating the specific problem their idea solves and the value it adds. Without this, proposals can be perceived as unnecessary work rather than beneficial improvements."
+  },
+  {
+    "question": "What factors should be considered when proposing a major change like rewriting a service in a different programming language?",
+    "answer": "When proposing a rewrite, I consider the business reasons and technical limitations driving the change, such as performance bottlenecks or architectural constraints. I also evaluate the team's expertise with the new language, the risks involved, and whether the expected benefits outweigh the costs. Prototyping and incremental rollout strategies are important to minimize risk and demonstrate value before fully committing."
+  },
+  {
+    "question": "How can developers improve communication to ensure their proposals are understood and valued by different stakeholders?",
+    "answer": "I think it's crucial to tailor the message to the priorities of different groups, such as engineers, product managers, and business leaders. This means explaining how the proposal aligns with business goals, reduces risk, or saves time and money. I also take responsibility for clearly articulating the value proposition and learning from situations where my communication failed to resonate with others."
+  }
+]

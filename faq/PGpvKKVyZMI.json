@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What is vibe coding and how does it work?",
+    "answer": "Vibe coding is essentially using AI, specifically large language models, to generate all the pieces of your application by asking it to do each part without much regard to the underlying code quality or architecture. It's like saying 'Jesus Take the Wheel' for AI, where you leverage the AI to do all the coding work by providing prompts for each piece you need."
+  },
+  {
+    "question": "What are the risks or downsides of relying on vibe coding for software development?",
+    "answer": "One major risk is that non-software engineers might think vibe coding replaces the need for software engineering expertise, which is dangerous. Without understanding software concepts, you can't effectively prompt the AI or evaluate the code it generates, leading to poorly built systems. Also, blindly using AI-generated code without questioning or understanding it can slow down learning and result in suboptimal or incorrect implementations."
+  },
+  {
+    "question": "How can vibe coding be beneficial for experienced developers or beginners?",
+    "answer": "For experienced developers, vibe coding can be a great tool to rapidly prototype or get a proof of concept up and running quickly, especially when working with unfamiliar technologies. For beginners, it can lower the barrier to getting started, but they need to be cautious and not just copy-paste code without understanding it, as that can hinder their learning. Overall, vibe coding reduces initial barriers but does not replace the time and effort needed to gain true expertise."
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "question": "Is it normal to have to repeatedly rewrite or refactor software deliverables based on senior developer feedback?",
+    "answer": "I think it's not necessarily super common but it's not unheard of to have to go back and change things. If you have to keep revisiting something, it probably means the team missed something the first time around. It's not a punishable offense, and sometimes refactoring happens to meet deadlines or unblock teams. So, I wouldn't beat yourself up over it."
+  },
+  {
+    "question": "How should a junior developer handle conflicting feedback from multiple senior engineers on their code?",
+    "answer": "If you're caught between two senior engineers with differing opinions, it can feel like a no-win situation. The best approach is to bring both seniors together for a discussion to get them on the same page. This helps avoid confusion and ensures you have clear guidance moving forward. It's important to communicate and facilitate collaboration among seniors to reduce friction."
+  },
+  {
+    "question": "What can a developer do to reduce the need for rework and improve progress on software projects?",
+    "answer": "I recommend having earlier touch points with senior developers before finalizing work. Getting feedback early, even if the code isn't complete, helps catch issues sooner and reduces wasted effort. Also, proactively communicating with your manager about concerns or rework can help them support you better. Being specific when asking for feedback and sharing learnings with your team can improve the process and your progress."
+  }
+]

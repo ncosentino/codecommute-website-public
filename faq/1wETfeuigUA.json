@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What differentiates a senior software engineer from a mid-level engineer in terms of project ownership?",
+    "answer": "I see ownership as a key differentiator for senior engineers. While mid-level engineers might handle ambiguous or cross-team projects, senior engineers take full responsibility for delivering success criteria regardless of obstacles. They don't just react to problems or place blame; they proactively find creative solutions to ensure quality and timelines are met."
+  },
+  {
+    "question": "How should a software engineer handle dependency issues that block project progress?",
+    "answer": "When I encounter a dependency issue, like infrastructure capacity problems, I first reach out to the responsible team, which is minimal ownership. But true ownership means I don't stop there; I explore alternative ways to achieve the project's goals, such as running tests locally or reconsidering the value of the blocked process. This proactive approach keeps the project moving forward despite external blockers."
+  },
+  {
+    "question": "Why is taking ownership important for reliability and accountability in software engineering teams?",
+    "answer": "I believe taking ownership demonstrates that you're reliable and accountable for your assigned work. Teams want members who don't just accept delays or blame others but instead actively seek solutions and keep projects on track. This mindset helps prevent constant timeline slips and is especially important as systems grow more complex."
+  }
+]

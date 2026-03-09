@@ -1,0 +1,14 @@
+[
+  {
+    "question": "Why is giving a six-page report as feedback overwhelming for an engineer?",
+    "answer": "I believe giving a six-page report as feedback is overwhelming because it can feel like too much information at once and may be taken the wrong way. Instead of starting with such a detailed document, it's better to begin with a conversation to discuss observations and get the other person's perspective."
+  },
+  {
+    "question": "How should a new manager approach giving feedback when there is low trust and respect?",
+    "answer": "If you have low trust and low respect in your working relationship, giving feedback becomes tricky because the person may not care about your input or trust your intentions. In such cases, it's important to work on building trust and respect first before trying to give direct feedback, as directness without that foundation can come across poorly."
+  },
+  {
+    "question": "What is the recommended way to handle feedback about code quality issues in pull requests?",
+    "answer": "I recommend starting a conversation with the engineer about the pull requests and any concerns, asking them to walk you through their process and perspective. This helps uncover additional context, such as stakeholder alignment or interpersonal challenges, and allows you to partner with them to improve the situation rather than just delivering a list of complaints."
+  }
+]

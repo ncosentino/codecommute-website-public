@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What has been my overall experience using AI agent mode in VS Code and Cursor for software refactoring?",
+    "answer": "My experience with AI agent mode in VS Code and Cursor has been lackluster so far. While it shows promise and can handle some parts of the refactoring, it often misses many spots that need changes and sometimes produces code that doesn't compile. I find myself spending a lot of time reviewing and fixing the AI-generated code, which makes it less efficient than doing the work myself."
+  },
+  {
+    "question": "How do I use AI agents to help with tedious and repetitive coding tasks?",
+    "answer": "I use AI agents to help with monotonous and repetitive tasks that I don't enjoy but need to get done, such as refactoring similar patterns across multiple plugins. I explain the pattern and provide an example to the AI, then ask it to apply the changes to other parts of the codebase. Although the AI can start the work and touch many spots, I still have to carefully review and fix issues it misses or incorrectly modifies."
+  },
+  {
+    "question": "What challenges do I face when prompting AI agents to perform code refactoring?",
+    "answer": "One challenge is that even when I provide detailed prompts, including git diffs and working examples, the AI often fails to apply the refactor completely or correctly. It sometimes deletes important code or makes changes that cause compilation errors. Additionally, the AI may claim the code compiles when it clearly does not, which requires me to manually verify and fix the output. Learning to prompt more effectively is necessary to improve results."
+  }
+]

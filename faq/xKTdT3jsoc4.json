@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How often should I have one-on-one meetings as a new software engineering manager?",
+    "answer": "I recommend having one-on-one meetings every week to start. Over time, you can adjust the frequency based on individual team members' needs and how much collaboration naturally happens. Weekly check-ins help maintain communication and support, especially when you're new to managing a team."
+  },
+  {
+    "question": "What are effective ways to improve team collaboration in a startup environment?",
+    "answer": "I suggest building collaboration into your software development life cycle by encouraging team members to work together from the beginning of a task. For example, developers should consult UX designers, QA, or other developers early on rather than working in isolation. Additionally, create opportunities for collaboration without forcing participation, and consider team-suggested activities like retrospectives or occasional social games to foster connection."
+  },
+  {
+    "question": "How can I handle feeling overwhelmed with multiple roles and limited time as an engineering manager in a startup?",
+    "answer": "It's normal to feel overwhelmed wearing many hats in a startup, especially as an engineering manager. I focus on servant leadership by unblocking the team and making them more efficient, while accepting that technical work time may be limited. To manage work-life balance, I found it helpful to have personal commitments, like taking care of a dog, to force myself to take breaks and step away from work."
+  }
+]

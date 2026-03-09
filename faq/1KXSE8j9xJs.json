@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How do I effectively use AI tools like GitHub Copilot for writing boilerplate code?",
+    "answer": "I use AI tools like GitHub Copilot mainly to generate boilerplate code such as adapter methods, constructors, and test cases. It helps speed up repetitive coding tasks, but I always review and correct the generated code because it can sometimes be incorrect or incomplete. This approach saves me time while ensuring the code quality remains high."
+  },
+  {
+    "question": "What is the best way to use AI for writing tests without losing confidence in the test coverage?",
+    "answer": "I believe AI can help generate tests, but I don't recommend blindly copying and pasting them. Instead, I use AI to help me think through test scenarios and understand what to test, almost like rubber ducking. Writing tests myself helps me build confidence in the code changes, and I use AI as a guide rather than a complete solution."
+  },
+  {
+    "question": "How can AI tools assist developers when learning new technologies or prototyping?",
+    "answer": "I find AI tools useful for quickly building small prototypes or exploring new technologies without investing too much time upfront. For example, I use AI to generate quick front-end code snippets or to get an overview of concepts like queuing systems. However, I prefer to use AI for learning and ideation rather than blindly generating complex production code, as I want to understand the technology deeply before implementation."
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How can I tell if I'm coasting as a software engineer from my own perspective?",
+    "answer": "I think you can consider factors like your work capacity or throughput—if you feel like you have a lot of downtime and aren't doing much, that might indicate coasting. Also, consider whether you're facing technical challenges or learning new technologies, and if you're stuck in the same domain without new growth opportunities. These aspects can help you reflect on whether you're coasting or not."
+  },
+  {
+    "question": "What should I do if I feel I have extra capacity and downtime during a Sprint?",
+    "answer": "I suggest having a conversation with your engineering manager or product owner about picking up more work or more impactful tasks. If they don't have additional items to assign, you can look for opportunities to help your team, like pairing with teammates or improving build systems and test infrastructure. It's important to communicate your intentions clearly to avoid misalignment."
+  },
+  {
+    "question": "How does a manager's perspective influence whether I'm seen as coasting?",
+    "answer": "From a manager's viewpoint, they often look at your throughput and impact rather than just the number of tasks completed. A good manager will also consider your interests in technology and try to align opportunities accordingly. To understand their expectations and avoid being perceived as coasting, it's crucial to have open conversations with your manager about your workload and growth goals."
+  }
+]

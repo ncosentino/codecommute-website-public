@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How should software developers approach information they find on the internet?",
+    "answer": "I believe software developers must maintain critical thinking when reading information online. You should take what anyone says, including me, with a grain of salt and form your own opinion by collecting different perspectives and data points to inform yourself."
+  },
+  {
+    "question": "What are the differences between developers who dive deep into understanding tasks and those who just follow instructions?",
+    "answer": "Some developers naturally want to understand how things work by analyzing and breaking down information, while others prefer to just follow instructions and complete tasks as given. Neither approach is inherently wrong, but I encourage leaning towards deeper understanding because it helps make better-informed decisions and improves engineering skills over time."
+  },
+  {
+    "question": "How can teams manage frustration caused by different working styles among developers?",
+    "answer": "Frustration often arises when expectations aren't clearly communicated, especially if one person expects deep analysis and another just follows instructions. I recommend coaching and clarifying expectations explicitly, and for those who tend to just check boxes, pausing to ask whether a deeper analysis is needed can improve communication and reduce friction."
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What is your opinion on junior developers relying mainly on AI tools for coding after six months?",
+    "answer": "My opinion hasn't really changed in six months. While some junior developers use AI tools like ChatGPT, they are not solely relying on them. I see a wave of new developers who are AI-first, which lowers the barrier to entry, allowing more people to get started with coding, but it also comes with pros and cons."
+  },
+  {
+    "question": "How can someone with little programming knowledge effectively use AI tools like ChatGPT to build software?",
+    "answer": "If you don't know what questions to ask the AI, you can directly ask it to suggest the right questions you should be asking about architectural changes or design decisions. You can also ask the AI to explain concepts in simple terms or provide analogies until you understand. This approach helps you learn and use the AI more effectively rather than just getting code output blindly."
+  },
+  {
+    "question": "What advice do you have for junior developers to improve their learning while using AI-generated code?",
+    "answer": "I recommend slowing down and reflecting on the code changes instead of rushing to implement them. Try to learn the concepts behind the code, ask the AI for explanations, and increase your confidence in what you're adding to your codebase. This way, you gain fundamental knowledge and improve your software development skills alongside using AI tools."
+  }
+]

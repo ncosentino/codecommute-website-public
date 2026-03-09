@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How did being on call last week affect my work and fitness routine?",
+    "answer": "Being on call last week was very draining because I had to monitor a dashboard from 6:00 a.m. to 6:00 p.m., and issues would arise just when I looked away. This made it hard to rest and left me too exhausted to attend my usual CrossFit classes, especially in the evening. Overall, the week was a blur due to the demanding nature of the on-call shift."
+  },
+  {
+    "question": "What challenges do I face when creating diverse content on my YouTube channel?",
+    "answer": "My YouTube channel currently focuses heavily on C programming because that is what my audience expects. When I post general software engineering content or podcasts, those videos don't perform as well because my core audience is more interested in C. This creates a challenge because YouTube's algorithm tends to limit the reach of videos that don't match the main niche of the channel, which can feel like a trap for content diversification."
+  },
+  {
+    "question": "How does collaborating with my engineering team improve problem-solving and motivation?",
+    "answer": "Working asynchronously with my engineering team and having live calls to swarm on problems makes debugging easier and helps maintain momentum. We share quick ideas that unblock each other, which saves time and effort. Also, collaborating with people I enjoy working with makes challenging problems more satisfying and fun, even if the work is tough or late at night."
+  }
+]

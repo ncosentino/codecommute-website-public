@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What is the role of a middle manager in reducing chaos for software engineering teams?",
+    "answer": "As a middle manager, I believe it is my responsibility to reduce chaos for the team by managing information flow and prioritizing work effectively. I receive input from multiple directions and must filter and prioritize tasks and information to avoid overwhelming the team and ensure they focus on the highest priority items."
+  },
+  {
+    "question": "How do you handle prioritization of work when multiple urgent requests come from different stakeholders?",
+    "answer": "I handle prioritization by ruthlessly evaluating all incoming requests and having hard conversations about trade-offs. If a new task is truly a priority, I will adjust the team's workload accordingly, but I also communicate clearly which existing tasks will be delayed or cut to accommodate the new work. This prevents piling on unprioritized tasks and helps maintain focus on impactful work."
+  },
+  {
+    "question": "Why is simply delegating tasks without prioritization considered a lazy approach in engineering management?",
+    "answer": "Simply delegating tasks without prioritization is lazy because it introduces chaos by overwhelming team members with unfiltered work. Effective management requires balancing priorities, cutting unimportant tasks, and ensuring the team is focused on the most valuable work rather than just keeping people busy. Without this, sprint commitments are missed and the team’s effectiveness suffers."
+  }
+]

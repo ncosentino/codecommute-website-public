@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How do you manage collaboration across multiple time zones in a remote-first company?",
+    "answer": "I manage collaboration across multiple time zones by designating specific days and time slots for cross-time-zone meetings, where team members agree to overlap their working hours. For example, North American Pacific time might have meetings between 5 and 6 p.m., which corresponds to early morning meetings for teams in China. We also emphasize asynchronous communication to reduce delays and avoid burnout from unsustainable meeting times."
+  },
+  {
+    "question": "What strategies do you recommend for onboarding new team members in different time zones?",
+    "answer": "Onboarding new team members across time zones can be challenging due to the need for close collaboration. I recommend creating an onboarding strategy that might include rotating volunteers who adjust their work hours temporarily to overlap with new hires. It's important to acknowledge the extra effort by allowing these volunteers compensatory time off, ensuring the process is sustainable and doesn't lead to burnout."
+  },
+  {
+    "question": "How do you effectively use asynchronous communication to improve cross-time-zone collaboration?",
+    "answer": "I encourage teams to do as much work asynchronously as possible, such as reviewing documents ahead of time rather than reading them together in meetings. This allows synchronous meetings to focus on discussing key issues and making decisions. Additionally, I promote clear handoffs between time zones, where one team progresses work during their day and passes it on to another team to continue, keeping projects moving efficiently despite time differences."
+  }
+]

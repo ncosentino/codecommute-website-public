@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How can AI tools improve the experience of on-call engineers in large organizations?",
+    "answer": "I believe AI tools can help on-call engineers by providing consistent ways to get information and freeing up their time. Instead of being overwhelmed by alerts, AI can help answer common questions or guide investigations, reducing the need to bother others. This allows engineers to focus on critical issues rather than repetitive tasks."
+  },
+  {
+    "question": "What challenges arise from having multiple AI agents for different tasks in a development environment?",
+    "answer": "From my experience, having many single-purpose AI agents can cause discovery challenges because engineers have to interact with multiple agents individually. This disperses data and complicates workflows. I advocate for building tools that allow agents to hook into a unified system rather than creating a new agent for every task."
+  },
+  {
+    "question": "How do large organizations balance the need for innovation with security and privacy requirements when building new tools?",
+    "answer": "In my work, I see that while experimentation is encouraged, there is significant red tape related to security and privacy that can slow down development. This is warranted because of the sensitive nature of the systems we work on. I try to understand the security guidelines so I can guide my team on what is allowed and help them navigate these requirements effectively."
+  }
+]

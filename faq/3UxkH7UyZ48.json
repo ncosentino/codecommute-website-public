@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How should a junior developer handle sprint commitments they feel unable to meet?",
+    "answer": "I believe it's important to push back on the scope of work if it feels unmanageable. You should raise awareness early and often during the sprint, especially in daily standups, to communicate if you're falling behind or stuck. Waiting until the end of the sprint to reveal issues is much worse and can damage trust."
+  },
+  {
+    "question": "What role does communication play in managing sprint work and challenges?",
+    "answer": "Communication is crucial; you need to openly share when you're blocked or behind schedule. Using meetings like daily standups to raise your hand and ask for help creates a safe environment for support. This helps the team adjust and find solutions before problems become surprises at the sprint's end."
+  },
+  {
+    "question": "What should a developer do if they have tried raising issues but see no change in their team's sprint process?",
+    "answer": "If you've tried pushing back on scope and raising awareness but nothing changes, it may be time to consider looking for another team. Not every team dynamic fits everyone, and sometimes the best action is to find a team where healthy conflict and support are encouraged. This doesn't mean you're bad, just that the current environment might not be right for your growth."
+  }
+]

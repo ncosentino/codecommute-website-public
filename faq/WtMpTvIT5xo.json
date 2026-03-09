@@ -1,0 +1,14 @@
+[
+  {
+    "question": "Why did I switch from AutoFac to Microsoft's built-in dependency injection framework?",
+    "answer": "I switched from AutoFac to Microsoft's built-in dependency injection framework because Microsoft's framework has caught up and become the standard. I found myself fighting against AutoFac, and the built-in framework better aligned with the patterns I wanted to follow in my projects."
+  },
+  {
+    "question": "What is the main issue I have with the typical dependency registration pattern in Microsoft's dependency injection?",
+    "answer": "The main issue I have is that every time I add a new class, I have to manually register it in a central dependency container. This leads to large, growing lists of registrations that I find chaotic and inefficient, and I don't like having to keep going back to that central spot to add lines of code."
+  },
+  {
+    "question": "How does my open-source package Needler improve dependency injection for my projects?",
+    "answer": "Needler provides an opinionated way to scaffold dependencies so that when you add new features or routes, you don't have to manually register each dependency in a central container. It simplifies the process by allowing you to just add new components without extra registration steps, making the codebase cleaner and easier to maintain."
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What is GitHub Copilot Agent Mode and how does it work?",
+    "answer": "GitHub Copilot Agent Mode allows you to create issues in a repository and assign them to an agent that will attempt to complete the work by creating pull requests. I can create an issue on my phone, assign it to Copilot, and it will work on the task remotely, generating a draft implementation that I can review later. This mode runs in the cloud and operates independently of my local environment."
+  },
+  {
+    "question": "What are the current limitations of using GitHub Copilot Agent Mode?",
+    "answer": "So far, I've found that the agent mode can be quite slow and the results are often not very good, sometimes taking over 10 minutes for simple tasks. The code generated can be off or require a lot of handholding, and it sometimes goes off the rails even on simple requests. I expect these issues to improve over time as the models and tooling get better, but right now it requires careful prompting and review."
+  },
+  {
+    "question": "How do you see GitHub Copilot Agent Mode impacting software development and team workflows?",
+    "answer": "I think agent mode could be very helpful for delegating mundane or low-priority tasks that don't justify pulling developers away from important work. It allows me to stay in the driver's seat for design and architecture while letting agents handle repetitive or trivial changes. This could free up developers to focus on more creative and high-value work, although I don't believe it will replace developers anytime soon."
+  }
+]

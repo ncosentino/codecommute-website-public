@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How should experienced software engineers prepare for coding interviews today?",
+    "answer": "I think it's wise to be comfortable interviewing within a few weeks to a month. Many people still use resources like LeetCode, even though I personally don't favor it much. Practicing coding questions is important because many companies still focus on these, but I recommend balancing this with system design and behavioral preparation."
+  },
+  {
+    "question": "What is the best approach to preparing for system design interview questions?",
+    "answer": "I recommend studying high-level examples of systems like Uber, Netflix, and Twitter to understand why they made certain design decisions. Instead of memorizing exact implementations, focus on understanding building blocks like queues, eventual consistency, and resiliency. Also, practice clarifying requirements and constraints during the interview to adapt your design accordingly."
+  },
+  {
+    "question": "How can candidates effectively prepare for behavioral interviews in software engineering?",
+    "answer": "I believe it's crucial to understand the point behind behavioral questions, which usually focus on interpersonal interactions rather than technical details. I advise practicing your stories ahead of time, tagging them with themes like collaboration or conflict resolution, so you can recall them easily during interviews. This preparation helps reduce stress and allows you to navigate behavioral questions more confidently."
+  }
+]

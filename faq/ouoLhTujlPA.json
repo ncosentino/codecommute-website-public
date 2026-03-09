@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How should I start mentoring mid-level engineers who are already productive and independent?",
+    "answer": "I would start by building trust and respect with them, as this is crucial for effective communication. Demonstrating accountability by following through on commitments and showing genuine care helps establish this trust. It's important not to rely solely on your title or seniority but to earn their respect through your actions."
+  },
+  {
+    "question": "What should I do if mid-level engineers don't know what areas they want to focus on for growth?",
+    "answer": "If they don't self-identify growth areas, I recommend putting in effort to explore different angles for development. Encourage them to reflect on their work and challenges to identify potential areas for improvement. As a mentor, you can help guide this reflection and periodically revisit the conversation to help them start self-identifying goals."
+  },
+  {
+    "question": "How can I avoid conflicting guidance between myself as a mentor and the engineers' manager?",
+    "answer": "I make sure to stay in sync with the manager by regularly communicating about the mentorship progress and the mentees' development areas. Using one-on-one meetings to align on goals and feedback helps prevent mixed messages. Additionally, I use the mentees as a feedback channel to understand the manager's expectations and incorporate that into my guidance."
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "question": "Why did I decide to shave my head and go bald?",
+    "answer": "I decided to shave my head because I was losing my hair and it was getting really thin, especially in the back. I was having to get my hair cut every week to hide it, which I wasn't a fan of, so I figured it was time to shave it off for good."
+  },
+  {
+    "question": "How do I handle disagreements and criticism on the internet regarding my programming opinions?",
+    "answer": "When I share my perspective, like my preference for iterative approaches over recursion, I welcome constructive debate and different opinions. However, I sometimes encounter people who attack me personally instead of debating the topic, which is frustrating and a waste of time. My goal is to encourage open discussion and learning, not to argue or be attacked."
+  },
+  {
+    "question": "What is my approach to writing automated tests for code?",
+    "answer": "I believe that not every piece of code needs automated tests, especially prototype code that I plan to throw away soon. While I love software testing, I consciously decide not to test code in scenarios where it’s not worth the effort, like when under pressure to release or when the code is temporary. I encourage others to share their perspectives on when testing might not be necessary."
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What does 'keep the end in mind' mean when thinking like a programmer?",
+    "answer": "I think 'keep the end in mind' means focusing on the big picture and the overall goal of the project. It's about knowing where you want to get to and making sure your steps move you in that direction, even if they are not perfect or complete. This helps avoid getting stuck optimizing small parts that might not impact the final outcome significantly."
+  },
+  {
+    "question": "How should I approach 'go line by line' when debugging code?",
+    "answer": "I use 'go line by line' as a method to deeply understand how the code is actually working, especially when debugging. It means carefully examining each line of code to see what it does versus what it's supposed to do, because computers execute exactly what they're told, not what we intend. This helps identify where the problem or bug is occurring."
+  },
+  {
+    "question": "Are 'keep the end in mind' and 'go line by line' contradictory approaches in programming?",
+    "answer": "I see these two phrases as valuable but used in different contexts. 'Keep the end in mind' is about zooming out to see the big picture and overall goals, while 'go line by line' is about zooming in to understand specific code details, especially during debugging. They might seem at odds but actually complement each other depending on the task at hand."
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How should software engineers approach giving feedback to their managers?",
+    "answer": "I believe it's important for software engineers to try and build a working relationship with their manager where they feel comfortable giving feedback. Many people avoid giving feedback because they think the situation is unsolvable or their manager won't listen, but investing energy into improving that relationship can lead to better outcomes. Feedback helps managers improve and supports a healthier team dynamic."
+  },
+  {
+    "question": "Do most software engineers need to be managed or micromanaged?",
+    "answer": "In my experience, most people do not need to be micromanaged, but that doesn't mean they don't need managers. Some junior developers or interns actually perform better with more guidance and check-ins. I think having a manager is essential because they help unblock work, navigate interpersonal conflicts, and support career progression, which solo or contract developers might not experience the same way."
+  },
+  {
+    "question": "What are some key roles and responsibilities of an engineering manager beyond overseeing code?",
+    "answer": "As an engineering manager, I spend a lot of time supporting people, which includes helping them get unblocked on work, addressing interpersonal conflicts, and understanding challenges outside of work that affect their performance. I also focus on career guidance and creating a high-trust, transparent relationship so feedback can flow both ways. Management is about enabling the team to succeed, not just about the technical aspects."
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How do you handle user feedback when customers suggest specific solutions for software features?",
+    "answer": "I don't blindly implement the exact solutions customers suggest. Instead, I ask them why they want the feature and what problem they're trying to solve. Understanding the motivation helps me and the engineering team come up with the best solution, which might be different from the customer's initial idea but better addresses their needs."
+  },
+  {
+    "question": "Why is it important to understand the problem behind a feature request rather than just building what the user describes?",
+    "answer": "If you just build exactly what each user describes, you risk creating a disjointed product because customers are outside the development team and have different perspectives. By understanding the underlying problem, we can design solutions that fit the overall product vision and provide a more cohesive experience."
+  },
+  {
+    "question": "Can you give an example of how you clarified a user's feature request to better understand their needs?",
+    "answer": "One user wanted to search topic streams by keyword, but after asking more questions, I realized they actually wanted to search the content within those streams, not just the streams themselves. This helped me see that they needed a way to find specific posts, which led to considering semantic search instead of just keyword search, a more effective solution for their problem."
+  }
+]

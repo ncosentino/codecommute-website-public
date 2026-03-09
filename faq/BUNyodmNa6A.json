@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How am I using AI tools like GitHub Copilot at work to handle tedious tasks?",
+    "answer": "I use GitHub Copilot to take on boring and tedious tasks like upgrading packages in our codebase. I prefer to handle these tasks myself or automate them with AI so my team can focus on more valuable and creative work without distractions. This approach helps keep the team productive and engaged with high-value projects."
+  },
+  {
+    "question": "What challenges have I faced when experimenting with AI agent swarms for development?",
+    "answer": "Setting up AI agent swarms has been quite difficult and time-consuming, involving many dependency issues and configuration problems. Additionally, the cost of running these agents can be high and potentially cost prohibitive, as I experienced my small budget being exhausted within minutes. Despite these challenges, I'm curious about their potential and want to learn more about how they work under the hood."
+  },
+  {
+    "question": "How do I integrate AI tools like Cursor and GitHub Copilot in my personal coding projects?",
+    "answer": "I use GitHub Copilot mainly for background pull request work and experimental coding, while Cursor helps me handle tasks that require context across multiple repositories, especially front-end and back-end integration. Cursor is particularly helpful for front-end UI code, which I'm less skilled at, and I switch between these tools depending on the task and their effectiveness at the time."
+  }
+]

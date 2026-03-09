@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How do I use GitHub Copilot to organize and update a large set of wiki pages for a game world?",
+    "answer": "I converted my self-hosted wiki into a GitHub repository with markdown files and asked Copilot to organize these files into folders based on categories like regions, religion, and people. Then, I instructed Copilot to update the broken links and recreate category landing pages for easy navigation. Copilot handled these tasks effectively with just high-level instructions from me."
+  },
+  {
+    "question": "What is my current workflow for using AI tools like Copilot and ChatGPT in software development?",
+    "answer": "My workflow involves offloading prototype work to Copilot to create first attempts at code, even if it's not perfect, so I don't lose track of ideas. I also use Copilot for small quality-of-life UI improvements and rely on ChatGPT for brainstorming system designs and architectural advice. Additionally, I use AI agents in the IDE to generate tests and code snippets while multitasking, balancing productivity with the current limitations of the tools."
+  },
+  {
+    "question": "How has AI helped me improve the video upload feature in my content platform?",
+    "answer": "I asked Copilot to build a multi-video upload feature that shows progress and creates disabled placeholder posts so I can upload videos in bulk without immediately posting them. To my surprise, the feature worked flawlessly the first time without me touching any code. This saved me time and effort, although I still plan to have a co-founder review the code for quality and adherence to our practices."
+  }
+]

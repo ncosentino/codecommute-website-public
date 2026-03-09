@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How do you structure technical interview questions for different experience levels?",
+    "answer": "I keep the framing of my questions roughly the same for everyone but change the constraints based on experience. For more senior candidates, I expect them to get through the bulk quicker and then I adjust parameters to see how they adapt their solution. This approach helps me maintain consistency while tailoring the difficulty to the candidate's level."
+  },
+  {
+    "question": "What is your approach to coding questions during interviews?",
+    "answer": "I avoid trick questions and focus on straightforward problems where candidates can show a working solution and discuss pros and cons. I encourage candidates to explain their thought process and catch any bugs themselves rather than stressing over perfect code. This helps me understand how they think and problem-solve rather than just testing their ability to memorize or optimize obscure tricks."
+  },
+  {
+    "question": "How do you handle behavioral interview questions effectively?",
+    "answer": "I prefer to keep behavioral questions focused around similar projects or stories to reduce the candidate's overhead in explaining new contexts. I look for a balance between individual contributions and team efforts, wanting to understand the candidate's specific role and impact. If candidates go into too much detail or off track, I gently steer the conversation back to get the most relevant information."
+  }
+]

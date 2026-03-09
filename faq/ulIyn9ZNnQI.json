@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How does AI dependency affect a developer's ability to debug and practice skills?",
+    "answer": "I noticed that some developers become so dependent on AI that they stop analyzing stack traces themselves and rely on AI to do it for them. This can lead to less practice in debugging and potentially a decline in those skills because they're not actively engaging with the problems. However, this reliance might also save time and allow them to focus on other tasks."
+  },
+  {
+    "question": "What strategies can developers use to reduce overreliance on AI in their workflow?",
+    "answer": "One approach I found interesting is setting boundaries like carving out a day of the week to avoid using AI or not using AI for tasks they haven't done before. This helps maintain their skills and keeps them engaged with the fundamentals. Reflecting on how AI fits into your development process and making adjustments based on what feels right is important."
+  },
+  {
+    "question": "Do traditional programming fundamentals still matter in the age of AI-assisted development?",
+    "answer": "I'm curious and somewhat conflicted about this. While fundamentals have been essential for learning and understanding programming concepts, AI tools might change what developers need to know deeply. It's possible that the fundamentals evolve or become less critical as AI handles more low-level details, but this is still an open question that requires time and observation to understand fully."
+  }
+]

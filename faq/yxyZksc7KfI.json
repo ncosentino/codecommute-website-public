@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How should I prepare for technical interviews when trying to break into big Tech companies?",
+    "answer": "I recommend brushing up on LeetCode problems because they are a common part of the interview process. Additionally, practice system design questions, which are often open-ended and require you to ask clarifying questions to optimize for the right requirements. You can also use AI tools like ChatGPT to simulate interview questions and practice problem-solving in a realistic way."
+  },
+  {
+    "question": "What should I consider when deciding if the grass is greener on the other side in big Tech?",
+    "answer": "I think it's important to understand why you want to work at a big Tech company and what you expect from it. The grass isn't always greener; you might face challenges like burnout, lack of promotion, or unsatisfying work. Be honest with yourself about what fulfillment, compensation, and engagement mean to you, and consider if the company can provide those before making a move."
+  },
+  {
+    "question": "Why do some candidates get ghosted after interviews, and how should I handle it?",
+    "answer": "I believe ghosting is a bad practice and companies should at least have automation to send rejection notices. Unfortunately, sometimes candidates get ghosted due to factors beyond their control, like budget constraints or headcount issues. It's important not to blame yourself if you did well; sometimes another candidate is just a tiny bit better or external factors affect hiring decisions."
+  }
+]

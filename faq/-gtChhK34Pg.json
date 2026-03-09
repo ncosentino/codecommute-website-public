@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How can I tell if I'm ready to start applying for entry-level software developer jobs?",
+    "answer": "I recommend checking if you have the motivation and drive to apply, if you know where to look for jobs like on LinkedIn or company career pages, and if you have a portfolio and resume that showcase your projects. If you feel comfortable spinning up an app or building software without panicking, that's a good sign you're ready to start applying."
+  },
+  {
+    "question": "What should I expect during the software developer interview process?",
+    "answer": "You should be prepared for coding questions, often similar to LeetCode problems, system design or architecture questions depending on your level, and behavioral interview questions. It's important to practice all these areas, understand what interviewers are asking, and focus on demonstrating both your technical and soft skills."
+  },
+  {
+    "question": "How do I know if I'm ready to perform the actual job as a software developer?",
+    "answer": "A good litmus test is whether you can build and contribute to apps or projects without relying solely on tutorials. If you can navigate existing codebases, understand how to structure apps, and solve problems by getting stuck and then learning, you're likely ready. Also, consider if you can work with others, handle code reviews, and meet deadlines, as these are common in software development roles."
+  }
+]

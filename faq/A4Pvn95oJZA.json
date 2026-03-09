@@ -1,0 +1,14 @@
+[
+  {
+    "question": "Why do developers become cynical over time?",
+    "answer": "I believe developers become cynical because they repeatedly see patterns where efforts to change things don't lead to the desired outcomes. Over time, this trains them to expect that similar efforts won't succeed, leading to skepticism and pushing back on new initiatives that seem like repeats of past failures."
+  },
+  {
+    "question": "How do I manage my cynicism to avoid being overly negative at work?",
+    "answer": "I try to maintain awareness of my cynical tendencies so I don't automatically reject new ideas without proper analysis. Awareness helps me pause and consider whether a situation is truly the same as past failures or if there are new variables that might lead to a different outcome. This balance helps me avoid self-sabotage and supports making unbiased decisions."
+  },
+  {
+    "question": "Why am I cynical about software rewrites and refactoring?",
+    "answer": "From my experience, I am very cynical about rewrites because they often take much longer than expected and miss features, making it hard to reach feature parity. Similarly, refactoring can unintentionally turn into large rewrites that consume weeks of effort. I've seen these scenarios fail many times, so my skepticism comes from having witnessed these challenges repeatedly, not from a place of negativity but from learned experience."
+  }
+]

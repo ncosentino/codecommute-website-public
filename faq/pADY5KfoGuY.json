@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What should I focus on during my first day as a new developer at a company?",
+    "answer": "On your first day, I recommend trying to get your development environment set up so you can run or compile code locally. This is a crucial milestone because being able to develop locally means you can start contributing tangible value to the team. Also, try to connect with your manager and see if you can meet someone who can guide you through the domain or system overview."
+  },
+  {
+    "question": "How can I effectively onboard myself if the company has poor onboarding processes?",
+    "answer": "If the company lacks good onboarding, I suggest proactively networking early with your team members to identify subject matter experts. Try to get some training or explanations about the domain or product from experienced colleagues. Additionally, take notes and update or create onboarding documentation to help yourself and future new hires."
+  },
+  {
+    "question": "How should I approach learning a new programming language like PHP when starting a new developer role?",
+    "answer": "Don't be afraid if you don't know PHP at first; I believe that if you know other programming languages, you can learn the new one with practice. It might feel awkward initially, but you will see commonalities and improve over time. The key is to jump in and start practicing rather than fearing it, because you won't get better by avoiding it."
+  }
+]

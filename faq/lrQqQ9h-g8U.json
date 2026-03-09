@@ -1,0 +1,14 @@
+[
+  {
+    "question": "Why did I decide to migrate my WordPress blog to a Blazor blog engine?",
+    "answer": "I decided to migrate because my WordPress blog hosted on Amazon Lightsail was frequently down and had complicated permission issues that broke functionality. I wanted more control and reliability, so I chose a C#-based Blazor blog engine that I am familiar with and can extend as needed."
+  },
+  {
+    "question": "How am I handling media and content migration from WordPress to the new Blazor blog?",
+    "answer": "I re-uploaded every image from my WordPress blog to Azure Blob Storage and plan to update all image URLs to point to the new CDN location. I also wrote a simple console application to copy blog posts from the old database to the new one, applying necessary transformations like changing image prefixes."
+  },
+  {
+    "question": "What features am I planning to implement or improve in the new Blazor blog compared to WordPress?",
+    "answer": "I am working on adding features like short codes for reusable components, member access for newsletter archives, and a table of contents for SEO purposes. Since the Blazor blog engine is extensible, I can build these features myself or with help from the creator, which allows me to maintain control and customize as needed."
+  }
+]

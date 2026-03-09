@@ -1,0 +1,14 @@
+[
+  {
+    "question": "Why might an engineer add members from other teams instead of their own team to code reviews?",
+    "answer": "I think sometimes an engineer might add people from other teams because those individuals have prior knowledge or experience with the domain or code area being changed. They might have worked in that space before, so including them can provide valuable perspective even if it seems like team members are being excluded."
+  },
+  {
+    "question": "How can tooling help ensure the right reviewers are included in code reviews?",
+    "answer": "In my experience, tooling like GitHub or Azure DevOps can be set up to automatically add reviewers based on the files or paths touched in a pull request. For example, you can configure area owners so that when certain files are modified, the appropriate team members or teams are automatically added as reviewers, which helps minimize the problem of missing team members on reviews."
+  },
+  {
+    "question": "What should you do if you feel excluded from code reviews and your manager isn't addressing it?",
+    "answer": "I recommend first talking directly to the person who is adding reviewers to clear the air and understand their perspective. If that doesn't resolve the issue, then revisit the conversation with your manager, clearly explaining why it feels like a pain point. Building a positive team culture around including team members in reviews often requires demonstrating the value and publicly appreciating those who do it."
+  }
+]

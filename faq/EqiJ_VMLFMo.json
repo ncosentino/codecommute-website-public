@@ -1,0 +1,14 @@
+[
+  {
+    "question": "Whose responsibility is it to keep a feature branch up to date when teammates don't maintain it?",
+    "answer": "I believe the responsibility usually lies with the owner of the feature branch. If someone else builds on top of an unmerged feature branch, it doesn't make sense for the original owner to be accountable for keeping it up to date. Communication within the team about dependencies and priorities is key to avoid these situations."
+  },
+  {
+    "question": "What problems arise from building new features on top of unmerged or outdated feature branches?",
+    "answer": "From my experience, building on top of unfinished or unmerged feature branches can cause issues like code coupling and integration difficulties. It often happens by accident, such as forgetting to switch back to the main branch. I try to commit refactors or API changes first before building the feature on top to minimize problems."
+  },
+  {
+    "question": "How can communication improve handling of feature branches and code reviews in a team?",
+    "answer": "I find that many issues stem from poor communication rather than technical problems. For example, if someone puts up a draft pull request but doesn't clarify it's a draft, reviewers may get frustrated. I recommend openly discussing expectations, dependencies, and priorities within the team to reduce misunderstandings and improve collaboration."
+  }
+]

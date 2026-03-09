@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How should a tech lead handle a junior developer who rewrites everything they touch?",
+    "answer": "I believe the tech lead should have the authority to guide the development process and coding standards. They should try to talk directly with the developer to address the issue and, if that doesn't work, escalate it to the manager with clear evidence of the impact, such as repeated regressions and friction on the team. It's important to focus on data and objective impacts rather than personal opinions."
+  },
+  {
+    "question": "Why do I think rewriting code as a default approach is problematic?",
+    "answer": "From my experience, rewriting code most of the time causes more problems than it solves, including increased bugs and longer work timelines. While refactoring can be beneficial when done carefully by experienced developers, constantly rewriting code often destabilizes the codebase and leads to regressions, even if tests exist. I don't encourage rewriting as the default because it rarely works out as expected in practice."
+  },
+  {
+    "question": "When is rewriting code justified despite the risks?",
+    "answer": "Rewriting code can be justified in scenarios like inheriting a legacy codebase that is difficult to maintain or scale, especially in early-stage startups or when the existing code is fundamentally flawed. However, you should be honest that rewrites often lead to loss of functionality and parity gaps. It's important to accept these risks and manage expectations, knowing that rewrites are not usually the first or easiest solution."
+  }
+]

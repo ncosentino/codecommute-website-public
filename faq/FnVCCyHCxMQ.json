@@ -1,0 +1,14 @@
+[
+  {
+    "question": "Why do you ask 'stupid' questions as an engineering manager?",
+    "answer": "I ask 'stupid' questions because if I have an assumption that might be wrong, I need to clarify it rather than avoid it. Asking questions helps me learn and prevents me from running away from gaps in my understanding, which is important for my growth and for creating a culture where it's okay to ask questions."
+  },
+  {
+    "question": "How do you handle not knowing the answer to a technical question on your team?",
+    "answer": "When I don't know the answer, I openly ask others, including product managers and engineers, to gather different perspectives. Even if multiple people can't say with confidence, it's better to acknowledge the uncertainty and work together to figure it out rather than pretending to know or avoiding the question."
+  },
+  {
+    "question": "What advice do you have for junior developers who fear asking questions?",
+    "answer": "I encourage junior developers to not be embarrassed or afraid to ask questions, even if they feel the questions might seem 'stupid.' It's important to create a team culture where asking questions is normal and expected, because avoiding questions can hinder learning and career growth. I also remind them that nobody knows everything, and admitting gaps in knowledge is part of the learning process."
+  }
+]

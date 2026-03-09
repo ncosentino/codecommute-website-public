@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How can I prepare for a reverse software engineering interview to understand the company culture?",
+    "answer": "I recommend doing lots of research before the interview. Look for employee reviews on sites like Glassdoor, but be aware that reviews tend to skew negative. Try to identify common patterns or themes in those reviews, especially about culture and work-life balance. You can also reach out to current employees on LinkedIn or social media to ask about their experiences, which can give you a more genuine perspective."
+  },
+  {
+    "question": "What types of questions should I ask during a reverse interview to get a good idea of the work environment?",
+    "answer": "I suggest asking about work-life balance, team culture, and how the team handles legacy systems versus greenfield projects. You might also ask for a typical day in the life of a developer on the team, including how they collaborate across different geographies. Tailor your questions to what you personally care about, such as benefits, development processes, or team dynamics, to get meaningful answers."
+  },
+  {
+    "question": "What are some red and green flags to watch for during a reverse interview?",
+    "answer": "Red flags include answers that feel canned or scripted, or when the responses don't align with what you value, like poor work-life balance or teams stuck only maintaining legacy code without new development. Green flags are when interviewers show genuine excitement about their work and the company, which is often hard to fake. Also, if they provide detailed, specific examples rather than generic answers, that's a good sign."
+  }
+]

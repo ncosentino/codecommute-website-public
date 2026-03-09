@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How long does it typically take junior developers to ramp up at startup companies?",
+    "answer": "At startups, I generally expect junior developers to build some comfort and start contributing within about a month. The first week is usually spent getting familiar with the environment, and by the second and third weeks, they should be submitting pull requests and getting feedback. Having an onboarding buddy can significantly speed up this process by helping new hires navigate resources and build momentum."
+  },
+  {
+    "question": "Why is onboarding junior developers slower in big tech companies compared to startups?",
+    "answer": "In big tech, onboarding tends to be slower because processes and deployments move at a slower pace by design, often to ensure quality and stability. It can take several months to a year to feel fully comfortable in a role due to the complexity and size of the organization. Additionally, remote onboarding adds challenges such as isolation and difficulty reaching out for help, which can further slow ramp-up time."
+  },
+  {
+    "question": "What strategies can leaders use to help junior developers ramp up more effectively?",
+    "answer": "I recommend setting up onboarding buddies who can guide new hires through the initial period and help them get unblocked quickly. Encouraging a culture where juniors feel comfortable asking for help is critical, especially in remote environments, so creating forcing functions like scheduled check-ins or calls can help. Also, setting clear expectations and understanding that ramp-up time varies depending on the project and individual circumstances is important."
+  }
+]

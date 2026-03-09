@@ -1,0 +1,14 @@
+[
+  {
+    "question": "Why is coding not considered the bottleneck in software development?",
+    "answer": "I believe coding is not the bottleneck because most delays come from other activities like finding context, navigating legacy code, and communication challenges. Writing code itself is often quick compared to the time spent coordinating with teams, understanding problems, and waiting on reviews or approvals."
+  },
+  {
+    "question": "How does traditional education set unrealistic expectations about software development?",
+    "answer": "From my experience, traditional education focuses heavily on math, physics, and low-level technical skills with little emphasis on teamwork, communication, or working with legacy code. This sets people up to think software development is mostly about coding, which neglects the many interpersonal and contextual challenges we face in real work environments."
+  },
+  {
+    "question": "What role does communication play in software development bottlenecks?",
+    "answer": "I think communication challenges are a major cause of bottlenecks in software development. Issues like ineffective messaging, infrequent updates, or unclear documentation can delay design reviews, code reviews, and coordination between teams. Improving communication frequency and clarity can significantly reduce these delays and help projects move faster."
+  }
+]

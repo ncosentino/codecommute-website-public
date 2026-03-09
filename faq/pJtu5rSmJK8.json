@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What AI topics should senior software developers focus on to stay relevant without fully transitioning to AI engineering?",
+    "answer": "I recommend senior developers focus on three main AI topics: retrieval augmented generation (RAG), vector databases with semantic search, and AI agents. These areas help integrate AI into software development without needing to become machine learning specialists. Familiarizing yourself with these concepts can significantly improve the software you build and keep you current with industry trends."
+  },
+  {
+    "question": "How does retrieval augmented generation (RAG) work and why is it important for developers?",
+    "answer": "RAG allows AI to provide relevant context from large data sources without retraining or fine-tuning the entire model. Instead of training the AI on all your data, it retrieves pertinent information dynamically to enhance responses. This approach is useful because it leverages existing AI skills while incorporating specific data, making it efficient for tasks like coding assistance or knowledge base queries."
+  },
+  {
+    "question": "What are AI agents and how might they be used in software development?",
+    "answer": "AI agents are autonomous programs that can perform complex workflows by breaking down tasks, retrieving information, and reasoning through problems. I see potential in using agents not just to assist with coding but to build software systems that leverage multi-step decision-making and API interactions. Although I have limited experience, I believe learning how to create and integrate agents could open new opportunities for building intelligent applications."
+  }
+]

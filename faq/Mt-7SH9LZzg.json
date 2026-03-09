@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What is the primary way you use GitHub Copilot in Visual Studio?",
+    "answer": "I primarily use GitHub Copilot as a glorified autocomplete tool in Visual Studio. It helps me speed up coding by predicting common code patterns and boilerplate, allowing me to review and tweak the suggested code rather than typing everything from scratch. This autocomplete functionality significantly boosts my productivity."
+  },
+  {
+    "question": "How do you use AI tools like ChatGPT for SQL query optimization?",
+    "answer": "I use ChatGPT to help refactor and optimize SQL queries, especially to minimize round trips to the database by consolidating multiple queries into one. I provide table schemas and specific requirements, and ChatGPT generates queries that I then review and tweak. Although sometimes the generated queries need corrections and can lead to frustrating back-and-forth, overall it saves me time on complex query writing."
+  },
+  {
+    "question": "In what ways do you utilize AI for regular expressions and code refactoring?",
+    "answer": "I use AI tools like Copilot and ChatGPT to generate and refine regular expressions, especially for pattern matching in strings, which can get complicated. For code refactoring, I sometimes ask AI to rewrite code for performance improvements, such as replacing LINQ with loops in C# for critical paths. These uses help me save time on tasks I understand but find tedious or less interesting to do manually."
+  }
+]

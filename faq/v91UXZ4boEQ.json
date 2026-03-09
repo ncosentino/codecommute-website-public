@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What does a typical day look like for a software engineer at a startup?",
+    "answer": "At a startup, a typical day often starts with flexible core hours where I can begin early and get some focused programming time with headphones on. We usually have daily standups that are short and collaborative, followed by more focus time unless there are team ceremonies or meetings. I also often help other team members with their issues, which can take up a significant part of the day as I gain seniority and expertise."
+  },
+  {
+    "question": "How does the workday of a software engineer at a big tech company like Microsoft differ from a startup?",
+    "answer": "At Microsoft, the workday is mostly remote with flexible start times depending on time zones, and we don't do traditional daily standups but rather weekly sync meetings. There are significantly more meetings, including service reviews, incident reviews, and design discussions, which can reduce focus time. On-call duties are also part of the job, requiring 12-hour shifts to manage live service incidents, which adds to the complexity and interruptions during the day."
+  },
+  {
+    "question": "What strategies do you recommend for managing time and focus as a software engineer in big tech?",
+    "answer": "I recommend scheduling dedicated focus time blocks in your calendar to protect your productivity. It's important to question meeting invitations by asking if your presence is necessary and what the meeting goals are, so you can opt out if you're not adding value. Managing time zones and remote work requires flexibility, and being intentional about when and how you work helps balance meetings, on-call duties, and focused programming time."
+  }
+]

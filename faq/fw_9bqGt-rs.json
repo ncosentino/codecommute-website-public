@@ -1,0 +1,14 @@
+[
+  {
+    "question": "Why did you initially turn off functional tests in your backend system?",
+    "answer": "I initially turned off functional tests because we were doing Aspire stuff that wasn't compatible with the tests at the time. Later, I realized I needed to turn them back on, so I fixed some minor issues and re-enabled testing to improve code reliability."
+  },
+  {
+    "question": "How do you handle testing when your codebase is frequently changing?",
+    "answer": "When the codebase is in flux, especially early in product development, I find it tricky to rely solely on tests because assumptions about data flow and user interaction keep changing. I focus on pragmatic testing, investing more once parts of the system solidify and become core, to avoid wasting time testing features that might be removed or heavily changed."
+  },
+  {
+    "question": "What is your approach to mocking third-party systems in unit tests?",
+    "answer": "I prefer using mocks exclusively for third-party systems to have full control over their behavior during tests. This allows me to simulate exceptions and edge cases that are hard to reproduce with real systems. However, I acknowledge that if the third-party API changes unexpectedly, these mocks might not catch it until I update the tests."
+  }
+]

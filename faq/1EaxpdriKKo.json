@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How do you and your team manage remote collaboration for building BrandGhost?",
+    "answer": "My team and I work very effectively asynchronously since we all have different strengths and are remote from each other. We divide tasks based on our skills, like front-end design or API development, and communicate through calls or chat. Occasionally, we meet in person to brainstorm and work together, which significantly boosts our productivity and clarity."
+  },
+  {
+    "question": "What challenges are you facing with handling media uploads and URLs in BrandGhost's API?",
+    "answer": "Currently, our system requires a public URL to post media to social media, which is simple but prone to user errors like incorrect URLs. We want to support uploading content to blob storage with internal resource IDs, but this complicates the API because callers need to upload media first to get a resource ID. We aim to support both URLs and resource IDs to keep the API flexible and user-friendly."
+  },
+  {
+    "question": "How do you plan to handle the latency issue when uploading large media files through the API?",
+    "answer": "Uploading large media files can take multiple seconds, which is a poor experience if callers have to wait on the HTTP request. To solve this, we plan to return results immediately and handle the upload asynchronously using a job scheduling framework called Quartz. This allows background processing of uploads while keeping the API response fast and simple for users."
+  }
+]

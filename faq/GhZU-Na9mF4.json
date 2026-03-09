@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How did you use AI to build C# source generators over the weekend?",
+    "answer": "I used the Copilot CLI tool to help build a source-generated dependency injection helper framework called Needler. I relied on AI to write much of the tedious source generation code automatically, which saved me from writing it by hand. This allowed me to experiment with new ways of building software using source generation, even though I have limited prior experience with it."
+  },
+  {
+    "question": "What challenges did you face when using AI to develop source generators and analyzers?",
+    "answer": "One challenge was that the AI sometimes created test scenarios based on fabricated attributes that don't exist outside the test code, which was misleading. Also, because source generation and analyzers are meta and complex, the AI-generated tests passed but missed integration issues. I had to be vigilant in reviewing tests and realized I need more prescriptive tests that exercise real code scenarios to avoid gaps."
+  },
+  {
+    "question": "Why did you find using the Copilot CLI enjoyable despite preferring an IDE?",
+    "answer": "Although I usually prefer building in an IDE like Visual Studio and dislike using terminals, I found the Copilot CLI enjoyable because it fit well with building a library like Needler. The CLI workflow felt good for this kind of development, and once I got into a groove using it, I appreciated how fast and effective it was for iterating on source generation features."
+  }
+]

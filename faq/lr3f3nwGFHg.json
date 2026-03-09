@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How do you manage burnout and time off when work piles up after vacation?",
+    "answer": "I find that taking time off can sometimes make more work pile up, which is frustrating. Ideally, you should be replaceable enough in your role so that work doesn't accumulate while you're away, but I acknowledge I don't have a perfect solution for this. I try to be mindful of balancing my responsibilities and avoid back-to-back stressful commitments to prevent burnout."
+  },
+  {
+    "question": "What role does your wife play in helping you maintain work-life balance?",
+    "answer": "My wife helps me prioritize taking breaks and vacations, which I personally struggle with because I tend to push myself to the max. She encourages me to take time off and do things like weekend trips, which helps me maintain a better balance. Without her, I probably wouldn't take enough time off to recharge."
+  },
+  {
+    "question": "How do you use AI tools like GitHub Copilot in your software development workflow?",
+    "answer": "I use GitHub Copilot to prototype code quickly by speaking my ideas into issues or pull requests, which saves me time. Sometimes the code it generates isn't perfect, but it gives me a starting point to review and decide if I want to use that approach. I also use it asynchronously to add tests and make iterative improvements, which helps me be more productive without doing all the manual work myself."
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "question": "Why do you prioritize product focus over technology focus in software development?",
+    "answer": "I prioritize product focus because customers pay for the value the product delivers, not for clean code. From my experience at a startup, focusing on product features and customer needs was key to acquiring and retaining users, which ultimately drives business success. Technology and code quality are important, but they should support the product goals rather than overshadow them."
+  },
+  {
+    "question": "How should engineers communicate the need to address tech debt to business stakeholders?",
+    "answer": "Engineers need to convey the business value of addressing tech debt by explaining how it impacts development time, feature delivery, or system stability. Instead of just saying the code needs to be cleaner, I recommend framing it as an investment that reduces future costs or accelerates product improvements. This approach helps business decision-makers understand why prioritizing tech debt is important."
+  },
+  {
+    "question": "How does your focus differ when working on platform teams compared to startups?",
+    "answer": "On platform teams like at Microsoft, I focus more on sustainability and maintaining a stable codebase because the users are internal partners who rely on our APIs. Unlike startups where the priority is rapid feature delivery to acquire customers, platform work involves refining APIs and improving performance, such as reducing latency in caching, which often requires code cleanup and refactoring. This shift requires balancing product needs with long-term technical health."
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "question": "When should I choose to write my own code instead of using a dependency for a personal project?",
+    "answer": "If my goal is to learn, I prefer to write my own code rather than use dependencies. Building something myself helps me understand how it works deeply, even if the result isn't production quality. For example, when learning about network connectivity, I built a chat app from scratch to grasp sockets and messaging payloads."
+  },
+  {
+    "question": "How do I decide whether to build or buy software components for a business project?",
+    "answer": "In a business context, I usually start by exploring existing options because many problems are already solved and well-supported. If the component isn't core to our business, I prefer to use a dependency to save time and focus on delivering value. However, if owning and controlling the technology offers a competitive advantage or flexibility, I might choose to build it myself despite the extra maintenance effort."
+  },
+  {
+    "question": "What factors should I consider when taking on dependencies in a software project?",
+    "answer": "I consider maintenance and support levels when using dependencies. If a dependency is critical and breaks, I need to decide if I can wait for fixes or if I should maintain my own version. Also, I evaluate if the dependency is well-maintained, how active its community is, and whether paid support is worth the cost for business risk management."
+  }
+]

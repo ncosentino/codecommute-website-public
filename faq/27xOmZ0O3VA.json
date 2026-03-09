@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What are the two major API approaches for posting media to social media platforms?",
+    "answer": "I see two major flavors for posting media via APIs: one where you provide the social media provider with a URL to your media, and the other where you stream the media bytes directly to their server. The streaming approach can be further divided into simply streaming continuously or chunking the data to allow resumable uploads."
+  },
+  {
+    "question": "Why is BrandGhost migrating to Azure Blob Storage for media hosting?",
+    "answer": "BrandGhost started by requiring users to host their own media with public URLs, but this became a usability problem. Migrating to Azure Blob Storage allows us to host media ourselves, which simplifies content management and supports both URL-based and chunked streaming uploads to social media platforms."
+  },
+  {
+    "question": "What user experience challenges does hosting media in Blob Storage introduce for BrandGhost?",
+    "answer": "Hosting media in Blob Storage means we need to figure out how users will browse and select their media, especially when they have many files. We might need to build a file explorer or simplify by letting users upload media only when creating content, possibly requiring re-uploads if the same media is used multiple times, to keep things simple and manageable."
+  }
+]

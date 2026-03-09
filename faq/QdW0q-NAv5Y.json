@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How do you approach converting a dependency injection library from reflection to source generation in C#?",
+    "answer": "I wanted to convert my dependency injection library to use source generation because reflection can break with trimming and is historically slow. Since I know all the plugin information at compile time, source generation allows me to generate the necessary code during compilation, making it much faster and compatible with trimming. I used Claude in planning mode to help generate the initial code, then iterated with GitHub Copilot CLI and Visual Studio to refine and fix issues."
+  },
+  {
+    "question": "What are the differences in your experience using Claude Code versus GitHub Copilot CLI for AI-assisted development?",
+    "answer": "I initially tried Claude Code because I like its extensibility and the ability to interrupt the agent to keep it on track. However, I ran into usage limits and some trust issues with the tests it generated. When I switched to GitHub Copilot CLI, my first experience was poor due to wrong model selection, but after switching to the Opus model, it worked very well. Copilot CLI lacks a built-in planning mode like Claude, but I can still have planning conversations with it. Overall, I found a good back-and-forth workflow between Copilot CLI and Visual Studio."
+  },
+  {
+    "question": "How do you decide which AI tooling to use for different development tasks?",
+    "answer": "I use different AI tools depending on the task and context. For research and API surface exploration, I prefer ChatGPT because of its research mode and easy browser access. For architecture design and large feature planning, I like GitHub Copilot in GitHub Spaces for its chat-style interaction and ability to handle repositories in the cloud. For hands-on coding and refactoring, I use GitHub Copilot in Visual Studio for better control and integration. The choice depends on the tool's capabilities, interface, and what fits my workflow best."
+  }
+]

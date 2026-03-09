@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How can software engineers identify layoff-resistant roles based on my experience at Microsoft?",
+    "answer": "From my experience at Microsoft, layoff-resistant roles tend to be in core infrastructure teams that support essential services, like deployment or routing, because if these teams stopped functioning, it would cause major problems. These roles are not layoff-proof, but they are more stable since they keep critical systems running. However, these jobs might involve more maintenance and less flashy new feature development, which can affect learning opportunities."
+  },
+  {
+    "question": "How should someone with an unusual background, like moving from AAA game development to web development, approach job interviews?",
+    "answer": "I recommend leaning into what makes your background unique and valuable. For example, if you have experience optimizing game engines, highlight those skills as a specialty that generalist web developers might not have. Also, ensure you cover the core web development technologies required for the role through side projects or professional experience, so you can demonstrate you can work effectively in that domain while standing out with your unique skills."
+  },
+  {
+    "question": "What factors should software engineers consider when evaluating compensation and job stability across startups, midsize companies, and big tech?",
+    "answer": "Startups carry high risk but can offer high compensation through equity and learning opportunities, though most fail. Big tech companies traditionally pay well and were seen as stable, but recent layoffs show no guarantees. Midsize companies might offer a balance with moderate compensation and stability. Ultimately, compensation varies widely, so I advise researching each opportunity carefully and considering your risk tolerance and career goals before deciding."
+  }
+]

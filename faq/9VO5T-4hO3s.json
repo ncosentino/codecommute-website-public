@@ -1,0 +1,14 @@
+[
+  {
+    "question": "Why do software engineers often struggle with being kind to themselves?",
+    "answer": "I think many software engineers find it easier to be kind and empathetic to others, like colleagues or junior engineers, but they don't give themselves the same treatment. We often set high bars for ourselves to keep improving, but being too hard on ourselves can feel crippling and unsustainable. The key is to try and transform the motivation from avoiding being bad to striving to be good, and to be kind to ourselves in the process."
+  },
+  {
+    "question": "How should feedback be given in software engineering teams to avoid negative experiences?",
+    "answer": "I believe feedback should be situational and considerate of the team dynamics. While some teams with strong trust and friendship can handle direct or sarcastic feedback without offense, most teams cannot. It's important to be aware of who is receiving the feedback, especially new team members, and to avoid blanket statements about just being direct without considering others' feelings or awareness."
+  },
+  {
+    "question": "What role does awareness play in communication and feedback among software engineers?",
+    "answer": "Awareness is crucial because it affects how feedback is given and received. People who lack awareness may not understand the impact of their words or the need to adapt communication based on the audience. I’ve seen that when both the person giving feedback and the person receiving it put in effort—like explaining points clearly and not taking things personally—it leads to better collaboration and teamwork."
+  }
+]

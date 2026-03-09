@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What is Brand Ghost and why did you start building it?",
+    "answer": "Brand Ghost is an automation tool I built to systemize my content creation and social media posting. I started building it because content creation is a lot of work, and I wanted to avoid spending time on draining tasks that make me uninterested. It helps me schedule and post evergreen content efficiently across multiple social media platforms."
+  },
+  {
+    "question": "How do you plan to handle notifications for post failures in Brand Ghost?",
+    "answer": "I'm designing a notification system to handle post failures by aggregating errors over time to avoid spamming users with too many alerts. Instead of sending an email for every failure, I plan to batch notifications within time windows and implement a back-off policy. Initially, notifications will be sent to our development channel to test the cadence before deciding on the best approach for end users."
+  },
+  {
+    "question": "What challenges have you faced with scheduling and scaling Brand Ghost?",
+    "answer": "One challenge was that Azure automatically scaled up our backend server, which caused the single-instance scheduler to run multiple times and send duplicate social media posts. I designed the system assuming a single-instance scheduler to simplify concurrency, so this automatic scaling created unexpected issues. Managing these scaling behaviors and ensuring reliable scheduling has been an important part of the development process."
+  }
+]

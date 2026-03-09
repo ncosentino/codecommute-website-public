@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How do you handle feature requests and feedback from users while developing BrandGhost?",
+    "answer": "I prioritize incorporating user feedback immediately, especially now that we have people actively using the platform. This means shifting gears from just making things functional to improving usability and fixing small bugs. I appreciate all feedback, whether critical or just feature requests, because it helps guide development and improve the product."
+  },
+  {
+    "question": "Why is investing in automated testing infrastructure important for BrandGhost's backend development?",
+    "answer": "As more users add content, I can't risk breaking things by making untested changes, especially in the database. Investing in automated tests gives me confidence that new features won't cause regressions or break existing functionality. Although building testing infrastructure takes time, it ultimately speeds up development and reduces risk by allowing me to safely experiment and iterate."
+  },
+  {
+    "question": "What challenges do you face when scheduling posts across multiple social media accounts in BrandGhost?",
+    "answer": "One challenge is allowing different posting schedules for each social media account within the same topic stream. For example, one account might post twice a week while another posts once. This raises questions about whether each account should post the same content on the same day or track which pieces of content it has posted individually. Balancing this flexibility with usability is complex, and we need to design it so users aren't confused or frustrated."
+  }
+]

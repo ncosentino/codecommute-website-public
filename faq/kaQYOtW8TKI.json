@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How does Brand Ghost currently handle recurring social media content scheduling?",
+    "answer": "Brand Ghost primarily allows you to schedule content on a recurring basis across social media platforms. This is the main feature of the platform right now, designed to save users time and money by automating regular posts."
+  },
+  {
+    "question": "What new feature is being developed to support one-off social media posts in Brand Ghost?",
+    "answer": "I am building a feature to support one-off posts or scheduled posts that are not part of a recurring chain. This will allow users to post individual pieces of content across multiple platforms with one click, which is something I personally need and currently work around manually."
+  },
+  {
+    "question": "Why is the backend functionality for scheduled posts being developed before the user interface in Brand Ghost?",
+    "answer": "I build out the backend functionality first and use it myself to validate the use case and usefulness. This approach lets me prove the feature's value before investing time in making the user interface pretty and functional. If users show interest, we then focus on UI development; if not, we can stop investing in that feature."
+  }
+]

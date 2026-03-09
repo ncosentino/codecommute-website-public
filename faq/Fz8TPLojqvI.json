@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How can engineering team members help unblock each other during code reviews?",
+    "answer": "I try to jump into activities like code reviews or design document reviews to unblock people as much as possible without derailing my own work. It's important to get to pull requests quickly to reduce waiting time, and normalizing reminders in chat when reviews are pending helps improve team productivity and culture."
+  },
+  {
+    "question": "Why is maintaining onboarding and on-call documentation important for an engineering team?",
+    "answer": "I believe onboarding and on-call documentation are crucial because they help team members quickly understand functionality and mitigate issues during incidents. Good documentation reduces the need to learn from source code during emergencies, making it easier for on-call engineers to troubleshoot and resolve problems efficiently."
+  },
+  {
+    "question": "What is your advice on giving feedback within an engineering team?",
+    "answer": "I recommend giving honest feedback early, including both positive recognition and constructive criticism. Setting a goal to give at least one person positive feedback each week can boost confidence and team morale. For critical feedback, building trust and working relationships first makes it easier to communicate effectively and helps the feedback be received positively."
+  }
+]

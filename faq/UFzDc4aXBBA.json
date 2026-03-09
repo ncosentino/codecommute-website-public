@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What skills should new graduates focus on to secure their first developer job?",
+    "answer": "I recommend understanding the specific requirements of the roles you're targeting by scanning job postings to identify common tech stacks and languages. Then, focus your time and energy on building projects using those technologies to gain experience and strengthen your resume."
+  },
+  {
+    "question": "How important is building projects for new developers without work experience?",
+    "answer": "Building projects is extremely helpful because it accelerates your resume development and demonstrates your interest in learning and working with different technologies. Even projects that don't have users or commercial value show that you took initiative to learn and apply skills, which can set you apart from others without experience."
+  },
+  {
+    "question": "How should new developers prepare for technical interviews?",
+    "answer": "Interviewing is a skill that requires dedicated practice, so I recommend carving out time to prepare thoroughly. While coding and system design questions are common, behavioral questions are also crucial, especially for engineering manager roles. Being comfortable with all these areas before interviewing will improve your chances of success."
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How can a software engineer start improving their soft skills early in their career?",
+    "answer": "I recommend starting early by practicing written communication through learning in public, such as writing about what you're learning or making video entries to articulate ideas. Working on projects with others, contributing to open source, or collaborating on team projects in school or boot camps are great ways to practice soft skills. If you don't have collaborative projects, you can create opportunities by posting online to find people to build with or by discussing your work with friends or family."
+  },
+  {
+    "question": "What is one of the most important soft skills for software engineers to focus on, and why?",
+    "answer": "Communication is one of the most important soft skills I believe software engineers should focus on. In my experience as an engineering manager, many challenges come down to communication issues, such as unclear messages or failing to communicate important information. Tailoring your communication to your audience's background and technical level can make a dramatic difference in effectiveness and help build trust and understanding."
+  },
+  {
+    "question": "How should software engineers approach giving and receiving feedback to improve their soft skills?",
+    "answer": "I advise practicing both giving and receiving feedback thoughtfully. When giving feedback, especially to junior team members, focus on empathy and constructive comments rather than just pointing out flaws. If trust and respect are low, soften your feedback to build relationships first. When receiving feedback, actively ask for specific input from your manager or peers to improve, rather than waiting passively for generic comments."
+  }
+]

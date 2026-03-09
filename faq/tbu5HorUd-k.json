@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How should I handle a developer who ignores code review comments and removes reviewers without discussion?",
+    "answer": "I recommend starting with a conversation to seek alignment. Be genuinely curious about their reasoning instead of being confrontational. Try to understand why they chose a different approach and why they removed reviewers. If needed, escalate to a manager for support, but always aim to resolve it through communication first."
+  },
+  {
+    "question": "What is the importance of alignment in code reviews and team standards?",
+    "answer": "I believe alignment is crucial both on the direction of the codebase and the code review process itself. Without alignment, there is friction and wasted energy. Code reviews should be an opportunity to reach consensus on what goes into the codebase, and any deviations should be discussed clearly with reasons provided."
+  },
+  {
+    "question": "How do you suggest dealing with evolving codebase patterns and inconsistent standards?",
+    "answer": "In my experience, codebases evolve and accumulate different patterns over time. It's important to refer to the current preferred patterns during reviews and use those moments as teaching opportunities. If you are introducing a new pattern, discuss it offline with colleagues to reach agreement before blocking work in reviews. Trying to fix everything at once can slow development too much."
+  }
+]

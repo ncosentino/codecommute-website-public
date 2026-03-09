@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What challenges did you face using AI agents like Cursor for refactoring repetitive code?",
+    "answer": "I found that Cursor often failed to produce compiling code and missed spots in the refactor, requiring me to manually fix everything it touched. It also removed critical calls in the code, causing important features to break. Overall, it was a huge distraction and not a time saver because I had to redo much of the work."
+  },
+  {
+    "question": "How does the context size of a codebase affect the effectiveness of AI agents in coding tasks?",
+    "answer": "The large context size of my codebase, with over 100 projects and many plugins, seems to overwhelm the AI agents like Cursor. Even when focusing on a few projects at a time, the agent struggles to handle the broad context effectively. This limitation appears to be a key reason why the agent mode is currently ineffective for large-scale refactoring."
+  },
+  {
+    "question": "What is your current stance on AI replacing software developers based on your experience?",
+    "answer": "Based on my experience, AI agents are not yet capable of replacing developers, especially for complex or repetitive tasks. They often produce incorrect or incomplete code that requires significant human intervention. While I believe AI will improve and become more useful in the future, right now it's laughable to think developers can be replaced by these tools."
+  }
+]

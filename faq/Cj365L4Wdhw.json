@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How does transitioning from a senior software engineer to a tech lead or engineering manager change relationships with colleagues?",
+    "answer": "When I transitioned from an individual contributor to a technical manager role, I was still writing code on the team, which created a unique dynamic where I was both a peer and a manager. I consciously worked to make people feel like I was their peer in technical discussions while still making executive decisions when necessary. I also made sure to include voices from all team members, including junior engineers, to foster an environment where decisions were team-driven rather than manager-imposed."
+  },
+  {
+    "question": "What are some common challenges faced when moving from an individual contributor role to an engineering manager role?",
+    "answer": "One major challenge is realizing that people management takes up much more time than coding, including career discussions, interpersonal conflicts, and personal issues affecting team members. Another challenge is overcoming the instinct to solve problems by coding yourself instead of empowering the team to address issues. Additionally, success metrics shift from individual technical contributions to enabling the team's success, which can feel strange and requires building trust and respect over time."
+  },
+  {
+    "question": "How does the role of a technical manager vary between different organizations?",
+    "answer": "In smaller companies or teams, technical managers often continue to write code while managing people, which can be a difficult balance. Some organizations expect managers to remain hands-on technically, while others expect them to focus more on people management. I believe that as you grow as an engineering manager, you spend less time coding and more time multiplying your impact through your team, and this transition varies depending on the organization's structure and expectations."
+  }
+]

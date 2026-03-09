@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How can meetings be managed to ensure remote participants have equal opportunities to contribute?",
+    "answer": "I make it a huge point in meetings to monitor people's hands going up and model the behavior of calling on those who have their hand raised before speaking. This helps prevent people in the main office from dominating the conversation and ensures remote participants get a chance to speak. It's about making everyone play by the same rules regardless of location."
+  },
+  {
+    "question": "What is your approach to encouraging remote employees to reach out for help during onboarding?",
+    "answer": "I recommend proactively reaching out to new remote employees regularly to check in with them and offer help, rather than waiting for them to initiate contact. I also encourage managers and onboarding buddies to do the same to demonstrate that it's okay to ask for help. This proactive approach helps prevent remote employees from getting stuck and falling behind."
+  },
+  {
+    "question": "How do you handle code reviews effectively in a remote work environment?",
+    "answer": "I suggest that when code review comments start going back and forth, it's better to message the person and get on a call to chat through the issues, which expedites problem-solving. Also, it's important to develop a team culture that prioritizes completing code reviews quickly to avoid people staying blocked for weeks. Since you can't just poke someone at their desk remotely, finding effective communication methods is key."
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How can I give code review feedback without sounding bossy?",
+    "answer": "I like to structure code review feedback as learning opportunities. Instead of just telling someone to change something, I explain the pattern we're trying to follow and why, offering examples and inviting further discussion. This approach reduces defensiveness and makes the feedback feel more like coaching rather than orders."
+  },
+  {
+    "question": "What should I do if I'm a junior developer and unsure how to leave code review comments?",
+    "answer": "If you're junior and unsure, I recommend being curious and framing your comments as questions. For example, you can say, 'If I understand correctly, this code does X. Could you help me understand if this is safe or the best approach?' This way, you express a desire to learn rather than telling someone what to do, which helps avoid sounding bossy."
+  },
+  {
+    "question": "Why do people sometimes feel upset about code review feedback, and how can this be mitigated?",
+    "answer": "People often feel upset because they receive feedback late after putting a lot of effort into their code. To mitigate this, I suggest getting feedback earlier in the development process through draft PRs or design specs, which shortens the feedback loop and reduces the chance of major rework. Early feedback helps avoid frustration and promotes smoother collaboration."
+  }
+]

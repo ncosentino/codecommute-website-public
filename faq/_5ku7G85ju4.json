@@ -1,0 +1,14 @@
+[
+  {
+    "question": "Is struggling with software documentation normal for beginners?",
+    "answer": "I think struggling with documentation at the beginning is normal. Some docs are clear, but others lack explanations and just list parameters without context. Over time, as you gain experience, your comprehension improves and you can interpret documentation more effectively."
+  },
+  {
+    "question": "How can AI tools help with understanding and maintaining software documentation?",
+    "answer": "I believe AI can help fill gaps in documentation by providing explanations based on method names or APIs, which can speed up understanding. However, AI might guess if it doesn't have access to the full codebase, so its explanations aren't always perfect. Still, AI can reduce the effort needed to create and maintain better documentation over time."
+  },
+  {
+    "question": "What does good software documentation look like, and can you recommend an example?",
+    "answer": "Good documentation is clear, helpful, and includes explanations and examples that make it enjoyable to read rather than just technical jargon. I recommend checking out Fusion Cache on GitHub by Jody Denetti as an example of excellent documentation that provides history, reasoning, and practical examples in a friendly style."
+  }
+]

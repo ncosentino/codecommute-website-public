@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How can junior developers improve their coding skills if they only spend 20% of their time coding?",
+    "answer": "If you're a junior developer spending only 20% of your time coding, it will take longer to build up your skills because practice is essential. Ideally, junior developers should spend more time writing or navigating code, working on level-appropriate tasks that are mostly well understood. If most of your time is in meetings, it's probably not an ideal situation for skill growth, and you should try to raise awareness about needing more coding time."
+  },
+  {
+    "question": "Why do senior developers spend less time coding compared to junior developers?",
+    "answer": "As you become more senior, you spend less time writing code and more time on other activities like designing, meeting with stakeholders, planning, strategy, and code reviews. This shift happens because you've already built up a lot of technical skills, and your role involves broader responsibilities within the software development lifecycle. Spending time outside of coding is necessary and expected at senior levels."
+  },
+  {
+    "question": "What should software engineers do if meetings are taking up too much of their coding time?",
+    "answer": "If meetings are consuming most of your time and limiting your ability to code, you should speak up and raise awareness about the issue. You can ask for clearer agendas, question why you're invited to certain meetings, and suggest improvements to reduce unnecessary meetings. It's important to carve out focused time for coding, and if your team culture doesn't support that, you should advocate for changes to protect your development time."
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "question": "Why did anchoring scheduled posts to UTC cause issues in Brandghost?",
+    "answer": "I anchored scheduled posts to UTC time, which caused problems when users switched time zones due to daylight savings time. This made posts shift by an hour, which was unexpected for users who wanted their posts to go out at the same local time consistently. This issue affected users in regions with daylight savings time changes, like the UK and Americas."
+  },
+  {
+    "question": "How did you test and implement the fix for the time zone scheduling issue?",
+    "answer": "I developed a fix that supports configurable time zones per user and tested it locally with scenarios across different time zones and daylight savings changes. To ensure safety, we ran both the old and new schedulers simultaneously in production, with the new one initially in logging mode to compare behavior. After confirming they behaved identically, I gradually switched some topic streams to the new scheduler with time zones set, proving it worked correctly before planning a full rollout."
+  },
+  {
+    "question": "What challenges did you face with time zone support in Azure SQL, and how did you resolve them?",
+    "answer": "I discovered that Azure SQL instances do not load time zone data by default, causing time zone conversion functions to return null. This was a problem because we needed proper daylight savings logic, not just UTC offsets. Fortunately, I found a one-line command to load the time zone data into Azure SQL, which fixed the issue and allowed the system to correctly convert times based on user-configured time zones."
+  }
+]

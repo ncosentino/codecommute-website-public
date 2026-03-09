@@ -1,0 +1,14 @@
+[
+  {
+    "question": "Why do you dislike LeetCode style questions in tech interviews?",
+    "answer": "I absolutely cannot stand LeetCode style questions because I think they're stupid and not relevant to real software development. In my experience, software development rarely looks like a LeetCode problem. I prefer to ask simple coding questions that focus on how candidates think through problems rather than just getting the most optimal answer."
+  },
+  {
+    "question": "What should candidates focus on after receiving a rejection without feedback?",
+    "answer": "I advise candidates to focus on what they can control, such as how well they prepare, how they perform, and how they draft their resumes. Even if you feel you did well in the interview, it's important to reflect on areas for improvement and invest time in those. Dwelling on things outside your control, like other candidates or interviewer decisions, is unproductive."
+  },
+  {
+    "question": "How do you interpret a rejection after a seemingly successful coding interview?",
+    "answer": "A rejection doesn't necessarily mean you failed the interview. It could be that other candidates performed equally well or better, or had resumes that aligned more closely with the role. Many factors outside your control influence hiring decisions, so it's important to accept that and focus on improving what you can."
+  }
+]

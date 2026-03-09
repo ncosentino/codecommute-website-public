@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What are your thoughts on switching to .NET and C# development compared to Java and JavaScript?",
+    "answer": "I have been working with C# and .NET for over 15 years and it is my programming language and ecosystem of choice. While Java has been around longer and had a more open ecosystem initially, .NET has evolved to be cross-platform and very powerful. I believe there isn't a single best programming language; each is suited for different contexts and jobs."
+  },
+  {
+    "question": "Why is JavaScript and Node.js so commonly used among new developers?",
+    "answer": "Many people start their software development journey with JavaScript, especially focusing on frontend development with HTML and CSS. There is a lot of demand and many resources aimed at junior developers for web development, which creates a cycle of learning and teaching JavaScript. Because JavaScript is the language of the web and Node.js allows JavaScript on the backend, many developers stick with what they know and use JavaScript full stack."
+  },
+  {
+    "question": "How does .NET support different types of application development beyond Windows desktop?",
+    "answer": "The .NET ecosystem now supports a wide range of development types. We have ASP.NET Core for backend web development, Windows Forms and WPF for desktop, and cross-platform mobile development options like Xamarin and its successor Maui. Additionally, Blazor allows .NET developers to do front-end web development with C#, enabling developers like me to be productive across different layers of an application using familiar tools."
+  }
+]

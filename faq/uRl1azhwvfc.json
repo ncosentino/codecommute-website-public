@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How should I spend my time practicing software engineering after taking time off post-graduation?",
+    "answer": "I believe the most important thing is to practice as close as possible to actual software engineering work. This means building projects and coding regularly, not just doing LeetCode or resume optimization. If you enjoy coding and building things, it will feel easier and more natural to carve out time for it, which is essential for ramping back up."
+  },
+  {
+    "question": "What kind of projects should I build to prepare for a software engineering job in a specific area like mobile or web development?",
+    "answer": "You should focus your projects on the area you want to work in. For example, if you want to do iOS development, build multiple iOS apps and also try building related components like backend servers or Android apps to understand the full ecosystem. This approach helps you become a well-rounded engineer and gives you relevant experience to showcase on your resume."
+  },
+  {
+    "question": "How can I effectively use my non-software development experience on my resume when applying for junior software engineering roles?",
+    "answer": "You should definitely include your non-software development experience on your resume, especially if you can highlight transferable skills like teamwork, customer interaction, or project coordination. These experiences help build confidence and show that you have valuable workplace skills alongside your side projects, which can give you an advantage over candidates who only have side projects."
+  }
+]

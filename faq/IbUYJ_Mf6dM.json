@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How can I ensure my new manager understands my impact as a developer when they lack visibility?",
+    "answer": "I recommend being vocal about the impact you're having and using one-on-one meetings with your manager to create space to talk about your contributions. It's important to zoom out from granular technical details and explain the business impact of your work. If your manager is new and unfamiliar with your area, you may need to teach them about the significance of your work until they ramp up."
+  },
+  {
+    "question": "What is the best way to communicate my progress and impact without just giving a status update?",
+    "answer": "Instead of focusing on granular technical updates like commits or unit tests, I suggest framing your progress in terms of the bigger picture and business outcomes. For example, explain how your work contributes to goals like performance improvements or unlocking new project phases. This helps your manager understand the value of your contributions beyond just the technical details."
+  },
+  {
+    "question": "How can I increase visibility of my work beyond just my manager, especially in larger organizations?",
+    "answer": "I try to find opportunities to share my team's work more broadly, such as through newsletters or tech talks within the organization. This raises awareness of what we're doing and helps demonstrate impact to other stakeholders involved in promotion decisions. You should think about what formats fit well in your organization to promote your work and its significance."
+  }
+]

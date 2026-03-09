@@ -1,0 +1,14 @@
+[
+  {
+    "question": "Should developers pull down and run code locally when reviewing pull requests?",
+    "answer": "I believe pulling down and running code locally during pull request reviews can help you understand the changes better and catch issues beyond what automated tests might find. However, I think this approach doesn't scale well for larger teams and might be addressing the problem too late in the development cycle. It's useful, but I recommend focusing on earlier collaboration and communication instead."
+  },
+  {
+    "question": "How can teams improve the pull request and code review process to reduce friction?",
+    "answer": "From my experience, having early and frequent conversations about the code and design decisions helps a lot. For example, developers can create draft pull requests early and demo their work to the team before the final review. This way, by the time the pull request is ready, reviewers are already familiar with the changes, making the review lightweight and less painful."
+  },
+  {
+    "question": "What are the benefits of involving the team in early demos and discussions before pull request reviews?",
+    "answer": "Involving the team early through demos and discussions allows everyone to align on design patterns and implementation approaches before the code is finalized. This reduces surprises during the review and helps catch issues sooner. It also fosters collaboration and makes the final pull request review more of a formality, since most concerns have already been addressed."
+  }
+]

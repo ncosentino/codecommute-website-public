@@ -1,0 +1,14 @@
+[
+  {
+    "question": "Is it common for features to 'blow up' when first released to production?",
+    "answer": "I believe that no matter how much planning and upfront work you do, there are always possibilities where things go wrong and don't work as expected. While consistent failures might indicate issues to sort through, occasional problems are normal and present opportunities to learn and improve."
+  },
+  {
+    "question": "What should a development team do when a feature fails after release?",
+    "answer": "When a feature doesn't work as hoped, whether due to crashes, performance issues, or not meeting user expectations, I think the whole team shares responsibility. We should analyze what went wrong, review our processes like testing, design, and monitoring, and make incremental improvements to avoid repeating the same mistakes."
+  },
+  {
+    "question": "Can good architecture and testing still result in feature failures in production?",
+    "answer": "Yes, even with thorough architectural design and testing, misunderstandings or incorrect assumptions about the environment can cause issues. I’ve seen cases where everything was reviewed and signed off, yet real-world factors like query performance or service throttling caused problems. This doesn’t mean the design or testing was bad, but highlights the need to catch such issues early and pivot accordingly."
+  }
+]

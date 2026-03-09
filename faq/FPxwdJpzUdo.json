@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How do you balance content creation with personal time and fitness commitments?",
+    "answer": "I try to be more effective with my time because I have commitments like CrossFit early in the morning and spending time with my wife in the evening. I plan to think through video scripts while hanging out with my wife and then record videos after she goes to bed. This way, I maintain productivity without sacrificing personal relationships or health."
+  },
+  {
+    "question": "What challenges have you faced with your website hosting and how are you addressing them?",
+    "answer": "We experienced crazy latencies with our previous hosting on Bubble, where pages would hang for minutes, causing users to think the site was down. To fix this, we're migrating our brand's landing page to Webflow to reduce latency and improve reliability, especially before a big email blast to 50,000 people. This overhaul aims to ensure consistent fast loading times."
+  },
+  {
+    "question": "How are you planning to automate content reposting for platforms like YouTube and podcasts?",
+    "answer": "I'm working on building a system in Brand Ghost that connects to data feeds like RSS or webhooks to automatically detect new content, such as YouTube videos or podcasts, and add them to my content streams for reposting. This automation will save me from manually adding content and help scale reposting efforts. Although scalability is a concern, I plan to prototype it for myself first and then make it extensible for others."
+  }
+]

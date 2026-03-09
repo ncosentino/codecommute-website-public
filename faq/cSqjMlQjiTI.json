@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How much do companies value the prestige of an applicant's school when hiring interns or entry-level developers?",
+    "answer": "From my experience as an engineering manager for almost 13 years, I personally have never cared much about the prestige of an applicant's school. While some companies may statistically benefit from applicants coming from prestigious schools, many prioritize skills, projects, and practical experience over school name. The school might only matter to me when forming relationships with local schools to understand the talent pipeline."
+  },
+  {
+    "question": "Does attending a prestigious school guarantee better chances of getting hired as a developer?",
+    "answer": "No, attending a prestigious school does not guarantee better chances of getting hired. Although some top-tier firms may prioritize candidates from well-known schools due to strong recruiting pipelines, many companies focus more on a candidate's portfolio, internships, and personal projects. If you come from a lesser-known school, you can still stand out by building a strong resume and contributing to open source projects."
+  },
+  {
+    "question": "How do internship length and school type affect hiring decisions for interns?",
+    "answer": "Internship length can impact hiring decisions because the overhead to ramp up an intern is proportionally larger for shorter internships. For example, a four-month internship requires more frequent onboarding compared to longer internships of 8, 12, or 16 months. The type of school, such as college versus university, generally doesn't affect my hiring decisions unless it relates to specific program accreditation or internship scheduling, not prestige."
+  }
+]

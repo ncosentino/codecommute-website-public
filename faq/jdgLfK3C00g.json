@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How can I stop being the go-to firefighter for projects I've handed off?",
+    "answer": "I find that to improve this situation, it often needs to get a little worse before it gets better. Instead of just fixing problems for others quickly, I focus on helping them understand the project so they can handle issues themselves. This means spending extra time upfront to teach and document rather than just providing quick fixes, which reduces repeated interruptions over time."
+  },
+  {
+    "question": "What preventative measures can I take if I know a project will be handed off?",
+    "answer": "If I know a project will be handed off, I start early by designing relevant documentation that explains key concepts and design decisions. I also document how to diagnose issues and any important context that will help the next team avoid asking repetitive questions. This preparation helps make the transition smoother and reduces future dependency on me."
+  },
+  {
+    "question": "How should I handle transitions when a project or service ownership changes unexpectedly?",
+    "answer": "When ownership changes unexpectedly, I try to come up with a clear plan and alignment on the transition period. For example, setting a time-boxed window where the outgoing and incoming teams collaborate, share knowledge, and support on-call duties helps manage expectations. This approach reduces friction and resentment by providing structure during the handoff."
+  }
+]

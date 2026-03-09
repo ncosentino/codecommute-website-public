@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What caused my Azure subscription to be disabled during my vacation?",
+    "answer": "My Azure subscription was disabled because the credit card on file expired. Since the subscription was created in Canada, it only accepts Canadian credit cards, and I no longer have a valid Canadian credit card with a Canadian address, which caused the billing issue and subsequent disabling of the subscription."
+  },
+  {
+    "question": "How did I resolve the Azure subscription billing issue while on vacation?",
+    "answer": "I contacted Azure support and tried to escalate the issue, but the only solution was to add a valid Canadian credit card. Since I was the only person with permission to update the credit card and I didn't have a Canadian card, I had to get a team member to send me their Canadian credit card information so I could add it and reactivate the subscription."
+  },
+  {
+    "question": "What were the technical challenges faced after the Azure subscription was reactivated?",
+    "answer": "After reactivating the subscription, the MySQL database came back online automatically without data loss, which was great. However, the container apps did not restart automatically, so I had to manually recreate the replicas and ensure scaling was set up properly to avoid previous multi-instance issues we had encountered earlier."
+  }
+]

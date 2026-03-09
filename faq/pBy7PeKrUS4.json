@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How should I approach documentation when working on a Brownfield project?",
+    "answer": "When working on a Brownfield project, I recommend using design docs as a communication tool to share ideas and get input from others. These docs help explain why certain decisions were made and provide context for future developers. However, you should consider the lifetime of the documentation and whether it needs to be maintained long-term or just serve as a conversation starter before the work begins."
+  },
+  {
+    "question": "What are the trade-offs of maintaining good documentation in software projects?",
+    "answer": "I believe good documentation is incredibly valuable but also very costly to maintain. The effort required to keep documentation up to date can be significant, so you need to weigh the benefits against the maintenance cost. For teams with frequent onboarding or collaboration, documentation can save time, but for solo developers or rarely changing projects, the upkeep might not be worth it."
+  },
+  {
+    "question": "Can AI agents help with creating and maintaining software documentation?",
+    "answer": "I think AI agents that automatically build and constantly update documentation could be a game changer. They could use context from tools like Jira, source code, and communication channels to draft and refine docs continuously. While AI might not be perfect, combining it with periodic human review could reduce the burden of maintaining accurate and useful documentation over time."
+  }
+]

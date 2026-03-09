@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How can I better retain information when learning software development from video courses?",
+    "answer": "I recommend building things yourself rather than just watching videos. Tutorials are great for guidance, but real learning happens when you practice, get stuck, and solve problems on your own. Use tutorials to help you when you get stuck, but focus on applying what you learn by building projects to retain information better."
+  },
+  {
+    "question": "Is it more beneficial to focus on self-learning and projects related to my interests rather than excelling in university courses?",
+    "answer": "Yes, focusing on self-learning and working on projects related to your interests is very beneficial. While you should do the minimum required for your university credentials, building software and gaining practical experience is what really matters. Employers care more about your ability to build software than your grades, so prioritize hands-on practice alongside your studies."
+  },
+  {
+    "question": "What approach should I take if I feel stuck in 'tutorial hell' while learning software development?",
+    "answer": "I suggest reversing the usual learning order: start by building something based on your hobbies and interests, then use tutorials only when you get stuck. This way, you learn by doing and use tutorials as tools to overcome specific challenges rather than passively consuming content. This approach helps you avoid feeling stuck and makes your learning more effective."
+  }
+]

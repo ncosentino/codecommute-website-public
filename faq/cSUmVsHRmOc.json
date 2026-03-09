@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What is the difference between conscious and unconscious technical debt in software development?",
+    "answer": "Conscious technical debt happens when developers knowingly take shortcuts or make less ideal design decisions to meet deadlines or ship faster, fully aware that it will need fixing later. Unconscious technical debt occurs over time as software requirements evolve and change, causing previously good designs to become outdated or less effective, even if the original design was considered perfect at the time."
+  },
+  {
+    "question": "How should software developers communicate the need to address technical debt to non-technical stakeholders?",
+    "answer": "Developers should avoid focusing on technical jargon like 'unclean code' or 'coupling' and instead explain the impact in terms that matter to stakeholders, such as increased risk of bugs, slower feature delivery, or more manual testing. Framing the conversation around how technical debt affects shipping value to customers and business outcomes helps product owners and managers understand why addressing it is important."
+  },
+  {
+    "question": "Why is the analogy between Toyota fixing manufacturing issues immediately and addressing technical debt in software not accurate?",
+    "answer": "The analogy is flawed because manufacturing bugs in a physical product like a car are different from technical debt in software. Toyota likely fixes production issues based on severity and immediate impact, whereas technical debt involves design and architectural compromises that accumulate over time and are not always urgent bugs. Software development also involves evolving requirements, making it harder to fix all issues immediately like in a manufacturing assembly line."
+  }
+]

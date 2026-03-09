@@ -1,0 +1,14 @@
+[
+  {
+    "question": "Why do software rewrites always take longer than teams initially plan?",
+    "answer": "From my experience, software rewrites almost always take at least twice as long as originally estimated. This happens because rewrites often underestimate the complexity, the dispersed knowledge about the system, and the overhead of maintaining existing products while rewriting. Surprises and scope changes during development also extend timelines significantly."
+  },
+  {
+    "question": "What are common pitfalls when engineering teams decide to do a full rewrite of a software system?",
+    "answer": "A common pitfall is treating the rewrite as an all-or-nothing greenfield project without accounting for the complexity of matching existing feature parity and user workflows. Teams often underestimate the overhead of maintaining the legacy system while rewriting and fail to plan for incremental migration or user communication. This leads to unexpected delays and challenges as new requirements or missing features emerge."
+  },
+  {
+    "question": "What is the strangler fig approach to software rewrites and why do I recommend it?",
+    "answer": "The strangler fig approach involves incrementally rewriting parts of a system rather than doing a full rewrite all at once. You build new modules or services and gradually redirect traffic or functionality to them, allowing for continuous feedback and reducing risk. Although it adds some overhead, this method provides flexibility, better alignment with business needs, and avoids cutting off life support to existing paying users during the rewrite."
+  }
+]

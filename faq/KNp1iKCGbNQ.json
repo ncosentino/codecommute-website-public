@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What kind of projects should junior developers build to maximize learning?",
+    "answer": "I recommend junior developers build projects related to their hobbies or interests on a platform they want to work with, like mobile, web, or desktop. The goal is to get stuck and challenged because that's where the most learning happens. Using resources like tutorials, Stack Overflow, or ChatGPT to solve problems is encouraged, but you should understand the solutions rather than just copying code."
+  },
+  {
+    "question": "What should junior developers focus on including in their resumes to stand out to hiring managers?",
+    "answer": "I want to see hobby projects that you've been actively working on, even if they aren't finished. It's important to show that you spent time building, refactoring, scaling, and iterating on your projects because that demonstrates real software development experience. I care less about monetization or user numbers and more about your ability to adapt and learn through building software."
+  },
+  {
+    "question": "Is it beneficial for junior developers to try monetizing their projects early on?",
+    "answer": "While monetizing projects can teach valuable entrepreneurial skills like sales and marketing, I believe it can be a distraction if your main goal is to get a software development job. If you have limited time, focusing on building and learning software development skills is more important than trying to find market fit or sell your product. Monetization is not necessary to impress hiring managers."
+  }
+]

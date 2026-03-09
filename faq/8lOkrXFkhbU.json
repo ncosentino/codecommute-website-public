@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What is my strategy for building the Code Commute landing page using AI?",
+    "answer": "My strategy is to start from scratch using Cursor to create a new project and see what the LLM can do. If I get stuck, I'll use Visual Studio to create project templates and then return to Cursor. I plan to use Aspire for cloud infrastructure orchestration and Blazer for the frontend, and I want to set up the tech stack clearly before starting the build."
+  },
+  {
+    "question": "How do I plan to use large language models (LLMs) effectively in software development?",
+    "answer": "I want to use LLMs not just to write code but to get feedback, design ideas, and recommendations throughout the software development lifecycle. I believe LLMs can provide different perspectives that help me think about problems differently. Instead of blindly copying output, I intend to interact with the LLM to refine prompts and course-correct as needed."
+  },
+  {
+    "question": "What kind of courses am I planning to create related to AI-assisted software development?",
+    "answer": "I'm planning to create courses that demonstrate building end-to-end software projects with AI assistance, focusing on practical workflows rather than just coding. The courses will show how to use LLMs to enhance design, coding, and problem-solving throughout the development process. I'll likely use VS Code with agent mode and co-pilot, and the content will include lessons on prompt refinement and handling challenges when working with AI tools."
+  }
+]

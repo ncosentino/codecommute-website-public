@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How important is it for senior software engineers to know frameworks and popular libraries compared to core fundamentals like algorithms and data structures?",
+    "answer": "I primarily focus on core fundamentals rather than frameworks or popular libraries when hiring senior software engineers. I want to see their ability to navigate problems and communicate effectively, rather than just memorizing specific algorithms or frameworks. Familiarity with fundamentals is important, but I don't expect candidates to recite them perfectly, as they can look up details when needed."
+  },
+  {
+    "question": "Why don't you use LeetCode-style questions in your software engineering interviews?",
+    "answer": "I don't use LeetCode-style questions because I don't believe they represent the majority of real software development work. These questions often focus on finding tricky optimizations rather than building working software, which I think is a poor way to gauge someone's ability. While LeetCode can be a useful tool for practice, I don't consider it a valuable metric for hiring decisions."
+  },
+  {
+    "question": "How do you approach language and tech stack requirements when hiring developers, especially at large companies versus startups?",
+    "answer": "At large companies like Microsoft, I don't require candidates to know the exact language or tech stack we use because we have the resources to ramp people up quickly. I encourage candidates to pick any language they want during interviews. However, startups often need quick learners who already know the specific tech stack to be productive immediately, as they can't afford long ramp-up times. So, language and tech stack familiarity can be more critical depending on the company's context."
+  }
+]

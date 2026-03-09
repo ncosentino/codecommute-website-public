@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How do you handle feeling tired and unproductive while managing work and sleep?",
+    "answer": "I recognize when I'm tired and need to be honest with myself about it. For example, I messaged my employer to reschedule meetings and made sure to get extra sleep, even if it meant being less productive that day. Catching up on sleep is essential because trying to power through exhaustion usually doesn't work for me."
+  },
+  {
+    "question": "What approach do you take when receiving critical user feedback on software?",
+    "answer": "I remind myself that users giving critical feedback want the product to be better and are doing us a favor by sharing their experiences. Even though it can be frustrating initially, I reframe the feedback as an opportunity to improve the product. I also appreciate working with a team that quickly addresses issues and shares pride in the work, which helps me handle the feedback positively."
+  },
+  {
+    "question": "How do you ensure effective onboarding for new users with complex software concepts?",
+    "answer": "We revamped our onboarding process to make it slick and user-friendly, including a 'Joy Ride' tour framework to educate users about key features. We aim to prove the value of the software quickly and help users configure necessary settings so they can start using the product right away. Additionally, we sometimes offer personalized help to import content for early adopters to lower the barrier to getting started."
+  }
+]

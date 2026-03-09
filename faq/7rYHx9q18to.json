@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What is the main goal of the onboarding process for Brand Ghost?",
+    "answer": "The main goal of the onboarding process for Brand Ghost is to guide users through creating their first topic stream with at least one piece of content and connecting a social account. This allows the platform to start posting content automatically on their behalf, helping users get familiar with the product and begin using it effectively."
+  },
+  {
+    "question": "Why does Brand Ghost require users to pick a single post type for a topic stream, and what changes are planned?",
+    "answer": "Currently, Brand Ghost requires users to pick a single post type (video, picture, or text) for an entire topic stream due to backend design assumptions. However, the team recognizes this is confusing and plans to allow each piece of content to have its own type, making the process more intuitive and flexible, though this change will take more time to implement."
+  },
+  {
+    "question": "How does the Brand Ghost team view the importance of user feedback during onboarding and product iteration?",
+    "answer": "The Brand Ghost team values user feedback highly and uses it to identify where users struggle during onboarding and product use. They have ongoing conversations to understand different perspectives and aim to minimize friction for users. They also monitor if users see value in the product and are willing to pay for it, which is critical for the business's sustainability and future direction."
+  }
+]

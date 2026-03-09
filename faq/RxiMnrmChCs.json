@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How should junior developers approach asking questions when starting a new job?",
+    "answer": "I recommend that junior developers err on the side of asking too many questions rather than too few. Being vocal and reaching out for help is crucial, especially when working remotely, because it prevents getting stuck and helps ramp up faster. I encourage juniors to communicate openly and not worry about bothering others."
+  },
+  {
+    "question": "What causes frustration for senior developers when mentoring junior developers, and how can it be managed?",
+    "answer": "Frustration often arises not from the number of questions but when juniors ask the same questions repeatedly. This can be due to communication mismatches or the complexity of the material. If a senior developer feels overwhelmed, I suggest they communicate this to management so we can adjust support or pair the junior with someone else, ensuring the junior gets the help they need without burning out the mentor."
+  },
+  {
+    "question": "What should a junior developer do if they feel their team culture is not supportive of asking questions?",
+    "answer": "If you find that your team is not willing to help or encourages you to just figure things out on your own, I believe you are on the wrong team. This is not a reflection of your abilities but rather a sign that the team lacks the right culture or infrastructure to support new developers. It's important to find a team that values mentorship and supports your growth."
+  }
+]

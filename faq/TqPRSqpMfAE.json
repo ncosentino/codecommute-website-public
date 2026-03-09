@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How do you gauge the timeline for a large software engineering project that may take months or even a year?",
+    "answer": "I consider the time horizon because the bigger the project and the longer the timeline, the more uncertainty there is. For projects spanning months, I prefer planning in shorter increments like quarterly, focusing on goals and themes rather than implementation details. This approach acknowledges that scope is the most flexible factor, while time and quality are usually fixed."
+  },
+  {
+    "question": "What should be done if a software development team finishes their work earlier than the estimated timeline?",
+    "answer": "In my experience, if a team finishes early and then sits idle without communicating, it indicates a broken process. There should always be regular updates and communication so stakeholders know when work is done. If the team is freed up, they should be reassigned to other tasks rather than waiting silently, as there is almost always additional work to do."
+  },
+  {
+    "question": "How do you handle situations where project time estimates are off, either overestimated or underestimated?",
+    "answer": "I believe in maintaining open communication and raising awareness as soon as possible. If estimates are off, stakeholders and teams should have honest conversations to realign expectations and plan next steps. I’ve never found it helpful to hide delays; instead, transparency leads to collaborative problem-solving and adjustments to keep the project on track."
+  }
+]

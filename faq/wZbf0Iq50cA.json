@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What went wrong during my Vibe Coding live stream with Cursor?",
+    "answer": "During the live stream, I was flustered and ill-prepared, using two technologies I'm not an expert in: Aspire and Blazer. Cursor was not working as expected, trying to set up everything in my user folder and adding all files to git, which caused frustration. I also struggled with environment variable configuration and my streaming setup was not ideal, leading to a messy and overwhelming experience."
+  },
+  {
+    "question": "Why do I prefer using Blazer for front-end development as a C developer?",
+    "answer": "I prefer Blazer because it allows C developers like me to write front-end code using familiar tools and C code, alongside HTML and CSS. While I am not an expert in Blazer, it suits me better than JavaScript frameworks like React or TypeScript, especially when working solo. Blazer helps me leverage my existing skills for front-end development effectively."
+  },
+  {
+    "question": "How am I planning to improve the Vibe Coding content after the live stream issues?",
+    "answer": "Instead of live streaming again, I plan to record myself building the landing page video without streaming live to reduce pressure and overwhelm. I will start from scratch, create a new folder, and set up the project templates manually before using Cursor to code the rest. This approach will allow me to pause if needed and deliver a better, more focused coding experience for viewers."
+  }
+]

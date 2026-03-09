@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How do you approach behavioral interviews to avoid setting candidates up to fail?",
+    "answer": "I believe it's not the interviewer's job to make candidates fail or to gatekeep. Instead, I try to extract and understand as much value from the candidate as possible by making them feel comfortable and guiding them through questions. I focus on how they navigate difficult conversations and problem-solving rather than trying to trick them or catch them off guard."
+  },
+  {
+    "question": "What is your perspective on using coding questions like LeetCode problems in interviews?",
+    "answer": "I steer away from tricky LeetCode-style questions because I think they often set candidates up to fail with hidden nuances. Instead, I ask simple but scalable questions without tricks, allowing candidates to demonstrate their thought process and problem-solving skills. If they fly through the basics, I add constraints or variations to see how they adapt, which better reflects real work scenarios."
+  },
+  {
+    "question": "How do you handle red flags or warning signs during interviews?",
+    "answer": "I do pay attention to red flags, such as problematic behavior or lack of responsibility, but I don't ignore them. However, I don't try to trick candidates or hold minor mistakes against them if they are nervous or struggling. I give candidates chances to explain and navigate issues, and I try to understand the context before making judgments, aiming to fairly assess their potential rather than set them up to fail."
+  }
+]

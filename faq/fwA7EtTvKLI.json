@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What is my biggest frustration when using AI agents like Claude Flow for coding tasks?",
+    "answer": "My biggest frustration is that AI agents can perform advanced tasks but still make ridiculously simple mistakes, like not recognizing that MS Build is installed on the system. This inconsistency feels silly and frustrating because a human developer wouldn't repeatedly fail to understand such a basic fact after being told multiple times."
+  },
+  {
+    "question": "How do AI agents compare to human developers when asked to refactor code?",
+    "answer": "AI agents can quickly locate and start changing code, which is much faster than a new human developer who would need time to explore and understand the project. However, AI agents sometimes fail at trivial tasks that humans would handle easily, leading to a frustrating dichotomy between impressive capabilities and simple errors."
+  },
+  {
+    "question": "What issues did I encounter when using AI tools for benchmarking and optimizing code?",
+    "answer": "I found that the AI optimized a new method that wasn't actually called anywhere in the real code, so the improvements were meaningless. The AI kept improving this unused code because the tests passed, but it never compared the optimizations against the original working code, which led to wasted time and trust in the tool's suggestions."
+  }
+]

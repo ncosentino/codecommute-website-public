@@ -1,0 +1,14 @@
+[
+  {
+    "question": "Is the current AI hype in software engineering justified or overhyped?",
+    "answer": "I believe there is definitely a lot of AI hype and overhype happening right now, especially in marketing and social media. However, I also think the technology itself is not going away and has real value, as major companies are heavily investing billions of dollars into AI development. So while the hype will eventually die down, AI as a technology is here to stay and will continue to evolve."
+  },
+  {
+    "question": "Will AI replace software engineers and make their roles obsolete?",
+    "answer": "From my perspective, AI is not going to replace software engineers anytime soon. While AI tools can assist and speed up certain tasks, software development requires domain expertise that AI alone cannot provide. I see AI as a powerful tool for developers to pair program with and improve productivity, but it doesn't eliminate the need for experienced engineers who understand security, scalability, and design."
+  },
+  {
+    "question": "How can software engineers effectively use AI tools like large language models in their workflow?",
+    "answer": "I use AI tools as a collaborative partner to bounce ideas off and get suggestions on design and code. For example, when building a notification system, I worked with an AI to generate code and design ideas, then reviewed and challenged its suggestions to improve them. This kind of interaction helps me gain momentum and think through problems differently, but it still requires my expertise to catch inefficiencies and ensure the solution is robust."
+  }
+]

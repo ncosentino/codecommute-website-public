@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How should a new software engineering manager measure developer performance?",
+    "answer": "I believe measuring developer performance involves balancing what you personally value with the organization's expectations. It's important to establish level-set expectations across the company and create a rubric to measure core competencies at different levels. This rubric should be iterated on and used regularly to have clear, documented conversations about performance and growth."
+  },
+  {
+    "question": "Why do you recommend using a rubric to evaluate software engineers?",
+    "answer": "I find rubrics very helpful because they provide a written standard for expectations, which makes conversations about performance and promotions clearer. Using a rubric allows me to align the engineer's work with the competencies expected at their level and collect evidence to support career progression discussions. Even if not perfect initially, a rubric helps maintain consistency across the organization."
+  },
+  {
+    "question": "What challenges exist when introducing performance levels and rubrics in startups?",
+    "answer": "In startups, levels and rubrics often don't exist initially, which makes measuring performance tricky. Introducing levels too early without clarity can cause confusion, so it's better to start with a simple rubric and iterate. Also, alignment with leadership and other managers is critical to avoid inconsistent standards, and over time, as the team grows, more structure around performance measurement becomes necessary."
+  }
+]

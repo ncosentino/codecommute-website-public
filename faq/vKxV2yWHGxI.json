@@ -1,0 +1,14 @@
+[
+  {
+    "question": "Should software architects be responsible for prototyping in a company?",
+    "answer": "I believe that while architects can do prototyping, it is not necessarily their primary role. Architects are typically meant to facilitate the long-term vision and structure of codebases and coordinate across teams. If architects are busy prototyping, they might not be able to fulfill their core responsibilities effectively, especially as the company scales."
+  },
+  {
+    "question": "What are the challenges of having a dedicated prototyping team versus distributing prototyping work across all development teams?",
+    "answer": "From my experience, having a dedicated prototyping team works well because prototyping requires a different mindset focused on quickly answering questions rather than shipping production-ready code. Distributing prototyping across all teams can be distracting and less effective because not all developers are comfortable with the throwaway nature of prototype code. A dedicated team can maintain focus and efficiency in prototyping efforts."
+  },
+  {
+    "question": "How can companies structure prototyping teams to balance prototyping and production development?",
+    "answer": "One approach I recommend is having a small prototyping team that builds prototypes and then rotates engineers to work on integrating successful prototypes into production. This allows prototyping team members to return to production work and gives other developers opportunities to learn prototyping. It also helps maintain a healthy balance between innovation and delivering production-ready software."
+  }
+]

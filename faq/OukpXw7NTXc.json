@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How do you plan to overcome burnout while creating YouTube content?",
+    "answer": "I've been experiencing burnout from work and haven't had as much time or energy to create YouTube videos as I want. To overcome this, I'm taking a week off work to focus on content creation that I enjoy, like tutorials and resume reviews, which helps me recharge while still producing valuable material."
+  },
+  {
+    "question": "What challenges have you faced using AI agents for code refactoring?",
+    "answer": "When using AI agents like Cursor for code refactoring, I've found that they often make mistakes such as deleting necessary code or not fully completing tasks. This leads to false confidence in the results, so I have to carefully review and fix the AI's output, which means it hasn't yet saved me as much time as I hoped."
+  },
+  {
+    "question": "How are you leveraging AI to generate content from your existing videos?",
+    "answer": "I uploaded transcripts from around 200 of my videos to ChatGPT to capture my style and topics. My goal is to integrate this into Brand Ghost so it can automatically pull transcripts from new videos and generate blog post templates, helping me create technical articles more easily and overcome the barrier of starting from scratch."
+  }
+]

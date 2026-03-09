@@ -1,0 +1,14 @@
+[
+  {
+    "question": "Is it appropriate to question a developer peer's design during a public team meeting?",
+    "answer": "I think it depends a lot on the team culture and the context of the meeting. For example, in a quick standup or sync meeting focused on status updates, I wouldn't derail the meeting with design discussions. Instead, I would acknowledge the issue and suggest a follow-up conversation so as not to waste the group's time."
+  },
+  {
+    "question": "How can I respectfully challenge a peer's technical design without causing defensiveness?",
+    "answer": "I try to approach the conversation with genuine curiosity and assume the other person acted with good intentions. Instead of saying they're wrong outright, I ask questions like 'Why did we decide to go this way?' or 'Can you help me understand this approach?' Using inclusive language like 'we' helps avoid sounding accusatory and reduces defensiveness."
+  },
+  {
+    "question": "What should I consider before bringing up design concerns in a public forum?",
+    "answer": "I consider whether the forum is appropriate for the discussion and the team culture around such conversations. If it's not the right time or place, I prefer to table the topic and follow up privately or in a dedicated meeting. Also, I think about how to phrase my concerns respectfully to avoid making it seem like a personal attack."
+  }
+]

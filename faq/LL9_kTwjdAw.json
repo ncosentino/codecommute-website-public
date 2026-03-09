@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What is the difference between leading with 'how' versus leading with 'why' in software engineering leadership?",
+    "answer": "Leading with 'how' means prescribing specific methods and steps for engineers to follow, which can remove their autonomy and reduce engagement. Leading with 'why' focuses on explaining the significance and purpose behind a project, giving engineers the framework to make decisions and solve problems creatively. I believe leading with 'why' fosters trust and empowers engineers to take ownership of their work."
+  },
+  {
+    "question": "How should leadership approaches differ between junior and senior software engineers?",
+    "answer": "Junior engineers often need more guidance on 'how' to do things because they require clearer structure and milestones to reduce ambiguity. Senior engineers, on the other hand, benefit from understanding 'why' a project matters and having the autonomy to decide 'how' to implement solutions. I think situational leadership is key, adapting the level of guidance based on the experience and needs of each engineer."
+  },
+  {
+    "question": "Why can leading by 'how' be detrimental to a software engineering team?",
+    "answer": "Leading by 'how' can feel like micromanagement, stripping engineers of their ability to analyze, decide, and be creative, which can lead to disengagement and frustration. It often arises from a lack of trust or ineffective communication of goals and timelines. I find that relying too much on 'how' as a crutch addresses symptoms rather than root causes, and it can damage team motivation and ownership over time."
+  }
+]

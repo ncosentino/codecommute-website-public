@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What is the core functionality of BrandGhost's free tier tool?",
+    "answer": "I launched a free version of BrandGhost that allows crossposting to different social media platforms. This free tier lets users post content across platforms without paying, as we see crossposting as a commodity rather than our main value proposition."
+  },
+  {
+    "question": "Why does BrandGhost need to include specific TikTok settings in their app?",
+    "answer": "TikTok requires apps to have certain user experience settings before approving them. For example, users must be able to toggle about 10 different settings, and by default, posts go into drafts unless explicitly made public. We had to implement these to get TikTok approval for our platform."
+  },
+  {
+    "question": "How does BrandGhost plan to add value beyond basic crossposting?",
+    "answer": "We focus on recurring content posting that remains valuable over time and enable repurposing of content. Additionally, we leverage AI to help create more effective content, which is where we see our real business value beyond simple crossposting."
+  }
+]

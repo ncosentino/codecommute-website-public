@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How can I reduce wasted time on stylistic issues during code reviews?",
+    "answer": "I recommend using linters to automate stylistic checks like whitespace and formatting. This ensures consistent standards across development machines and reduces subjective debates in reviews. If recurring stylistic issues come up, codify them in your linter configuration to avoid wasting time on low-value feedback."
+  },
+  {
+    "question": "What should I do if I feel frustrated by late feedback in pull requests after spending days coding?",
+    "answer": "I suggest shifting left by seeking feedback earlier in the process, such as creating draft pull requests or lightweight design documents. This allows you to get input on your approach before investing too much time, reducing wasted effort and improving alignment with your team’s expectations before the formal review."
+  },
+  {
+    "question": "Why do some tech debt issues never get prioritized even if we plan to fix them later?",
+    "answer": "From my experience, tech debt often isn’t prioritized because its business value isn’t clearly communicated to project managers. If engineers can’t explain why addressing tech debt is important compared to new features or bug fixes, it will likely remain low priority. It’s crucial to speak the same language as PMs and demonstrate the value of tech debt work to get it scheduled."
+  }
+]

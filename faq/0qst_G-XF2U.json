@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How should junior software engineers balance trying to solve problems on their own versus asking for help?",
+    "answer": "I believe junior engineers should find a balance between trying things out and asking for help. If you don't try anything, you might get unblocked quickly but won't learn. On the other hand, if you never ask for help, you risk being blocked indefinitely. Time boxing your efforts and asking for clarity on expectations can help you manage this balance effectively."
+  },
+  {
+    "question": "What is the best way for junior engineers to ask for help effectively?",
+    "answer": "When asking for help, I recommend always being prepared to answer the question, 'What have you tried so far?' If you lack clarity about the task, ask for help immediately. If you understand the task but haven't tried anything, try some approaches first. When you do ask, share what you've tried and why you're stuck, which helps the person assisting you provide better guidance."
+  },
+  {
+    "question": "How can senior engineers provide help to junior engineers without just giving them the answers?",
+    "answer": "From my experience, senior engineers should avoid just giving answers to juniors because it doesn't help them learn. Instead, spend extra time coaching by asking questions like where they looked in the code or what patterns they noticed. This approach encourages juniors to think critically and develop problem-solving skills, even though it may take more time and patience initially."
+  }
+]

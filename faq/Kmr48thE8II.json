@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How can I suggest process improvements effectively when transitioning from engineering to leadership?",
+    "answer": "I recommend having conversations with your team about inefficiencies or opportunities for improvement, both in team settings and one-on-ones. This approach helps plant ideas and get people thinking, allowing them to feel ownership of the changes rather than feeling imposed upon. It's important to listen carefully because the pain points you observe might not be the real issues, so involving the team in experimenting with solutions fosters buy-in and continuous improvement."
+  },
+  {
+    "question": "What is the best way to handle progress reporting and status updates as a new engineering leader?",
+    "answer": "Progress reporting depends heavily on your stakeholders and team context. I suggest establishing clear communication cadences and understanding what stakeholders need to communicate to others. Instead of reacting to constant update requests, work with stakeholders to create a better cadence and help your team learn how to communicate effectively. Also, avoid being the single point of failure by teaching and supporting your team members to handle progress reporting themselves."
+  },
+  {
+    "question": "How should I approach micromanagement when managing junior versus senior engineers?",
+    "answer": "I personally dislike micromanagement because it makes me feel devalued, so I try to build trust with my team. However, for junior engineers who may not understand expectations or timelines, I find it helpful to provide more guidance and set clear milestones to help them manage their work. For senior engineers, I have open conversations about workload and trust them to juggle tasks appropriately, adjusting my involvement based on their experience and needs."
+  }
+]

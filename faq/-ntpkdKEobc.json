@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What is Claude Flow and why did you decide to try it?",
+    "answer": "Claude Flow is a tool that enables agent swarms using the Claude language model. I decided to try it because I was curious about agent swarms and wanted to experiment with something new beyond my usual Microsoft ecosystem tools like Copilot and Cursor. Although I was initially hesitant due to setup difficulties and cost concerns, learning about the subscription model made it feasible for me to invest time in it."
+  },
+  {
+    "question": "What challenges did you face when setting up Claude Flow and running agent swarms?",
+    "answer": "Initially, setting up Claude Flow was a nightmare that took me about eight hours because of installation errors and missing dependencies. I also had licensing issues related to account linking on Claude's side. Additionally, running swarms was interrupted by a Windows update that restarted my computer, causing incomplete builds and compilation errors, which I am still trying to resolve."
+  },
+  {
+    "question": "How do you see agent swarms fitting into your software development workflow?",
+    "answer": "I'm exploring whether agent swarms can help me build features or even entire products by automating coding tasks. I wonder if I might enjoy focusing more on system design and letting the agents handle the coding, especially for complex projects like a video game I've been working on for years. However, I still need to experiment more to understand how well this integrates into my workflow and whether it truly adds value."
+  }
+]

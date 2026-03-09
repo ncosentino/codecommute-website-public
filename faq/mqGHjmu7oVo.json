@@ -1,0 +1,14 @@
+[
+  {
+    "question": "Should I switch from Java to Rust if I'm just starting to learn programming?",
+    "answer": "If you're just getting started with Java and considering switching to Rust, it's important to think about where you are in your learning journey. If you haven't built much momentum with Java yet, switching might not waste much time. However, if you're already getting comfortable and building projects in Java, switching to Rust might leave you knowing two languages only superficially, which could be less beneficial."
+  },
+  {
+    "question": "Is it better to stick with .NET when learning AI and LLM integration or switch to Python?",
+    "answer": "Personally, I prefer to keep as many variables the same when learning something new, so I would stick with C# and .NET if I'm comfortable with it and just add AI and LLM integration as the new thing. Changing too many variables at once can be overwhelming and detract from learning. That said, this is my strategy and may not be the best for everyone, but it helps me focus and avoid feeling overwhelmed."
+  },
+  {
+    "question": "How should I decide which programming language to learn or switch to?",
+    "answer": "There isn't a single best programming language; it depends on your goals. If you want to learn syntax and read code easily, Python is a great choice due to its readability. If your goal is employability, you might want to research which languages are in demand for the type of development you want to do. Ultimately, qualify your goals first and make an informed decision, knowing you can always learn another language later."
+  }
+]

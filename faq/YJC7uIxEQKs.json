@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How do you handle authentication for multiple social media platforms in your plugin system?",
+    "answer": "I handle authentication by using a shared table for high-level, platform-agnostic data and separate platform-specific tables for each social media platform's unique authentication details. Each plugin records authentication requirements in its own way, which reduces the risk of breaking other platforms when making schema changes. This approach allows me to manage different OAuth implementations without forcing a one-size-fits-all schema."
+  },
+  {
+    "question": "What strategy do you use to avoid inconsistent database states when writing authentication records?",
+    "answer": "I use database transactions to ensure consistency when writing to both the shared authentication table and the platform-specific tables. I insert the shared record first to get an identifier, then use a callback to insert platform-specific data within the same transaction. If any part fails, the transaction rolls back, preventing users from being stuck in an incomplete state with partial data."
+  },
+  {
+    "question": "How do you decide when to refactor common code patterns in your plugin architecture?",
+    "answer": "I follow the rule of three, which means I wait until I have at least three examples of a pattern before refactoring to extract common code. Since I have 13 plugin examples now, I feel confident refining the pattern based on real evidence rather than assumptions. This approach helps me avoid premature abstraction and ensures the refactor is practical and effective."
+  }
+]

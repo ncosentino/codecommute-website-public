@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How did you transition your wardrobe to nicer clothes and what challenges did you face?",
+    "answer": "I spent about a year transitioning my wardrobe from jeans and t-shirts to nicer clothes, which was super awkward at first because people would mistake me for going to a job interview. After about a month, no one cared anymore, and I felt good wearing fitted and tailored clothes despite my body shape. However, during the lockdown, I stopped wearing fancy clothes since I was mostly at home on calls with my camera off, which felt weird."
+  },
+  {
+    "question": "How do you manage using multiple single-purpose AI tools for development without feeling overwhelmed?",
+    "answer": "I personally cycle between a handful of AI tools like GitHub Copilot, Cursor, Claude, and ChatGPT depending on the task and how well each tool performs at the moment. I don't feel forced to use all of them, and I appreciate having options to switch when one underperforms. I try to use each tool for what it does best and avoid getting caught up in using too many micro tools unnecessarily."
+  },
+  {
+    "question": "What is your perspective on companies building many custom AI chatbots and how should they approach AI tool integration?",
+    "answer": "I see many companies rushing to build custom chatbots or agents for different tasks, which often results in duplicated logic and diminishing returns. I recommend pulling shared capabilities into reusable MCP servers or tools that multiple agents can leverage instead of building isolated chatbots. This approach reduces redundancy and helps teams align on core helpful tools rather than creating many single-purpose AI tools."
+  }
+]

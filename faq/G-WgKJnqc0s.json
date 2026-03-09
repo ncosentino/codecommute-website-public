@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How should I prioritize my focus when starting on a new dev team in big tech?",
+    "answer": "I recommend splitting your focus about 50 to 60% on tactical tasks like bug fixes or small features to build momentum, and 40 to 50% on understanding the domain, strategy, and people. This balance helps you get hands-on experience while gradually building a broader understanding of the team and product."
+  },
+  {
+    "question": "What is the best way to understand the domain and system-level responsibilities of my new team?",
+    "answer": "I suggest taking a 30,000-foot view to understand what services your team owns, how they interact with other teams, and the general flow of the system. This involves asking questions, meeting with teammates, reading documentation, and continuously learning over time rather than trying to master every detail immediately."
+  },
+  {
+    "question": "How important is communication with my manager when joining a new team, and what should I discuss?",
+    "answer": "It's crucial to get on the same page with your manager from the start. I advise confirming their expectations about your ramp-up time and productivity so you avoid assumptions. Regular conversations about your progress and priorities ensure alignment and help you focus on what matters most to the team."
+  }
+]

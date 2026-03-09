@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How can junior developers be encouraged to engage in software design in larger tech companies?",
+    "answer": "I believe it's important to explain and demonstrate the value of design to junior developers. Encouraging early collaboration, such as whiteboarding sessions or informal design discussions, helps them see the benefits of getting different perspectives and informing others. Keeping the process informal lowers barriers and makes it easier for juniors to participate and learn."
+  },
+  {
+    "question": "Why is there more emphasis on formal design and documentation in big tech compared to startups?",
+    "answer": "From my experience moving from startups to big tech, larger companies often require more upfront design and documentation because there are many more teams and stakeholders involved. For example, privacy and security teams need to review designs, and formal documentation helps with audits and compliance. This methodical approach can feel heavy-handed but is necessary given the scale and complexity."
+  },
+  {
+    "question": "How do you handle the balance between moving fast and doing thorough design in software development?",
+    "answer": "I think the balance depends on the context of your work environment. In some cases, moving fast with informal design discussions is fine, especially in smaller companies. But in larger organizations, slowing down to do more thorough design upfront can save headaches later, especially around security, privacy, and resiliency. It's about educating the team on why investing time in design now can prevent bigger problems down the road."
+  }
+]

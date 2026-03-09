@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How do you handle team members who deliver tasks but are not good team players?",
+    "answer": "I do not tolerate team members who deliver tasks but are not good team players because it creates a toxic environment. I always value people with strong soft skills who work well together over individuals who are technically skilled but negatively impact the team. I believe boosting those around you as a team always outperforms having a single highly technical person who is a bottleneck or toxic."
+  },
+  {
+    "question": "How do you measure soft skills in software engineering teams?",
+    "answer": "I don't have a direct quantitative measure for soft skills; instead, I observe how people collaborate on projects over time. I look at interactions such as participation in design document collaboration, attendance and engagement in meetings, and the quality of communication during code reviews. I also seek feedback from others and try to understand the context behind behaviors before making judgments."
+  },
+  {
+    "question": "What challenges do you face when coaching team members on soft skills, and how do you address them?",
+    "answer": "Coaching soft skills can be difficult, especially when it involves changing someone's personality or when they lack awareness of how their actions affect others. I focus on understanding the root causes by having conversations and reviewing examples of their interactions. Sometimes cultural differences or language barriers make communication harder, so I try to dig into these situations to help improve understanding and avoid mislabeling someone as having poor soft skills."
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What caused the production issue in my brand ghost platform despite having extensive test coverage?",
+    "answer": "The production issue was caused by swapping two lines of code that changed how the configuration was ordered when it was loaded. This caused some configuration to be overridden incorrectly, leading to the core application not running as expected even though all tests passed locally."
+  },
+  {
+    "question": "How did I improve observability and monitoring after the production issue?",
+    "answer": "I implemented better health checks that report on the scheduler's last run times and overall status. Additionally, I set up alerting and monitoring for logging anomalies, so I get notified within about 10 minutes if something goes wrong or if logs stop coming in."
+  },
+  {
+    "question": "What changes am I making to the Blazer admin dashboard to improve its functionality?",
+    "answer": "I had AI rewrite the Blazer admin dashboard to remove native code path calls and replace them with API calls to the live server. This allows the dashboard to run in production and interact with the live service. I'm also working on adding authentication and building the necessary backend APIs to support this new approach."
+  }
+]

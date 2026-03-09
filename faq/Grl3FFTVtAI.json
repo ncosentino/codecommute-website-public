@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How can I land a mid-level Big Tech role without professional experience in distributed systems?",
+    "answer": "I believe it's 100% possible to land these jobs without professional experience in distributed systems. The key is to demonstrate your ability to learn, problem-solve, and work in teams. You should prepare thoroughly for interviews, especially coding and system design questions, and build projects to show your understanding even if you haven't worked on large-scale systems professionally."
+  },
+  {
+    "question": "What should I focus on during interviews if I lack distributed systems experience?",
+    "answer": "You should focus on practicing coding questions, like LeetCode-style problems, and system design questions related to distributed systems concepts. Even if you don't have hands-on experience, studying these topics and practicing interview questions can help you perform well. Interviewers often want to see how you approach problems and learn new things, not just your existing experience."
+  },
+  {
+    "question": "How do hiring managers view candidates without distributed systems experience?",
+    "answer": "From my experience as a hiring manager, not having distributed systems experience is not a deal breaker. I look for candidates who show they can learn and adapt quickly. If two candidates are equal, experience in distributed systems might give one an edge, but I value diverse experiences and the willingness to grow more. Managers often provide support and training to help new hires ramp up in unfamiliar areas."
+  }
+]

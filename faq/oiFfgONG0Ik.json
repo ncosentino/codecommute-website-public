@@ -1,0 +1,14 @@
+[
+  {
+    "question": "Which software engineering tasks are most likely to be displaced by AI according to the video?",
+    "answer": "I believe that tasks involving quick fixes, such as small bug fixes or minor feature enhancements that don't add significant value, are likely to be displaced by AI. These low-effort, low-priority tasks can be handled by AI tools like LLMs or Copilot, allowing developers to focus on more critical work."
+  },
+  {
+    "question": "How might AI impact the process of software migrations and package upgrades?",
+    "answer": "I think AI agents have great potential to take over migrations and package upgrades, which are common but tedious developer tasks. For example, I had a team member spend over a year on a migration project, which seems inefficient. AI could automate much of this work, reducing the burden on engineers and improving productivity."
+  },
+  {
+    "question": "What is the potential role of AI in managing codebase quality and architectural drift?",
+    "answer": "I'm hopeful that AI can act like around-the-clock code maids that continuously clean up and maintain the codebase to minimize rot and architectural drift. While codebases naturally degrade over time, AI agents could chip away at tech debt and help keep code quality higher without requiring developers to sacrifice time on manual refactoring."
+  }
+]

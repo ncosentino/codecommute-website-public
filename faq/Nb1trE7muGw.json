@@ -1,0 +1,14 @@
+[
+  {
+    "question": "Why do you believe LeetCode-style questions are not effective for engineering manager interviews?",
+    "answer": "I believe LeetCode-style questions are not effective for engineering manager interviews because they do not represent the actual work done in those roles. In my 13 years of managing teams, I haven't done anything remotely close to LeetCode problems except discussing how much I dislike them. I prefer interview questions that reflect the real responsibilities of the role, such as project management, conflict resolution, and team growth."
+  },
+  {
+    "question": "How should candidates approach forming opinions about interview practices and data shared online?",
+    "answer": "I encourage candidates to form their own opinions by validating information and understanding where data comes from. Instead of blindly accepting opinions or data, it's important to analyze the source, methodology, and comprehensiveness of the information. This approach helps build a personal mental model and framework for problem-solving rather than relying solely on others' perspectives."
+  },
+  {
+    "question": "What is your perspective on coding interviews for engineering managers who need to code?",
+    "answer": "If an engineering manager role requires coding, then I support having a coding interview round. However, I don't think LeetCode-style questions are useful even in that context. I would prefer coding questions that are relevant to the actual work the candidate will be doing, so I can better assess their experience and problem-solving approach related to the job."
+  }
+]

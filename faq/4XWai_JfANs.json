@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How are software developers on your team using AI to increase productivity at work?",
+    "answer": "Most developers on my team are using AI mainly within Visual Studio, especially with co-pilot for autocomplete and meeting recaps. They use it to get quick information about acronyms, troubleshoot error codes, and help organize or paraphrase documents. However, I don't see them relying heavily on AI to write or rewrite large portions of code."
+  },
+  {
+    "question": "What are some ways you personally use AI tools like co-pilot to improve your work productivity?",
+    "answer": "I use AI tools like co-pilot primarily for meeting recaps to quickly find specific points in conversations, which saves me from rewatching entire meetings. I also consider using AI to help make my writing more succinct and to organize my thoughts, although I sometimes hesitate because AI-generated text can feel inauthentic. Additionally, I use AI regularly when coding at home, especially for autocomplete and optimizing SQL queries."
+  },
+  {
+    "question": "How does AI help non-native English speakers on your team with their work?",
+    "answer": "I've noticed some team members whose first language isn't English use AI tools like co-pilot to improve their writing. They use AI to help rewrite or refine documents, which supports their desire to communicate more clearly and confidently in English. I think this is a great opportunity for those individuals to overcome language barriers and produce better written work."
+  }
+]

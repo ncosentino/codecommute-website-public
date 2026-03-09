@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How well do experienced developers recall computer science fundamentals during interviews?",
+    "answer": "I would do a very poor job at quickly recalling computer science fundamentals in an interview context, especially if asked to recite them on the spot. While I know the concepts and could figure them out, fast recall without preparation is difficult for me."
+  },
+  {
+    "question": "What is the difference between memorizing computer science concepts and truly understanding them?",
+    "answer": "Memorizing concepts allows you to recite answers but can fail when faced with variations of a problem, because the memorized pattern doesn't match exactly. Truly understanding concepts lets you extrapolate and adapt to new scenarios, enabling active problem solving rather than just regurgitation."
+  },
+  {
+    "question": "Why do fundamental concepts like data structures and algorithms become important again at massive scale systems?",
+    "answer": "At massive scale, such as routing trillions of requests per day, efficiency matters greatly and low-level details like data structure packing resurface. Even if you don't deal with low-level stuff regularly, the scale forces you to optimize fundamentals to save resources and money."
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How should senior developers approach mentoring junior developers to avoid creating dependency?",
+    "answer": "I recommend shifting the focus to teaching juniors how to problem solve on their own rather than just giving them answers. This involves asking questions like 'What have you tried so far?' to encourage them to think through challenges and try solutions before seeking help. It might take more time upfront, but it helps juniors develop independence and reduces long-term dependency."
+  },
+  {
+    "question": "What strategies can help manage the time spent mentoring junior developers effectively?",
+    "answer": "I suggest doing group learning sessions where you walk through common topics or codebase areas, which can spread the impact across multiple juniors and save time. Also, time-boxing the time juniors spend stuck on problems encourages them to try solving issues independently before asking for help. Communicating with your manager about the time mentoring takes is important to set expectations and get support."
+  },
+  {
+    "question": "Is it fair to blame junior developers for needing a lot of help, and what should be done if mentoring isn't working?",
+    "answer": "I don't think it's fair to blame juniors outright because many are still learning and may need more guidance. If you've tried coaching and different strategies without progress, it's reasonable to talk to your manager about the situation. Sometimes juniors may not be at the right skill level, but it's best to lean into mentoring first before considering more drastic measures."
+  }
+]

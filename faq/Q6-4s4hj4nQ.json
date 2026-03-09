@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How should I approach maintaining legacy code when there is no documentation or expert support?",
+    "answer": "I recommend starting to build up documentation yourself by keeping an inventory of pain points and problematic areas in the code. When issues arise, document how you diagnose, mitigate, and fix them to create scenario-based guidance, sometimes called battle cards. This helps build expertise and support for the system even when no original experts or documentation exist."
+  },
+  {
+    "question": "What is the best strategy if I need to extend a legacy system rather than just keep it alive?",
+    "answer": "If you need to build on top of a legacy system, I suggest cross-referencing your inventory of problem areas with where new features need to be added. Prioritize fixing critical bugs or refactoring problematic modules before adding new functionality. Additionally, consider the Strangler Fig approach, which involves gradually replacing parts of the legacy system with new code behind an API layer, allowing you to extend functionality without a full rewrite."
+  },
+  {
+    "question": "How can a team effectively share knowledge and avoid bottlenecks when working on legacy systems?",
+    "answer": "I advise against assigning just one person to own the legacy system because that creates a single point of failure. Instead, distribute the work across multiple developers, having each focus on different core parts of the system to build expertise. This way, knowledge is shared, and new team members can ramp up faster, preventing anyone from being permanently anchored to the legacy code."
+  }
+]

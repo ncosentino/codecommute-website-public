@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How does Microsoft use anonymous feedback surveys to improve team performance?",
+    "answer": "At Microsoft, we have anonymous feedback surveys that go out periodically across the organization. These surveys allow employees to answer questions about their work experience honestly without fear of judgment or repercussions. Managers, including myself, review the survey results carefully and discuss them with the team to drive positive changes and improve how we manage and support our teams."
+  },
+  {
+    "question": "Why is it important to participate in feedback surveys even if they seem like a waste of time?",
+    "answer": "I understand that some people feel surveys are just another task and may have had bad experiences where feedback wasn't used. However, I take survey feedback very seriously because it helps me as a manager enable my team to do their best work. Without this feedback, it would be much harder to understand what improvements are needed, so I encourage everyone to take the time to fill them out and be part of driving positive change."
+  },
+  {
+    "question": "What challenges have I faced when trying to get users to adopt software I build outside of work?",
+    "answer": "When building software like my social media content scheduler Brand Ghost, one of the biggest challenges is getting people to actually use it. Even if users say they see the value, converting that interest into action is difficult. I also struggle with fear of rejection and negative feedback, but I’ve learned that feedback, even critical, is valuable for improving the product. It takes practice to get better at talking to users and selling the idea, and I remind myself that it’s okay to be uncomfortable as I build that skill."
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What are AI agent skills and how do they differ from custom agents?",
+    "answer": "I think of skills as specific actions or workflows that an AI agent can carry out, acting like building blocks that can be composed together. A custom agent is usually a markdown file with instructions for a broader role, while a skill is a smaller, dedicated unit that other agents can evoke to perform particular tasks."
+  },
+  {
+    "question": "How do you use skills to improve repetitive tasks with AI agents?",
+    "answer": "When I notice something I do regularly, I create a skill for it so any AI agent I work with can leverage that skill instead of duplicating logic. For example, I have skills for generating images or uploading files to Azure, which makes these operations reusable across different agents without needing dedicated agents for each task."
+  },
+  {
+    "question": "How do you handle improving skills when they don't work effectively across different AI agents?",
+    "answer": "I manually intervene by asking the AI agent to analyze why a skill isn't working properly, then have it propose fixes to the skill's script or logic. For instance, if a skill is not improving article structure as expected, I prompt the agent to reflect on the issues, update the skill accordingly, and then re-run it to verify improvements. This feedback loop is still manual but helps make skills more reliable."
+  }
+]

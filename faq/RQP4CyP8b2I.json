@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How did Rita's background in acting and theater influence her approach to software engineering?",
+    "answer": "Rita's experience in acting and running a theater company for eight years taught her hard work, creativity, and how to handle chaotic environments. This background helped her develop traits like curiosity, problem solving, and embracing discomfort, which are valuable in software engineering. She also uses her acting skills to create engaging content about coding."
+  },
+  {
+    "question": "What advice does Rita give for getting comfortable with a new code base or project?",
+    "answer": "Rita suggests not trying to understand everything at once, as that can be overwhelming. Instead, she looks for similar patterns to build a mental model and starts writing code to organize her thoughts, even if it doesn't compile initially. After trying different approaches, she asks for help, explaining what she has done and why, which leads to better guidance and learning."
+  },
+  {
+    "question": "How did Rita overcome the lack of confidence when transitioning into software development?",
+    "answer": "Rita never felt fully comfortable or confident in her software development skills, even after years of learning. She overcame this by taking a leap of faith and applying for opportunities despite her doubts, motivated by the idea that the downside was minimal and the upside was significant. Her acting and improv background helped her embrace uncertainty and take risks."
+  }
+]

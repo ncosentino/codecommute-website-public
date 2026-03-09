@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What is blame culture in software engineering and why is it problematic?",
+    "answer": "Blame culture in software engineering is when individuals are singled out and blamed for mistakes, such as a bug caused by code they pushed. I find this problematic because it isolates people, creates fear, and discourages risk-taking and innovation. Instead of fostering improvement, it leads to avoidance and slows down progress."
+  },
+  {
+    "question": "How does radical accountability differ from blame culture in a software engineering team?",
+    "answer": "Radical accountability is the opposite of blame culture; it means no one is at fault but everyone is responsible and accountable. I believe this approach is empowering because it removes fear and isolation, encourages team collaboration, and focuses on proactive solutions to prevent future issues rather than assigning blame to individuals."
+  },
+  {
+    "question": "What are the challenges in shifting from a blame culture to a culture of radical accountability?",
+    "answer": "The main challenge is cultural rather than technical; it requires a mindset shift away from the easy shortcut of blaming individuals to more thoughtful, constructive collaboration. I think it takes more effort and intentionality to work together on solutions, but it doesn't require new tools or roles—just a willingness by the team to change how they approach mistakes and accountability."
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How do you handle early user feedback when building a SaaS product without an existing user base?",
+    "answer": "I listen carefully to the feedback but focus on understanding the meta points behind it rather than reacting to every individual comment. Since we don't have an established user base yet, we can't let users dictate the solution directly. Instead, we translate their pain points into holistic improvements while avoiding over-indexing on any single piece of feedback."
+  },
+  {
+    "question": "What improvements did you make to the onboarding workflow based on user feedback?",
+    "answer": "We fixed a bug where the onboarding flow wasn't showing up for some users due to edge cases with browser storage. We're also planning to force all new users to complete the onboarding before using any other part of the app to eliminate confusion. Additionally, we're adding more education throughout the onboarding to help users understand the unique approach to social media content scheduling that our platform uses."
+  },
+  {
+    "question": "Why do you believe small issues early in the user funnel can significantly impact conversion rates?",
+    "answer": "Small issues near the beginning of the funnel, like a sign-up button directing users to the login page instead of registration, can confuse even a small percentage of users. Because this happens early on, even a 1% confusion rate can have a large impact on overall conversion. That's why we prioritize fixing these early funnel bugs quickly to improve user acquisition."
+  }
+]

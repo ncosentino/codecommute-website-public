@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How have my career priorities changed from being a junior developer to now?",
+    "answer": "As a junior developer, I cared most about investing in my future financially and having a significant impact within a company, often favoring early-stage startups for potential home runs. Now, I prioritize stability and career progression, especially in big tech, where promotions are necessary for increased responsibilities and impact. While financial goals remain important, I focus more on steady growth rather than high-risk ventures."
+  },
+  {
+    "question": "How has my approach to building software projects evolved over time?",
+    "answer": "When I was more junior, I enjoyed reinventing the wheel by building things from scratch to satisfy my curiosity and learn deeply, like creating my own UI frameworks or messaging libraries. Nowadays, I rarely build things from scratch unless it's for fun or a specific interest, because I prioritize shipping meaningful projects that people will pay for. My focus has shifted from curiosity-driven coding to solving real problems efficiently."
+  },
+  {
+    "question": "What changes have I made in my coding and testing practices since starting out?",
+    "answer": "Early in my career, I didn't care about testing, but then I focused heavily on writing true unit tests with mocked dependencies to get precise coverage. Over time, as testing tools improved, I value integration tests using real dependencies more than isolated unit tests. However, my earlier focus on modular code and testability still helps me quickly add tests when needed, making me effective at maintaining and extending code."
+  }
+]

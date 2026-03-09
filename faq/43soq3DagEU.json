@@ -1,0 +1,14 @@
+[
+  {
+    "question": "Why do senior software engineers spend less time coding and more time writing documentation?",
+    "answer": "I believe that as you become more senior, you'll spend a smaller proportion of your time coding because you take on additional responsibilities like mentoring, design work, and cross-team collaboration. These tasks often involve writing documentation and organizing meetings, which are essential but not coding themselves. This shift is normal and expected in senior roles."
+  },
+  {
+    "question": "What causes delays and inefficiencies in the documentation review process among engineering teams?",
+    "answer": "From my experience, delays often happen because some reviewers take longer to provide feedback due to other priorities or workload, which can push the iteration timeline out by weeks. It's usually not anyone's fault specifically; it can be due to availability or the document's priority. Managing who is involved and escalating blockers early can help mitigate these inefficiencies."
+  },
+  {
+    "question": "How do you balance the need for documentation with a preference for action and conversation in engineering teams?",
+    "answer": "I have a bias towards conversation and action rather than extensive documentation. I prefer to keep the threshold for writing docs higher and lean towards synchronous discussions to get alignment quickly. This approach can save time and avoid the prolonged back-and-forth that sometimes happens with written feedback, though I acknowledge that some documentation is necessary depending on the context."
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How can engineering managers help software engineers who feel stuck in their career progression?",
+    "answer": "I believe engineering managers should have regular, timely, and specific conversations with their engineers about career growth and expectations. It's important to build trust and respect so that managers can give direct feedback and guidance. Using tools like talent guides or rubrics to clearly define role expectations can also help align understanding and reduce subjectivity in promotion criteria."
+  },
+  {
+    "question": "What challenges do floating engineering managers face when managing engineers' career growth?",
+    "answer": "From my perspective, floating engineering managers who don't have direct reports face difficulties building the trust and relationships needed to effectively guide engineers. This lack of consistent interaction can make it hard to have candid conversations about performance and career development, which are crucial for helping engineers grow and avoid stagnation."
+  },
+  {
+    "question": "How should engineering managers handle situations where engineers receive positive feedback from other stakeholders but are not progressing as expected?",
+    "answer": "I think engineering managers need to provide timely and specific feedback to engineers about the expectations they are not meeting, even if other stakeholders give positive reinforcement for different aspects of their work. It's also helpful to engage with those stakeholders to align on what behaviors should be encouraged. Documenting these conversations and expectations helps maintain clarity and supports the engineer's growth."
+  }
+]

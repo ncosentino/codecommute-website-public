@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What are your thoughts on not using pull requests if code passes automated CI/CD tests?",
+    "answer": "I think the process of doing some type of review is helpful, but it depends a lot on the context. In some teams I've worked with, where we are very in tune and communicate frequently, pull requests might slow us down and add minimal value. However, in many cases, pull requests and code reviews catch issues and help improve design, so I wouldn't recommend skipping them entirely without considering your team's culture and workflow."
+  },
+  {
+    "question": "How can teams reduce frustration and inefficiency in pull request reviews?",
+    "answer": "I believe the key is to have more frequent and earlier conversations about the code before it reaches the review stage. Instead of waiting until the code is done and then getting feedback that requires major redesign, teams should collaborate earlier to catch issues sooner. This approach minimizes wasted time and frustration during reviews and helps avoid bottlenecks caused by late feedback."
+  },
+  {
+    "question": "What should you do if your pull request is not being reviewed promptly by your team?",
+    "answer": "If your review has been up for a while and no one has looked at it, you should proactively communicate by messaging or tagging reviewers to let them know it's ready. Everyone is busy, so it's important to ask for reviews rather than waiting passively. Open communication helps the team stay aligned and prevents delays in the development process."
+  }
+]

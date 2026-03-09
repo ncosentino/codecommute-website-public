@@ -1,0 +1,14 @@
+[
+  {
+    "question": "Why do I feel frustrated using AI agents for software development?",
+    "answer": "I feel frustrated using AI agents because they often make the same trivial mistakes repeatedly, ignore specific instructions, and introduce incorrect patterns into the code. The memory systems in these agents can be broken, causing me to repeatedly teach them the same things. This leads to a very upsetting experience, making the process physically uncomfortable and mentally exhausting."
+  },
+  {
+    "question": "Is AI currently capable of fully replacing human software developers?",
+    "answer": "Based on my experience, AI is not yet capable of fully replacing human software developers. Despite advancements, AI agents still require significant human intervention to correct mistakes, follow codebase patterns, and understand specific frameworks. We have a long way to go before AI can independently handle software development without human oversight."
+  },
+  {
+    "question": "How do I plan to continue using AI tools despite current challenges?",
+    "answer": "I plan to keep using AI tools because I believe they will improve over time, and it would be unwise to give up on them now due to current frustrations. I intend to tune my experiences, learn from the challenges, and stay engaged with evolving tools. For example, I am preparing to record a video using GitHub Spark without prior knowledge to test its capabilities in building software end to end."
+  }
+]

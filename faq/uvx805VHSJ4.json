@@ -1,0 +1,14 @@
+[
+  {
+    "question": "Does Microsoft have a mandatory return to office (RTO) policy for employees?",
+    "answer": "As far as I'm aware, Microsoft does not have a big push for mandatory return to office. The policy is hybrid work, allowing up to 50% work from home by default, with manager approval needed beyond that. In practice, most managers are very comfortable with remote work and there is no strong pressure to return to the office."
+  },
+  {
+    "question": "What is Microsoft's current hybrid work policy for software engineers?",
+    "answer": "Microsoft's policy allows software engineers to work remotely up to 50% of the time without special approval. Beyond that threshold, manager approval is required. However, in reality, many managers are flexible and supportive of remote work, and employees often choose their own balance of office and remote days."
+  },
+  {
+    "question": "What are some benefits and challenges of hybrid work from your experience at Microsoft?",
+    "answer": "I love the flexibility of hybrid work because it allows me to work from home when needed, especially on call days, saving commute time. Going into the office a couple of days a week helps with team camaraderie and focused brainstorming sessions using whiteboards. While some argue hybrid work has drawbacks, I find the balance very beneficial for productivity and work-life balance."
+  }
+]

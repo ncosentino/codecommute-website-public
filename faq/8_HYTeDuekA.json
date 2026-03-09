@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How can I transition from building simple projects like to-do lists to more complex projects as a beginner developer?",
+    "answer": "I recommend taking your simple projects and adding layers of complexity to them. For example, you can make your to-do list a component of a larger application like a calendar app, or add features like database persistence, cloud hosting, or API versioning. Iteratively refactoring and expanding your existing codebase helps you learn real-world development skills like managing bigger codebases and evolving software over time."
+  },
+  {
+    "question": "What strategies do you suggest for learning useful developer skills beyond just coding?",
+    "answer": "I believe useful developer skills include communication, time management, and prioritization, which are often overlooked when focusing only on coding. You can practice these by working in teams during boot camps, college, or other group projects, even if it feels challenging. Handling difficult team dynamics and improving communication are valuable experiences that prepare you for real software development environments."
+  },
+  {
+    "question": "How did building a complex hobby project like a role-playing game help you learn programming?",
+    "answer": "Building my role-playing game was a playground where I kept adding complexity over many years, starting from a simple text-based game to more advanced systems like itemization, skills, and AI pathfinding. Although I never finished it, this iterative process taught me how to architect, refactor, and evolve code. It was fun and helped me develop deeper programming skills by continuously challenging myself with new features and complexity."
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How do you balance hands-on execution with empowering your teams as an engineering manager?",
+    "answer": "I believe balancing hands-on execution with empowering teams comes from leadership. When teams are small, especially in startups, I code with them to show collaboration impact. As responsibilities grow, I focus more on enabling the team and making myself replaceable to scale my impact. If I need to be hands-on frequently, it's a signal to improve team health or allocation."
+  },
+  {
+    "question": "What is your approach to coding as an engineering manager at different stages of your career?",
+    "answer": "At startups, I coded daily with my team because the teams were small and scrappy. At Microsoft, I haven't coded at work for years, but I still program outside work. I help by reviewing code or debugging with engineers rather than writing features myself. This shift reflects my role scaling and the need to empower teams rather than be the bottleneck."
+  },
+  {
+    "question": "How do you handle team growth and skill development while maintaining delivery speed?",
+    "answer": "I try to balance giving people work that interests them and building their skills with meeting priorities and delivery speed. I encourage team members to work on new areas with support from subject matter experts, even if it slows things down short-term. This approach avoids silos and creates a healthier team long-term, while I step in during critical issues to help as needed."
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "question": "Do you hire engineers who are technically skilled but have difficult personalities?",
+    "answer": "No, I will not hire engineers who are difficult to work with, even if they are technically skilled. A toxic team member can bring down the entire team and negatively impact the culture, so I prioritize good interpersonal skills and teamwork over just technical ability."
+  },
+  {
+    "question": "How do you assess if an engineer 'passes the vibe check' during an interview?",
+    "answer": "I use behavioral interview questions to understand how candidates work with others, handle conflict, and learn from experiences. If someone blames others for every problem without self-reflection, that's a red flag. I look for candidates who show willingness to collaborate, learn, and improve their behavior."
+  },
+  {
+    "question": "Why is team diversity and a range of experience levels important when building engineering teams?",
+    "answer": "Having a spectrum of experience levels and diverse skill sets is crucial because not all work requires senior engineers, and junior engineers can build confidence with well-understood tasks. Diversity in backgrounds and skills brings different perspectives, making the team more well-rounded and effective overall."
+  }
+]

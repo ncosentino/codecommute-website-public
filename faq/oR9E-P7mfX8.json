@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How can managers ensure remote employees feel included in team communication?",
+    "answer": "I make sure to over-communicate and use multiple channels like chat and email to reach remote employees. I pay special attention to including them in meetings and updates so they don't feel excluded compared to in-office team members. It's important to adapt communication methods to bridge the gap between remote and local employees."
+  },
+  {
+    "question": "What should a team do if their current communication processes, like standups or retrospectives, aren't effective?",
+    "answer": "I believe if a process isn't effective, the team should change it rather than just going through the motions. For example, if standups don't surface blockers or encourage participation, we either adjust the format or replace the meeting with something more useful. The key is to understand the purpose of each process and ensure it serves that purpose well."
+  },
+  {
+    "question": "How do you empower engineers to contribute to improving team communication and processes?",
+    "answer": "I create a safe environment where engineers feel comfortable proposing changes and sharing their ideas. I encourage them to bring suggestions to retrospectives and help get buy-in from the team. When the team drives the change, they are more committed to trying it out, and I support them by leading by example and reinforcing that their input is valued."
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What backend skills or technologies should I focus on to prepare for my first job without a CS degree?",
+    "answer": "I recommend picking a technology stack and language to start building interesting hobby projects that you care about. Focus on foundational skills like understanding web services, cloud providers, and databases rather than stressing over the most in-demand language. Over time, you can switch technologies as needed, so the key is to gain practical experience by building and deploying projects."
+  },
+  {
+    "question": "How important is it to learn about cloud providers and deployment for backend development?",
+    "answer": "I think it's very helpful to get comfortable deploying your projects to cloud providers like Azure, AWS, or Google Cloud. Even if your first job doesn't use these platforms, the experience reinforces your understanding of running web services in real environments, which usually aren't desktop computers. This hands-on practice helps you grasp what it means to deploy and maintain backend services."
+  },
+  {
+    "question": "Should I focus solely on backend skills or also learn some frontend when preparing for backend jobs?",
+    "answer": "I wouldn't drop all frontend learning because backend services often communicate with frontend applications. Understanding frontend frameworks like React and how APIs are consumed helps you design better backend services. Knowing how frontend and backend interact allows you to optimize data fetching and API design, which is valuable experience for backend developers."
+  }
+]

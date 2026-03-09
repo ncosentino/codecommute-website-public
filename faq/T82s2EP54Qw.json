@@ -1,0 +1,14 @@
+[
+  {
+    "question": "Should I build side projects just to have complex things on my resume?",
+    "answer": "I believe building side projects is a great idea, but the goal shouldn't be complexity for its own sake. Instead, focus on practicing and learning the technologies you want to use. Complexity often comes as a side effect of exercising a tech stack, not as the primary goal."
+  },
+  {
+    "question": "How can I use side projects to stand out when applying for jobs in a new domain?",
+    "answer": "I recommend identifying the skills needed for the job you want and assessing your current skill gap. Then, build side projects that help you learn and demonstrate those specific skills, even if the project itself is simple, like a to-do app integrated with relevant frameworks. This approach shows targeted experience related to your desired domain."
+  },
+  {
+    "question": "What should I do if I want my first developer job but feel my skills are similar to many other candidates?",
+    "answer": "You should look for differentiators by aligning your skills with job descriptions and then expanding into adjacent or complementary skills. For example, if you want to be a front-end developer, try building projects that also involve back-end work to demonstrate full-stack capabilities. This helps you stand out by showing a broader skill set beyond the basics."
+  }
+]

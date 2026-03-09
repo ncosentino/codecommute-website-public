@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How can I handle constant requests for help from my previous development team after transferring to a new team?",
+    "answer": "I recommend not just solving the problems for them but taking the time to teach someone on the old team how to fix the issues. This might take longer initially, but it helps build their expertise and reduces future requests. Also, encourage them to document the solutions together with you so the documentation is useful for people unfamiliar with the system."
+  },
+  {
+    "question": "What should I consider when planning a transition from one development team to another to avoid being a single point of failure?",
+    "answer": "I think it's important to identify areas where you are the single point of failure and work with your team to share that knowledge. This could involve documenting critical systems, giving presentations, or pairing with others to transfer expertise. Starting this early makes the transition smoother and prevents over-reliance on one person."
+  },
+  {
+    "question": "How do I manage expectations with my old and new managers when transitioning between teams?",
+    "answer": "I believe it's crucial to get both your previous and new managers on the same page about your responsibilities and boundaries. Setting clear expectations helps avoid being pulled in different directions and ensures support for your career growth. You might consider arranging a meeting or call with both managers to align on how to handle ongoing support for your old team while focusing on your new role."
+  }
+]

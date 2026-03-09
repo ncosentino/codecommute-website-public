@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How do you handle marketing and sales challenges when building a SaaS product on the side?",
+    "answer": "I found that marketing and sales require a disproportionate amount of time and effort compared to just building the software. Even if the idea is great and the product is well-built, if people don't know about it, no one will use it. I try to push myself to do outreach and promotion, even though I find sales and marketing uncomfortable and challenging."
+  },
+  {
+    "question": "What lessons did you learn from your previous SaaS projects like Hangry and Meal Coach?",
+    "answer": "From Hangry, I learned that building a cool product isn't enough if you don't put effort into marketing it, as no one used it because no one knew about it. With Meal Coach, I realized that even if users find the idea interesting, if the product creates more work for them instead of saving time, they won't stick with it. Both experiences taught me that execution beyond coding, including marketing and user engagement, is crucial."
+  },
+  {
+    "question": "Why is it important to get user feedback and have paying users when developing a SaaS product?",
+    "answer": "Having paying users and getting their feedback helps prioritize what features to build next based on real needs rather than just assumptions. It moves development from just refactoring or adding random features to focusing on what users actually want and will pay for. This feedback loop is essential for evolving the product and making informed decisions about new features and pricing tiers."
+  }
+]

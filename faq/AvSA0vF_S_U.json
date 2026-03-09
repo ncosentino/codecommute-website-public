@@ -1,0 +1,14 @@
+[
+  {
+    "question": "Do customers care about how clean the software code is?",
+    "answer": "I believe customers do not care about how clean the software code is. They care about the value the software delivers, how well it solves their problems, the price, and the speed of delivery. Clean code is important to software engineers because it helps us deliver better software, but customers focus on the outcome, not the code quality itself."
+  },
+  {
+    "question": "Why is the analogy between clean code and a clean restaurant kitchen a false comparison?",
+    "answer": "I think comparing clean code to a clean restaurant kitchen is a false dichotomy because the two are not directly comparable. Customers don't ask restaurants about kitchen cleanliness before eating, but they do care about health risks if informed. In software, customers care more about security and privacy, which is a closer analogy to kitchen cleanliness, rather than code cleanliness or organization."
+  },
+  {
+    "question": "Can unclean code still deliver value to customers effectively?",
+    "answer": "Yes, unclean code can still deliver value effectively if the software is shipped on time, has low customer-reported bugs, and solves the customer's pain points at a price they're happy with. Engineering teams can address technical debt and improve code quality over time without customers noticing, as long as the end result meets their expectations for performance and reliability."
+  }
+]

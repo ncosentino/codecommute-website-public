@@ -1,0 +1,14 @@
+[
+  {
+    "question": "Is it normal for entry-level developers to spend most of their time maintaining existing code rather than creating new projects?",
+    "answer": "Yes, it is normal. Most developers spend the majority of their careers working on existing products or services, adding features and maintaining code rather than starting new projects from scratch. This is because companies with paying customers need to continuously build on and support their current offerings."
+  },
+  {
+    "question": "What are some reasons why developers have to work within existing code constraints instead of choosing new technologies?",
+    "answer": "When working on an existing product, developers must operate within the constraints of the current tech stack and infrastructure chosen by others. For example, if the backend is in NodeJS with a MongoDB database, you have to work with those technologies rather than switching to something else. Additionally, live services with many users require careful handling of database migrations and feature rollouts, which limits the freedom to make drastic changes."
+  },
+  {
+    "question": "What career paths might be better suited for developers who want to work on new projects more frequently?",
+    "answer": "If you prefer constantly working on new things rather than maintaining existing code, contract work or freelancing might be a better fit. These paths often allow you to start fresh projects more regularly and keep you more engaged. It’s important to find a career path that aligns with what you enjoy doing long term."
+  }
+]

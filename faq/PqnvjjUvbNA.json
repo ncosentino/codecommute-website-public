@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How can having an onboarding buddy improve the experience for new developers?",
+    "answer": "I believe having an onboarding buddy is really good for anyone joining a new team, regardless of their level. This person can answer questions and provide support, creating a safe place to ask for help. From my experience, having a buddy helps new hires feel comfortable and supported, which leads to a better onboarding experience."
+  },
+  {
+    "question": "What should a new developer do if the documentation provided is not helpful?",
+    "answer": "If the documentation isn't sufficient, I recommend trying to leverage it as much as possible and putting honest effort into understanding it. If you get stuck, take notes on what you've tried and then go back to the person who pointed you to the documentation with specific questions and evidence of your attempts. This shows that you are making an effort and helps others understand where you need more clarity."
+  },
+  {
+    "question": "How should a new developer handle a situation where their manager is not providing the support they need?",
+    "answer": "If your manager doesn't have the answers, I expect them to help you find someone who does or work with you to get the information. If you feel unsupported, document your efforts, including who you've talked to and what you've tried, then have a conversation with your manager to level set expectations and ask for suggestions on how to improve the situation. If after that you still don't get support, it might indicate a problematic environment or management issue."
+  }
+]

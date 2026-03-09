@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How should candidates approach using AI for take-home software engineering interviews?",
+    "answer": "I think it's okay for candidates to use AI for take-home interviews, but they should definitely test and validate the AI-generated code before submitting it. Submitting untested AI-generated work is a red flag for me and likely a no hire, because I expect candidates to run their code and ensure it works properly."
+  },
+  {
+    "question": "What is my opinion on using traditional LeetCode-style questions in software engineering interviews with AI?",
+    "answer": "I'm not a fan of LeetCode-style questions because they often focus on memorization and finding the most optimized final answer, which AI can easily generate. Instead, I believe interviews should focus on candidates explaining their thought process and walking through code, which better demonstrates understanding and problem-solving skills."
+  },
+  {
+    "question": "How can interviewers adapt their process to effectively evaluate candidates using AI tools?",
+    "answer": "Interviewers should clarify what skills they want to assess and consider allowing candidates to use AI as a tool during interviews, especially for generating code. The key is to have candidates explain and navigate the code, demonstrate their understanding, and show how they use AI to assist their problem-solving rather than just producing final answers."
+  }
+]

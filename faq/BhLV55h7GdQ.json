@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How did you use Git diff with Copilot to solve an intermittent bug in production?",
+    "answer": "I generated a Git diff file between the working and broken commits and fed that diff to Copilot along with a description of the symptoms. Within seconds, Copilot pointed out that my problem was related to how I registered a factory object as a singleton in dependency injection, which caused intermittent failures. This approach helped me identify the root cause quickly when manual debugging was not productive."
+  },
+  {
+    "question": "What was your experience using Cursor AI tool for logging improvements in your C# projects?",
+    "answer": "I used Cursor to help refactor logging by adding 'begin scope' to include common diagnostic information automatically in logs. Initially, Cursor made some mistakes by removing important helper method calls, but after refining my prompt to restrict changes only to adding scopes and preserving log messages, it successfully applied the improvements across multiple plugins. Although it required some back and forth, I believe it will save time on similar repetitive tasks going forward."
+  },
+  {
+    "question": "Why do you prefer using Git Extensions over command line for code diffs and debugging?",
+    "answer": "I prefer Git Extensions because it provides a rich visual UI for clicking through files and seeing diffs, which I find more intuitive than using the command line. I feel that since we have rich UIs available, it makes sense to use them instead of sticking strictly to terminal commands. This visual approach helps me better understand the changes and troubleshoot issues effectively."
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How can software engineers better convey the business value of their projects to non-technical stakeholders?",
+    "answer": "I advise engineers to step away from technical metrics like counts of repositories or dependencies and instead focus on outcomes that matter to the business, such as saving time, reducing risk, or saving money. By framing the impact in terms of how it affects business goals, like improving productivity for 500 people or reducing build times, the value becomes clearer to leadership and business stakeholders."
+  },
+  {
+    "question": "Why is focusing on engineering metrics alone insufficient when explaining project value to business leaders?",
+    "answer": "I find that engineering metrics, such as counts of dependencies or lines of code, are meaningful only to engineers working on the project but do not resonate with business leaders. These numbers don’t explain the impact on money, time, or risk, which are the key concerns for business stakeholders who decide on funding and prioritization."
+  },
+  {
+    "question": "What are some effective ways to communicate the impact of technical debt to business decision-makers?",
+    "answer": "I recommend framing technical debt in terms of business impact by explaining how messy or untested code increases risk and slows down feature delivery. For example, investing time to address technical debt upfront can reduce the risk of bugs and speed up future development, which translates to cost savings and faster time to market, rather than just saying the code is hard to work with."
+  }
+]

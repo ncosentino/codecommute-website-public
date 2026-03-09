@@ -1,0 +1,14 @@
+[
+  {
+    "question": "Why do I often forget things discussed in meetings as a developer?",
+    "answer": "I find that forgetting things from meetings depends on several factors like how prepared I am, my domain knowledge, and how focused I am during the meeting. If I'm unfamiliar with the topic or not fully engaged, I tend to remember less. Also, multitasking or not understanding the meeting context reduces my retention significantly."
+  },
+  {
+    "question": "How can I prepare better for meetings to improve my memory of what was discussed?",
+    "answer": "I try to prepare by understanding the meeting context beforehand, sometimes reaching out to the organizer if the purpose isn't clear. This helps me focus on the important points rather than figuring out why I'm there. Preparation combined with some domain knowledge allows me to use my mental capacity more effectively to remember key details."
+  },
+  {
+    "question": "What tools or methods do you use to remember meeting details effectively?",
+    "answer": "I alternate between bringing a physical notebook and nothing to meetings. When I expect to have follow-up actions, I bring a notebook to take notes because I don't do well with digital notes. For remote meetings, I also want to leverage tools like Microsoft Co-pilot to help capture and recall meeting outcomes, although I still need to practice using it more effectively."
+  }
+]

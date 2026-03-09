@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How do you use ChatGPT to design the notification system for Brand Ghost?",
+    "answer": "I use ChatGPT to help design the notification system by describing my requirements and then reviewing the code and design it suggests. I give feedback to adjust data schemas, fix inefficient queries, and ensure the system supports batching and configurability for different user preferences. This pairing helps me build a more scalable and flexible notification system that can handle various notification types like email and Slack."
+  },
+  {
+    "question": "Why did you decide to persist notifications to a database instead of sending emails immediately?",
+    "answer": "I decided to persist notifications to a database first because I want to support intelligent batching over time rather than sending an email immediately when an issue occurs. This approach prevents losing notifications if the server redeploys and allows a separate job to batch and send notifications on a schedule. It also helps avoid overwhelming users with too many notifications, letting them configure what types they want to receive."
+  },
+  {
+    "question": "How did ChatGPT help you fix the issue with tracking Twitter replies in Brand Ghost?",
+    "answer": "I gave ChatGPT the existing Twitter code and explained the problem that replies made on the native Twitter app weren't detected. ChatGPT quickly identified that excluding my own comments from the query caused this issue. It suggested including all comments and then filtering in memory to check if I had replied, which was a simple but effective fix. This saved me time and helped me understand the problem more clearly."
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How should a senior developer handle junior developers who resist their suggestions?",
+    "answer": "I believe it's important to invite open conversation rather than just asserting authority. I try to explain my recommendations with evidence from my experience, but I also encourage juniors to share their perspectives so we can explore ideas together. This approach helps build psychological safety and team cohesion, rather than shutting down communication which can lead to frustration and isolation."
+  },
+  {
+    "question": "What communication strategies do you recommend when dealing with disagreements on technical decisions?",
+    "answer": "I recommend asking questions and guiding the junior developer through their thought process instead of directly solving the problem for them. By being curious and encouraging them to elaborate, I help them explore their problem space and identify potential issues themselves. This method takes time and patience but leads to better understanding and learning for both parties."
+  },
+  {
+    "question": "When is it appropriate for a senior developer to veto a junior developer's decision?",
+    "answer": "If a junior developer is making a high-risk decision that could jeopardize the project, such as compromising security, I believe it's necessary to step in and veto that decision. However, I do this not to shut down conversation but to protect the team and project. After vetoing, I make sure to discuss the reasons openly so everyone can learn from the situation."
+  }
+]

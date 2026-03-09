@@ -1,0 +1,14 @@
+[
+  {
+    "question": "Why do some companies overemphasize the prestige of previous employers and years of experience when evaluating software engineers?",
+    "answer": "I think companies often overemphasize the prestige of previous employers and years of experience because they assume exclusivity or a higher bar was required to get there. This exclusivity creates a perception that those engineers must be more qualified, even though it's not always a reliable metric. Similarly, years of experience are used as a proxy for quality, but that doesn't always mean the engineer is actually skilled or knowledgeable."
+  },
+  {
+    "question": "How should software engineering teams be structured in terms of experience levels?",
+    "answer": "In my experience, a healthy software engineering team has a mix of experience levels, like principal engineers, seniors, and mid-levels. It doesn't make sense to have everyone at the highest level because different types of work require different skill sets and engagement. Having a variety of levels allows for continuity, growth paths, and better team dynamics."
+  },
+  {
+    "question": "What are some common misconceptions about what it means to be a software engineer beyond just coding?",
+    "answer": "I often see people thinking that being a software engineer is just about writing code, but there's much more to it. You have to communicate with team members and stakeholders, work collaboratively, and understand the broader context of building applications. So, topics outside of coding, like teamwork and communication, are crucial for success in software engineering."
+  }
+]

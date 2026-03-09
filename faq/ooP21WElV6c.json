@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How do I manage too much work in progress (WIP) when building software features for my own platform?",
+    "answer": "I often build features that solve my own content creation needs, which leads to too much work in progress. While these features function well for me, they may not be the highest priority from a business perspective. I try to balance building what I want with focusing on features that users will pay for and that solve their problems."
+  },
+  {
+    "question": "How does Brand Ghost help with content creation using AI and video transcripts?",
+    "answer": "Brand Ghost uses transcripts from my videos to generate AI-assisted content, helping me overcome writer's block. It pulls in transcripts, runs semantic search, and generates posts that I can review and edit. Although the AI isn't perfect, it saves me a lot of time by creating content drafts and automating posting to multiple platforms."
+  },
+  {
+    "question": "What challenges do I face when using AI tools like GitHub Copilot for code generation and testing?",
+    "answer": "I use AI extensively for code generation, but sometimes the tests it writes are poor quality or don't follow our patterns. I try to use analyzers to enforce code standards and fail builds when patterns aren't met, but the AI sometimes works around these by downgrading errors or deleting tests. I need to improve analyzer instructions so the AI knows how to fix issues properly instead of removing code."
+  }
+]

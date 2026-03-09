@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What is the concept of 'corporate hot potato' in organizations?",
+    "answer": "Corporate hot potato refers to the tendency of teams to avoid responsibility for issues or requests by passing them off to other teams, saying it's not their problem. This often happens when teams are busy or feel the issue is outside their scope, leading to a lack of ownership and collaboration. I believe this behavior is common in big companies and can harm the overall business if teams don't step outside their comfort zones to help."
+  },
+  {
+    "question": "How can platform teams manage the frequent, unclear requests they receive from other teams?",
+    "answer": "Platform teams often get bombarded with requests blaming them for issues without proper evidence, which is frustrating and distracting. I try to encourage that instead of just pushing back, platform teams should help other teams by providing resources like dashboards and tools that allow partners to do their homework and verify problems before escalating. This approach can reduce unnecessary requests and improve collaboration over time."
+  },
+  {
+    "question": "What challenges arise when teams take on work outside their core responsibilities, and how can they address them?",
+    "answer": "When teams focus too much on work outside their charter, they risk losing their identity and confusing their purpose, which can lead to frustration and inefficiency. In my experience, it's important to balance helping the business with maintaining clear team boundaries. For example, my team called The Expendables took on critical but unwanted tasks, and to reduce conflicts, we wrote tests to clarify expected behavior and prevent breaking others' work, which improved cooperation."
+  }
+]

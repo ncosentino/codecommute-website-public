@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How does Brand Ghost help with managing social media posts while on vacation?",
+    "answer": "I use Brand Ghost to completely automate all of my social media posts across every platform. While on vacation, I didn't have to do a single thing because all posts were scheduled automatically through Brand Ghost, allowing me to relax and enjoy my time without worrying about content posting."
+  },
+  {
+    "question": "What caused the issue of multiple posts being scheduled simultaneously in Brand Ghost?",
+    "answer": "The issue was caused by an incorrect assumption that only one instance of our backend was running. In reality, Azure was automatically scaling up to multiple instances, which broke the code's protection against duplicate scheduling because it was designed to work with a single instance only."
+  },
+  {
+    "question": "What is the solution to handle scaling and ensure idempotent consumers in the queuing system?",
+    "answer": "I plan to implement a distributed queue using Azure Service Bus with MassTransit and ensure the consumers are idempotent. This means consumers can safely process messages multiple times without side effects, using database locks and unique key constraints within transactions to guarantee mutual exclusion and prevent duplicate processing."
+  }
+]

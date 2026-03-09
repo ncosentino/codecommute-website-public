@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What are the drawbacks of having a separate dedicated QA team from developers?",
+    "answer": "From my experience, having a separate dedicated QA team often leads to inefficiencies like contact switching and delays. Developers finish their work and then toss it over the wall to QA, which can cause disruptions and slow down the process, especially if QA finds bugs after developers have moved on to new tasks. This separation can create bottlenecks and communication overhead that reduce overall team autonomy and effectiveness."
+  },
+  {
+    "question": "How can embedding testers within development teams improve the software development process?",
+    "answer": "Embedding testers directly within development teams helps create autonomous units where everyone collaborates closely. This approach reduces dependencies and bottlenecks, fosters better communication, and allows testers to act as user proxies, focusing on usability and quality alongside developers. It also enables continuous improvement in testing strategy and encourages developers to write automated tests, making testing an integral part of the development culture."
+  },
+  {
+    "question": "What role does a test strategist play in a development team without a traditional QA team?",
+    "answer": "A test strategist works closely with developers to define and improve the testing approach rather than performing all the testing themselves. They help the team understand what needs to be tested, identify edge cases, and ensure good test coverage through automated tests. This role supports the team by providing guidance on test strategy and tooling, enabling developers to take ownership of quality while still benefiting from expert input on testing practices."
+  }
+]

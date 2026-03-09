@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What does 'dogfooding' mean in the context of BrandGhost?",
+    "answer": "Dogfooding means using your own product or service. For BrandGhost, it means we use our own platform to do all of our social media posting, which helps us experience the product as our own customers do and identify areas for improvement."
+  },
+  {
+    "question": "How is BrandGhost improving the handling of image posts on social media?",
+    "answer": "Currently, BrandGhost requires a public URL to an image for posting, which can be error-prone, especially with links from services like Google Drive. We're working on integrating Azure Blob Storage, which will allow users to upload images directly, giving us better control and making the process more reliable and user-friendly."
+  },
+  {
+    "question": "What is BrandGhost's approach to using AI for content creation and onboarding?",
+    "answer": "We want to use AI to supplement content creation by providing variations of existing posts without losing the creator's voice. However, we are cautious not to produce low-quality or obviously AI-generated content, as that can harm engagement. Our goal is to help users get started with AI in a way that enhances their content rather than replacing genuine creativity."
+  }
+]

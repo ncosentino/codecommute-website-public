@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What motivated you to speak at the Commit Your Code Conference in Dallas?",
+    "answer": "I have considered myself a terrible public speaker for a long time because I'm very introverted, so speaking at the conference was a personal growth milestone for me. I wanted to challenge myself to speak in front of an audience since I already talk to a camera and livestream a lot, which made me realize that speaking live isn't that different."
+  },
+  {
+    "question": "How do you plan to structure your talk on plug-in architecture at the conference?",
+    "answer": "I plan to chop down my previous presentation to fit the shorter time slot, focusing about half the time on the background and organization of plug-in architecture and the other half on showing code examples. I want to balance theoretical concepts with practical code, possibly using pictures and offline materials to supplement the talk."
+  },
+  {
+    "question": "What are the two major types of plugins you discuss in your plug-in architecture talk?",
+    "answer": "I describe kernel plugins, which are core dependencies like logging or caching that your application needs to run properly, and feature plugins, which represent entire feature verticals such as browsing products or checkout in an e-commerce app. For example, in my Brand Ghost application, each social media platform is a plugin, and posting logic and feed aggregation are also handled via plugins."
+  }
+]

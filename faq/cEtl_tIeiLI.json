@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How is engineering management typically structured in organizations with around 30 engineers?",
+    "answer": "In my experience, engineering management is usually structured around product or feature teams rather than by discipline like front-end or back-end. Typically, engineers report to a single engineering manager who oversees the whole team, while product managers have a parallel reporting structure. Having engineers report to different managers by discipline within the same team is uncommon and can be challenging to manage."
+  },
+  {
+    "question": "What are the potential issues when engineering managers do not engage with their teams in day-to-day activities?",
+    "answer": "When engineering managers are not involved in sprint rituals, planning, or architecture discussions, it can limit their impact on the team's success. I worry that managers who only perform HR-related tasks without technical engagement might struggle to demonstrate their value, especially if they move to organizations with different expectations. This setup might work if team leads or tech leads take on operational responsibilities, but it’s not typical or ideal from my perspective."
+  },
+  {
+    "question": "How can an engineer demonstrate impact and growth when taking on team lead responsibilities without formal management authority?",
+    "answer": "If you’re performing many engineering manager duties without formal direct reports, it’s important to increase your visibility and communicate your contributions clearly. I recommend sharing your work beyond one-on-ones with your manager to ensure others recognize your impact. Also, understand that doing less coding while leading and organizing the team is normal, and over time you’ll see that your influence grows through coordination, architecture participation, and career development support."
+  }
+]

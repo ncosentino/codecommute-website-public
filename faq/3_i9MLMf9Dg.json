@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How do I effectively communicate technical issues to non-technical stakeholders?",
+    "answer": "I focus on understanding what non-technical stakeholders care about rather than just explaining the technical details. I keep the goal of the conversation in mind and tailor my message to align with their perspective, often using metaphors or comparisons to make complex ideas relatable. This helps ensure they understand the key points and can communicate them further if needed."
+  },
+  {
+    "question": "What should I consider when explaining a technical incident to my engineering manager?",
+    "answer": "I consider that my manager may not have the same technical depth as I do and that they need enough information to confidently represent our team to higher leadership. I focus on the impact, the measures taken to fix the issue, and any systemic improvements like added tests or monitoring, avoiding overly detailed technical jargon unless it highlights a critical point. This approach helps them understand and communicate the situation effectively."
+  },
+  {
+    "question": "Why are metaphors and comparisons useful in communicating technical concepts?",
+    "answer": "I find metaphors and comparisons useful because they help bridge the gap between technical details and the listener's frame of reference. By relating complex ideas to something familiar to the other person, such as a hobby or their professional expertise, I make the information more accessible and easier to understand. This technique often illuminates the concept better than direct technical explanations alone."
+  }
+]

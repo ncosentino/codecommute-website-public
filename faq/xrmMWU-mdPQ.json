@@ -1,0 +1,14 @@
+[
+  {
+    "question": "Why are popular open source .NET packages like AutoMapper and Mediator moving to a commercial model?",
+    "answer": "I think the maintainers, like Jimmy Bogart, are moving to a commercial model because maintaining these large projects requires a lot of time and effort, which they can no longer dedicate for free. For example, Jimmy was previously paid to work on these projects as part of his job, but now he has other consulting work and can't keep up with the backlog. Commercializing allows them to get compensated for their time and provide better support and development."
+  },
+  {
+    "question": "How does the commercial transition of Mass Transit affect existing users and pricing?",
+    "answer": "Mass Transit version 8 remains open source with continued security patches and community support until 2026, but version 9 will be a commercial product with expert assistance and SLAs. Pricing targets $400 per month for small to medium businesses and $1,200 per month for large organizations, which I find reasonable for businesses but too expensive for solo developers or small teams. I plan to stick with version 8 for now since the pricing doesn't make sense for my small development setup."
+  },
+  {
+    "question": "What strategies do you recommend for developers to handle changes when open source packages become commercial?",
+    "answer": "I recommend putting shim layers or abstraction layers around third-party libraries you use, so your core code depends on your own interfaces rather than directly on the package APIs. This way, if a package changes its license or pricing model, you can swap it out or modify your shim without breaking your entire codebase. While some may see this as over-abstraction, it helps avoid major disruptions when popular packages change their business model."
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How people-centric is a software engineering role in tech companies?",
+    "answer": "I believe software engineering is very people-centric, even though there are stereotypes about engineers being introverted and working alone. In reality, engineers often collaborate with others through code reviews, design discussions, and aligning technology with business needs. The amount of interaction increases as you become more senior, and working purely in isolation can limit your impact and growth."
+  },
+  {
+    "question": "What are some technical roles in tech that involve significant customer or people interaction?",
+    "answer": "Roles like sales engineer require deep technical knowledge combined with a lot of customer interaction, as you help explain and implement solutions. Technical install roles involve going onsite to set up technology and working directly with customer IT staff. Tech support, especially onsite support in data centers or businesses, also involves interacting with people to diagnose and fix hardware or software issues."
+  },
+  {
+    "question": "How do project managers and product managers in tech balance technical knowledge with people skills?",
+    "answer": "Project managers focus on coordinating execution, identifying roadblocks, and communicating status, which requires technical understanding to ask good questions and challenge engineers. Product managers concentrate on understanding customer needs and prioritizing features, working closely with users and engineers. Both roles are highly people-focused and require enough technical knowledge to have meaningful conversations and align priorities across teams."
+  }
+]

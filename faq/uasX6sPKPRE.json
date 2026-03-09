@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How should standup meetings be structured to be effective?",
+    "answer": "I believe standup meetings should be very brief, ideally around 30 seconds to a minute per person, so a team of five could have a 5 to 10 minute meeting. The goal is to quickly update on progress and identify blockers, not to dive into detailed technical discussions. If standups run long or go into weeds, they become ineffective and waste time."
+  },
+  {
+    "question": "What makes retrospectives valuable and how can they be improved?",
+    "answer": "From my experience, retrospectives are valuable when the team genuinely reflects on what worked well and what didn't, challenging the status quo to drive continuous improvement. If retrospectives only celebrate successes without analyzing problems, they tend to feel like a waste of time. I encourage teams to create a safe space for honest conversations about challenges to make retrospectives meaningful."
+  },
+  {
+    "question": "How can teams handle one-off meetings to avoid wasting time?",
+    "answer": "I recommend keeping one-off meetings focused and involving only the necessary people to avoid wasting others' time. For example, if two engineers need to discuss a complex issue, they should meet separately rather than using a larger recurring meeting. Afterward, sharing the outcomes with the wider team via email or chat helps keep everyone informed without unnecessary attendance."
+  }
+]

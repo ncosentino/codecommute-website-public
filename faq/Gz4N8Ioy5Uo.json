@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How has your experience been using GitHub Copilot agents with pull requests compared to other agent tools?",
+    "answer": "My experience with GitHub Copilot agents using pull requests has been surprisingly positive compared to other agent tools. While other agents often did stupid or invaluable things requiring more time to fix, Copilot has delivered reasonable results and performed at the level I expected agents to perform. It has helped me complete various tasks efficiently, from refactoring to feature development, which was a refreshing change."
+  },
+  {
+    "question": "What types of tasks have you successfully assigned to GitHub Copilot agents in your projects?",
+    "answer": "I've assigned a wide range of tasks to GitHub Copilot agents, including porting background services to Quartz jobs, refactoring code with new data transfer objects, adding front-end UI features, and writing documentation for architectural patterns. It has also helped with automating social media posts and upgrading NuGet packages. Most of these tasks were completed well, often perfectly on the first try, saving me significant time."
+  },
+  {
+    "question": "Are there any limitations or failures you've encountered when using GitHub Copilot agents?",
+    "answer": "Yes, there have been some limitations and failures. For example, Copilot struggled with fixing a complex SQL query and failed to create a proper test runner for running XUnit tests in parallel. Some open-ended or complex problems did not work out well, and I had to spend time reviewing and correcting the results. However, these failures were expected given the complexity, and overall, the positive experiences outweighed the negatives."
+  }
+]

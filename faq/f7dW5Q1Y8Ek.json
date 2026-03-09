@@ -1,0 +1,14 @@
+[
+  {
+    "question": "Is it normal for a developer to work on the same project for four years?",
+    "answer": "I don't think it's totally normal to work on the exact same project for four years, but it depends on what you mean by 'project.' If it's the same area or product that has grown in scope, it can be more realistic. It's not necessarily a bad thing, but it's not super common either."
+  },
+  {
+    "question": "What are the pros and cons of working in the same area or project for an extended period?",
+    "answer": "Working in the same area allows you to build expertise and become a domain expert, which can make you the go-to person for that area. It can also provide high impact and visibility if the area is important to the business. However, the cons include limited exposure to other parts of the system, which can make tasks like on-call support challenging, and potential lack of breadth in skills and experience. Also, if you're not interested or challenged by the work, it can lead to disengagement and lower performance."
+  },
+  {
+    "question": "How should a developer approach feeling stuck or unchallenged in their current project or area?",
+    "answer": "I recommend doing personal reflection to assess if the project is growing, impactful, and interesting to you. If you feel stuck, disengaged, or not learning, it's important to have an open conversation with your manager about your concerns and career goals. If opportunities to grow or change projects aren't available, consider side projects or collaborations outside your immediate team. Ultimately, making conscious decisions about your career path and regularly reflecting on your growth is key."
+  }
+]

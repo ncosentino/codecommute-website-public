@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How do you manage meetings with counterparts in completely opposite time zones?",
+    "answer": "I try to find a good time to meet that works despite the opposite time zones. Sometimes I stay later at the office to be present for these meetings rather than taking calls remotely. It’s unpredictable but important to have those conversations in person when possible."
+  },
+  {
+    "question": "What challenges do you face when working on cross-functional projects across multiple teams?",
+    "answer": "Working cross-functionally is one of the hardest things in software engineering because each team has its own priorities and understanding. It’s challenging to get everyone on the same page and aligned around common goals, especially when teams are in different organizations. The process feels slow because everyone already has their own solutions in mind, but the final solution is better when built together."
+  },
+  {
+    "question": "How do you approach the issue of teams not wanting to take responsibility in cross-team projects?",
+    "answer": "I believe in having a bias for action and not passing the problem to others. Even if a team doesn’t officially own a part of the project, sometimes you have to step up to move things forward. I try to show how helping unblock one team benefits multiple teams, making it easier to get buy-in and avoid the 'not our problem' mentality."
+  }
+]

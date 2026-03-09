@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How important is your major when applying for software engineering jobs?",
+    "answer": "Some employers list a degree in computer science, software engineering, or a related field as a requirement in their job descriptions. While not having the exact major might not guarantee rejection, it can reduce your chances compared to candidates who meet that requirement. I recommend applying anyway if you have relevant experience, but be aware that some employers expect a specific degree."
+  },
+  {
+    "question": "What benefits did you personally gain from your university education in computer engineering?",
+    "answer": "Although much of the course material felt irrelevant to my software engineering work, I gained valuable meta skills like learning how to learn, analyzing pros and cons, and communicating trade-offs. These skills were more important than the specific technical topics. Additionally, my six internships during university were crucial for practical experience, which I wouldn't trade for anything."
+  },
+  {
+    "question": "Can someone be successful in software engineering without a formal degree in the field?",
+    "answer": "Yes, many people have successfully transitioned into software development from completely different educational backgrounds. For example, some career switchers and individuals with degrees in unrelated fields like economics have become successful software developers. The key is continuous learning and gaining relevant experience, not necessarily having a specific degree."
+  }
+]

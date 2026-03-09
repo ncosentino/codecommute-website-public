@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What should a software engineer look for when hiring a product manager?",
+    "answer": "I look for product managers who can effectively interface with customers, whether internal or external, and who can communicate well with engineers. It's important they can handle healthy conflict with engineering teams and not be passive or easily pushed around. I also want to understand how they approach both micro-level planning, like sprint tasks, and macro-level strategy to ensure alignment with the engineering team."
+  },
+  {
+    "question": "How can a product manager demonstrate good communication skills with software engineers during an interview?",
+    "answer": "I would ask them to describe times when they worked with engineering teams to relay user pain points and how they navigated challenges together. I want to hear about situations where things didn't go well and how they course corrected. This shows their ability to communicate clearly and maintain confidence, even when facing pushback from engineers."
+  },
+  {
+    "question": "Why is cross-role interviewing valuable when hiring a product manager?",
+    "answer": "I believe cross-role interviewing is valuable because software engineers will collaborate closely with product managers, so having engineers involved in the interview process provides important perspective. However, it can be challenging since many people aren't experienced interviewers, especially for roles outside their own. Still, involving engineers helps ensure the product manager can work well with the team and understand technical details."
+  }
+]

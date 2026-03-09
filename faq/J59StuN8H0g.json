@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What are the key areas to focus on when preparing for backend development with .NET?",
+    "answer": "I recommend focusing on C# language fundamentals, understanding async/await, logging, middleware, rate limiting, queuing, job frameworks, and databases. It's important to practice these concepts by building ASP.NET Core applications and exploring different API surfaces. Additionally, learning about testing frameworks and doing pros and cons analysis of packages is valuable."
+  },
+  {
+    "question": "How should I approach practicing backend development skills with ASP.NET Core?",
+    "answer": "I suggest either building several small apps like a calendar or to-do list to get breadth or building one larger, more complex app to gain depth. The key is to actually build web servers and APIs, get stuck, and then seek out tutorials or ask tools like ChatGPT for different approaches. Practice helps you understand patterns, versioning, and how to refactor code effectively."
+  },
+  {
+    "question": "What advice do you have for learning testing and logging in backend development?",
+    "answer": "For testing, I recommend writing tests frequently and learning from the challenges you encounter to write more testable code over time. There isn't one right way to test, so explore different perspectives and frameworks like xUnit or TUnit. For logging, I use Serilog because it supports structured logging and multiple sinks, but you can also build your own logger if you want to understand the mechanics deeply."
+  }
+]

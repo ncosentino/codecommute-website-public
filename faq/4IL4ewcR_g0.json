@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How can I gain web development experience if I'm getting rejected due to lack of experience?",
+    "answer": "I recommend building projects using web technologies that align with your interests or hobbies. For example, you can create a project like a Pokedex tracker or something related to your hobbies, using the specific tech stack or language that employers want to see. This helps you create relevant experience even if it's not professional work."
+  },
+  {
+    "question": "Is it necessary to have professional team experience in the exact technology stack to get hired?",
+    "answer": "No, it's not necessary to have team experience in the exact technology stack. I look for candidates who have built software in teams generally, even if it's not in the same domain or tech stack. Demonstrating good software development capabilities and teamwork is more important than exact technology match."
+  },
+  {
+    "question": "If I want to switch from infrastructure to user-facing web development, do I have to start as a junior again?",
+    "answer": "Not necessarily. If you have intermediate or senior level experience building software in teams, you can leverage that experience in behavioral interviews and demonstrate your skills. Companies may not require you to be junior just because you're switching focus, but smaller companies might expect faster ramp-up times due to business constraints."
+  }
+]

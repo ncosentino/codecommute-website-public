@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How can I handle a micromanaging manager who has unrealistic expectations about my output?",
+    "answer": "I keep a daily log of my work steps like gathering requirements, root cause analysis, documentation, and alignment to show my manager. I try to have conversations to level set expectations and provide evidence of my progress to make discussions objective rather than based on feelings. If expectations remain unclear or unrealistic, I continue to seek clarity and document everything to protect myself."
+  },
+  {
+    "question": "What should I do if my code reviews or pull requests are taking too long to get feedback or approval?",
+    "answer": "I believe it's important to proactively communicate and escalate when pull requests sit idle for over a week. I try to ping the team or ask for help to avoid delays. If the review process is slow, I discuss breaking down changes into smaller pieces or clarifying expectations with my manager to improve throughput."
+  },
+  {
+    "question": "How do I approach a situation where my manager might be trying to manage me out?",
+    "answer": "If I've been trying to clarify expectations and have ongoing conversations but still fundamentally disagree or don't get clarity, I consider that it might be time to start looking for other opportunities. I invest time in understanding expectations first, but if the manager has given up or the situation isn't improving despite my efforts, I prepare to move on."
+  }
+]

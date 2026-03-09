@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What was your primary area of programming before transitioning to web development?",
+    "answer": "I spent over half of my programming career focused on desktop development for Windows, specifically using WinForms and WPF. I started with VB6 and VB.NET, then C#, and worked extensively on desktop applications for many years before moving into web app development with ASP.NET Core."
+  },
+  {
+    "question": "How do you feel about prototyping in your software development career?",
+    "answer": "Prototyping has been a significant and enjoyable part of my career across various domains. I especially miss prototyping now, as it provides a tight feedback loop that keeps me engaged and allows me to explore creative solutions, even though my current role as a manager involves less hands-on coding."
+  },
+  {
+    "question": "What domains have you worked in, and which one did you find most engaging?",
+    "answer": "I've worked in several domains including medical operating room software, embedded devices, corporate mobile apps, ATM management software, digital forensics, and Microsoft 365 deployment. Of these, digital forensics stood out as the most engaging and motivating because of the direct and impactful nature of the work."
+  }
+]

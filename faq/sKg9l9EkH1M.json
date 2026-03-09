@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How can strict pair programming dynamics affect a developer's productivity?",
+    "answer": "I believe strict pair programming dynamics can become a constraint, especially if the process is dogmatic and doesn't allow flexibility. When pairing is enforced rigidly, it can slow down developers who feel fully competent working on their own, making them less effective and potentially leading to frustration."
+  },
+  {
+    "question": "What should I do if I feel that strict pair programming is limiting my ability to ship code?",
+    "answer": "I would recommend trying to bring up the issue with your team and manager to discuss making the pairing process less strict. Propose changes and see if others feel the same way, aiming to evolve the team culture toward continuous improvement. If there is no buy-in and the environment doesn't support your effectiveness, it might be necessary to consider finding a team that better fits your working style."
+  },
+  {
+    "question": "What are the benefits of pair programming despite its challenges?",
+    "answer": "I see a lot of value in pair programming, especially for sharing knowledge among junior developers or new team members and for tackling complex problems with multiple perspectives. Even experienced developers can benefit from pairing to catch things they might miss on their own and to collaborate on problem solving. The key is to keep the process flexible and people-centric rather than strictly enforced."
+  }
+]

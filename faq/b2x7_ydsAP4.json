@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How important is communication and teamwork for new software developers?",
+    "answer": "I believe software engineering is not a career path where you can excel if you try to avoid people. Most software is built in teams, so you need to be comfortable working with others, communicating ideas clearly, and giving and receiving feedback. Being an effective team member means you can't just focus on code but must collaborate with engineers, product managers, project managers, and others on your team."
+  },
+  {
+    "question": "What advice do you have for new developers regarding AI tools in 2026?",
+    "answer": "I encourage new developers to leverage AI tools but not to blindly accept their output. AI is a powerful tool that can amplify your abilities, but you need to learn how to use it effectively, understand its strengths and weaknesses, and review the code it generates. You should also ask AI questions to better understand concepts and cross-check its answers to avoid mistakes."
+  },
+  {
+    "question": "Why is networking important for new developers, and how should they approach it?",
+    "answer": "I highly encourage networking because it increases your chances of encountering opportunities and luck. Networking is not about spamming resumes but being intentional, building relationships over time, and engaging with communities, meetups, or conferences. Even if it doesn't immediately lead to a job, networking can help you meet awesome people and open doors you wouldn't find otherwise."
+  }
+]

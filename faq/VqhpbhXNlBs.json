@@ -1,0 +1,14 @@
+[
+  {
+    "question": "Should I include my cumulative GPA on my resume if I went back to school to improve my grades in the same program?",
+    "answer": "If you went back to school to finish the same program and improve your grades, you need to include the entire cumulative GPA, including the earlier lower grades. The cumulative GPA reflects all attempts in that single program, so you can't separate out just the improved portion."
+  },
+  {
+    "question": "When is GPA most relevant for software engineering job applications?",
+    "answer": "In my experience, GPA is mostly relevant when hiring interns. I look at GPA and school pipelines to understand which schools produce candidates who perform well and to assess if my team can support very junior candidates. For experienced hires, I generally don't care about GPA."
+  },
+  {
+    "question": "Can a low GPA early in university predict poor job performance as a software engineer?",
+    "answer": "I don't think GPA is a good reflection of job performance. For example, my own GPA was very low in my first year of university but improved steadily, and that didn't reflect my abilities on the job. While there might be some correlation, I don't use GPA as a deciding factor when hiring."
+  }
+]

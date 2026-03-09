@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How is coding at work different from coding at university or college?",
+    "answer": "I found that coding at university is often focused on reinforcing theoretical concepts like data structures and algorithms through projects designed to teach those ideas. In contrast, coding at work is fundamentally about operating a business, where the goal is to ship value to customers rather than writing perfect code. This means dealing with real-world constraints like deadlines, legacy code, and prioritizing business impact over ideal code quality."
+  },
+  {
+    "question": "Why do developers spend a lot of time working with legacy code in the industry?",
+    "answer": "In school, you're usually building new projects from scratch, but at work, you often inherit existing codebases that can be many years old. I spend a disproportionate amount of time maintaining and improving legacy code, which presents unique engineering challenges because you have to make changes without disrupting existing users. This is very different from the greenfield projects you might be used to in school."
+  },
+  {
+    "question": "How should new developers approach technical debt and code quality issues in a business environment?",
+    "answer": "I recommend understanding that the business goal is to deliver value to customers, so you need to balance code quality with shipping features on time. If you want to address technical debt, make a clear business case explaining how it will improve productivity or reduce bugs. Communicating the impact in terms of business value is much more effective than just saying the code looks ugly or is poorly written."
+  }
+]

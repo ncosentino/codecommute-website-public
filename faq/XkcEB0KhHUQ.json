@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How do I manage context differently when using Copilot CLI compared to Visual Studio?",
+    "answer": "I imagine that in Visual Studio, context is managed around a solution and its projects, which provides richer context than just raw text on disk. In the terminal with Copilot CLI, context management feels more file system-based. I think IDE integrations might infer smarter things because they have higher-level concepts, which could explain why I have a better experience with context management in the CLI."
+  },
+  {
+    "question": "What is my approach to scrutinizing AI-generated code in different projects?",
+    "answer": "I treat AI-generated code differently depending on the codebase. For example, in Brand Ghost, I expect the AI to mess up more, so I watch it closely and build more guard rails. In Needler, I lean into the AI's suggestions more, guiding it to fix issues while preserving existing tests. I realize I need to scrutinize different aspects like test coverage and real feature functionality to ensure quality."
+  },
+  {
+    "question": "How do I use multiple AI tools like Copilot CLI, Claude, and Cursor for content creation and coding?",
+    "answer": "I experiment with different tools because each has strengths. For example, I use Copilot CLI for coding in C# and source generators, Claude for agent orchestration, and Cursor for fast content creation without getting stuck in loops. I don’t rely on one tool exclusively; instead, I keep trying new tools to find the best fit for specific tasks and workflows."
+  }
+]

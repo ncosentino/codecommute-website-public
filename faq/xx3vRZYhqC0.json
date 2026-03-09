@@ -1,0 +1,14 @@
+[
+  {
+    "question": "In what types of software projects is the tolerance for bugs extremely low, and why?",
+    "answer": "I worked on digital forensic software where the tolerance for bugs was very low because the software is used to structure otherwise unstructured data for legal evidence. Accuracy is critical, especially for things like timestamps, since incorrect data could misrepresent the truth in court and erode trust in the tool."
+  },
+  {
+    "question": "How do you handle bug tolerance differently when developing features for mobile device data acquisition?",
+    "answer": "For mobile acquisitions, we dealt with many device models and hardware limitations, so we were more tolerant of bugs in new or experimental features. We would release best-effort implementations with telemetry to monitor success rates and failures, allowing us to iterate quickly and improve support without risking critical errors."
+  },
+  {
+    "question": "What role does telemetry play in managing bug tolerance and software quality in your projects?",
+    "answer": "Telemetry was essential for us to monitor how features performed in real-world use, detect issues before customers reported them, and maintain high confidence in our builds. It enabled us to release quickly and fix problems proactively while respecting user privacy by only collecting operational data, not sensitive forensic information."
+  }
+]

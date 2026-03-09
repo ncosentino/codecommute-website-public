@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What kind of projects should I list on my resume if I have work experience as a developer?",
+    "answer": "If you have work experience, I recommend listing projects that demonstrate impact. Employers and interviewers want to see how your work contributed to meaningful outcomes. Highlighting projects with quantifiable results helps recruiters and interviewers understand your value and approach to problem-solving."
+  },
+  {
+    "question": "What should beginners include as projects on their developer job applications?",
+    "answer": "For beginners, it's important to show that you've built real things, even if they don't have paying users or large impact yet. Listing projects where you practiced building software, learned new technologies, or refactored code demonstrates your effort and learning. Employers understand that beginners won't have significant impact yet, so focus on showing your development process and skills."
+  },
+  {
+    "question": "How should I handle technology keywords on my resume for developer job applications?",
+    "answer": "Including relevant technology keywords on your resume is important, especially because many companies use automation to screen applications. Mention the technologies you have experience with to help your resume get noticed by automated systems. However, be honest and only list technologies you truly know, as misrepresenting your skills can hurt you during interviews."
+  }
+]

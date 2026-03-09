@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How should I approach my manager about an underperforming software engineering colleague?",
+    "answer": "I think it's important to raise visibility about what you see early enough before things get off the rails. When you bring it up, provide enough evidence or examples without fingerpointing or naming others. Focus on how the situation is impacting your work or the team, rather than just saying someone is not doing their work."
+  },
+  {
+    "question": "What can an engineering manager do when they learn about a team member's underperformance?",
+    "answer": "As an engineering manager, I try to get to the root cause by having good observability and understanding what's going on behind the scenes. It could be that the person needs help, is struggling with personal issues, or is burnt out. I focus on building trust so people feel comfortable sharing their challenges, and I work with the individual to coach and support them rather than assuming malicious intent."
+  },
+  {
+    "question": "What should I do if I have raised concerns about a colleague's performance multiple times and nothing seems to change?",
+    "answer": "If you have already raised awareness and nothing seems to be happening, I recommend talking about the impact on your own motivation and ability to work effectively. Frame the conversation around how the situation affects you and the team, and if possible, offer to help support or coach the colleague. This approach is more actionable and constructive than just repeating complaints about the person's performance."
+  }
+]

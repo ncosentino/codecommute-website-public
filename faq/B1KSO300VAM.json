@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What are the requirements to be a Professional Engineer in Ontario, Canada?",
+    "answer": "To be a Professional Engineer in Ontario, Canada, you must graduate from an accredited university engineering program, complete four years of documented work experience under a Professional Engineer, and pass an ethics test. I have completed the university part but have not fulfilled the work experience or taken the ethics test, so I cannot legally call myself a Professional Engineer in Ontario."
+  },
+  {
+    "question": "Does having a Professional Engineer designation guarantee better software development skills?",
+    "answer": "I do not believe having a Professional Engineer designation necessarily makes someone better at software development. Many skilled software developers, including myself and colleagues I've worked with, do not have this designation but have still produced excellent software. The designation is not required to write good software."
+  },
+  {
+    "question": "How does the title 'software engineer' differ between industry use and professional designation?",
+    "answer": "In industry, companies often use the title 'software engineer' regardless of professional engineering designation, which can cause confusion. In Ontario, the Professional Engineers of Ontario enforce that only licensed engineers can use the title 'engineer,' so companies may have to use titles like 'software developer' instead. However, in practice, most software engineering roles do not require a professional engineering license."
+  }
+]

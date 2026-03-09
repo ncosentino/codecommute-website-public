@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What does ownership mean in software development from a developer's perspective?",
+    "answer": "From a developer's perspective, ownership means accountability and responsibility for a particular area or component. It involves being the go-to person for bugs, regressions, and feature requests, and taking responsibility to maintain quality and help others navigate the code. Ownership does not mean exclusive control, but rather being accountable for the health and coherence of the codebase."
+  },
+  {
+    "question": "How does ownership differ between developers and product owners or tech leads?",
+    "answer": "Ownership for developers focuses on accountability and responsibility for the technical aspects of a product or component. For product owners, ownership involves prioritization and setting the direction based on customer needs and business goals. Tech leads have ownership in providing technical insights and collaborating with engineering managers on prioritization, but they do not unilaterally set priorities."
+  },
+  {
+    "question": "Why is the term 'ownership' considered a bit misleading in software development?",
+    "answer": "The term 'ownership' can be misleading because it implies exclusive control or that something is 'yours' alone, which is not how team-based software development works. Instead, ownership should be understood as shared accountability and responsibility, where anyone can contribute and collaborate. The best teams create codebases that are coherent and welcoming to contributions from others, rather than being controlled by a single person."
+  }
+]

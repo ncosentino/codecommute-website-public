@@ -1,0 +1,14 @@
+[
+  {
+    "question": "Is it my responsibility as a peer to manage or fix a disengaged developer at work?",
+    "answer": "No, it's absolutely not your responsibility to manage or fix a peer who seems disengaged or underperforming, especially if you're not their manager. However, it is helpful to raise visibility to the manager by sharing your observations in a constructive way without making assumptions or accusations."
+  },
+  {
+    "question": "How should I communicate concerns about a coworker's performance to their manager?",
+    "answer": "When communicating concerns to a manager, focus on observable outcomes rather than assigning intent. For example, instead of saying the person is slacking off, you can say that you notice they seem to be having difficulty supporting the team or meeting expectations. This approach helps keep the conversation productive and avoids unfair assumptions."
+  },
+  {
+    "question": "Why might an experienced developer appear disengaged or avoid responsibilities like being on call?",
+    "answer": "Often, disengagement or avoidance is not due to malicious intent but could be caused by external pressures, lack of confidence, or feeling overwhelmed. For example, a developer might avoid on-call duties because they don't understand the system well and fear embarrassment. Encouraging them to face these challenges gradually can help them improve and gain confidence over time."
+  }
+]

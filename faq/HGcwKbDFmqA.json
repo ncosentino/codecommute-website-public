@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How should I view a testing role if I originally wanted a developer position?",
+    "answer": "If you find yourself in a testing role instead of a developer role, I suggest viewing it as an opportunity rather than a setback. Testing can teach you valuable lessons about writing testable code and improve your collaboration skills with developers and testers. You can also look for chances to write automation code or work on personal projects to continue developing your software skills."
+  },
+  {
+    "question": "Is solving LeetCode problems a good way to learn real software development?",
+    "answer": "I don't think LeetCode is a good proxy for real software development. While it can help exercise problem-solving skills and may be useful for interviews, it doesn't translate well into actual engineering or working with databases. If you enjoy it and it enhances some skills for you, that's great, but it shouldn't be your only focus."
+  },
+  {
+    "question": "How can I stay motivated when my current work doesn't align with my career goals?",
+    "answer": "When your current tasks don't feel aligned with your aspirations, try to reframe the situation by identifying what you can learn from it. For example, even if you're doing work like on-call support that doesn't directly advance your career, you can extract lessons about debugging, communication, and collaboration. Label your current role as an opportunity to gain transferable skills that will help you reach your next career step."
+  }
+]

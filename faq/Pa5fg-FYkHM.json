@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How does leadership impact the dysfunctionality of software engineering teams?",
+    "answer": "I have observed that leadership or management is often the root cause of dysfunction in software engineering teams. When people in charge are ineffective or lack understanding, it can cause the entire team to fall apart, leading to issues like decreased velocity and low morale. Good leadership that stays connected with the team and supports them can prevent these problems."
+  },
+  {
+    "question": "What strategies do I use to lead high-performing software engineering teams?",
+    "answer": "When I join a team, I focus on getting to know every individual and observing how the team operates before making any changes. I prioritize building trust and staying connected with team members through regular one-on-ones to understand their challenges and engagement. I also emphasize giving team members autonomy, which helps maintain their motivation and ownership over their work."
+  },
+  {
+    "question": "Why is autonomy important for software engineering teams, and how do I balance it with guidance?",
+    "answer": "Autonomy is critical because it keeps team members engaged and motivated by giving them ownership over their work. I believe micromanagement often arises when leaders have not grown out of an individual contributor mindset and tend to tell people what and how to do tasks. For more junior team members, some guidance is necessary to help them gain momentum, but for senior members, I strive to provide autonomy while maintaining open communication and support."
+  }
+]

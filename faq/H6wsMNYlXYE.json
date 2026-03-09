@@ -1,0 +1,14 @@
+[
+  {
+    "question": "Why might hiring an architect not be the best solution for a small startup team facing development inefficiencies?",
+    "answer": "I believe that adding an architect or a gatekeeper to a small team can introduce unnecessary complexity and risk. In a small company, hiring one more person represents a significant percentage of the workforce, so a bad hire can be very disruptive. Instead, I recommend working through existing challenges with the current team before adding new roles or headcount."
+  },
+  {
+    "question": "What should an individual contributor do if they notice inefficiencies and challenges within their development team?",
+    "answer": "If I observe issues within the team, I would recommend stepping up and being proactive to address them. Rather than asking for a new title or role, start demonstrating leadership by initiating conversations, rallying the team around positive change, and working with your manager to get support. Taking initiative is often more effective and lower risk than trying to add new roles or people."
+  },
+  {
+    "question": "How can a small development team handle issues like rewriting code without maintaining backwards compatibility?",
+    "answer": "In my experience, the team should have open discussions about the business priorities and what really matters for backwards compatibility. Sometimes it might be acceptable to break compatibility if it speeds up development and the impact is minimal. I suggest involving the team and stakeholders in retrospectives or planning sessions to decide on these trade-offs together, rather than imposing rigid gatekeeping roles."
+  }
+]

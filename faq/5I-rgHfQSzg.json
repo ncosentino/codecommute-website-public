@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How can I be productive when working in another team's code base?",
+    "answer": "I recommend building code in a way that others can confidently make changes without breaking everything. This involves having good test coverage that highlights critical scenarios and expected behavior changes. Also, breaking down large changes into smaller, incremental commits and seeking early feedback through draft pull requests or design discussions helps maintain productivity."
+  },
+  {
+    "question": "What should I do if I have to submit a large pull request as a new developer?",
+    "answer": "If you have a large pull request, it's best to get early feedback by keeping a draft pull request open or sharing design documents to get sign-off along the way. Large pull requests are hard to review thoroughly, so breaking changes into smaller, manageable pieces can reduce risk and improve review quality. This approach helps avoid overwhelming reviewers and reduces the chance of introducing bugs."
+  },
+  {
+    "question": "How do I handle challenges when collaborating with a different team, especially across geographies?",
+    "answer": "Soft skills are crucial in these situations. I suggest building trust with a contact on the other team to facilitate communication and get timely reviews or design input. If you feel unsupported, bring visibility to your manager so they can provide guidance or escalate the issue to leadership if necessary. Open communication and seeking support are key to navigating cross-team collaboration challenges."
+  }
+]

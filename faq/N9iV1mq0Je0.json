@@ -1,0 +1,14 @@
+[
+  {
+    "question": "Why do AI coding agents like GitHub Copilot sometimes produce poor or inconsistent code?",
+    "answer": "I find that despite using the same prompts and instructions, AI agents often hallucinate or produce bad code, like losing formatting or deleting code unexpectedly. It feels like the agent sometimes ignores established patterns or instructions, which is frustrating because it means I have to constantly correct it or provide explicit examples in my prompts."
+  },
+  {
+    "question": "How can custom analyzers help improve code quality when working with AI agents?",
+    "answer": "I've started adding custom analyzers in my codebase to enforce coding patterns programmatically. These analyzers act as guardrails by performing static analysis and preventing code from compiling if it doesn't follow the rules I set. This helps reduce the amount of dumb mistakes AI agents make by ensuring the code adheres to our standards before it runs."
+  },
+  {
+    "question": "What challenges do you face when prompting AI agents to write tests following your project's patterns?",
+    "answer": "Even though I document the testing patterns and include instructions in my prompts, AI agents like Copilot often write tests that don't follow those patterns. This means I have to provide explicit code examples in the prompt to get it right, which isn't scalable. It’s frustrating because the agents don’t always read or follow the existing documentation or codebase conventions on their own."
+  }
+]

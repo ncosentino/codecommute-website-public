@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How can a junior developer at a small or midsize company build experience to transition into Big Tech?",
+    "answer": "I recommend embracing the scrappy environment of smaller companies where you get to do lots of different things. This fast-paced learning helps you gain diverse experience in areas like continuous deployment, cloud infrastructure, and scaling software. Staying at such a company while you're learning a lot is beneficial for building a strong resume that stands out when applying to Big Tech."
+  },
+  {
+    "question": "What should a junior developer expect from the Big Tech interview process?",
+    "answer": "Big Tech interviews typically involve multiple rounds, usually three to five, including coding rounds with LeetCode-style questions, system design questions (less common for juniors), and behavioral interviews. It's important to prepare thoroughly for these because the interview style is quite different from smaller companies, and practicing these formats can prevent a rude awakening during the process."
+  },
+  {
+    "question": "Is job hopping a good strategy for career progression as a junior developer aiming for Big Tech?",
+    "answer": "Job hopping can help you level up faster by moving to companies that recognize your skills at a higher level, but it has its limits. If you hop too often without gaining the necessary experience, you might struggle to perform at the expected level. I recommend only job hopping if you're not progressing or being valued at your current company, but be cautious about making it your entire career strategy."
+  }
+]

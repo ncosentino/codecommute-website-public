@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How do engineering managers typically transition into their new role without formal training?",
+    "answer": "I explain that most engineering managers don't receive formal training when they move into the role; they are just expected to start doing it and be good at it. This lack of preparation makes it challenging because being an engineering manager is a very different role from being a software engineer, and if you don't change how you act, you'll face frustration and be ineffective."
+  },
+  {
+    "question": "How should engineering managers approach structuring growth paths for individual engineers?",
+    "answer": "I emphasize that growth paths are situational and must be tailored to each individual. Effective growth planning involves understanding the person's current level, their career trajectory, and their unique strengths, weaknesses, and motivations through one-on-one conversations. If the growth path isn't personalized, it's likely not effective."
+  },
+  {
+    "question": "How do engineering managers balance team deliverables with providing growth opportunities to team members?",
+    "answer": "I describe the dilemma of balancing optimizing for immediate deliverable efficiency by assigning work to the most experienced people versus giving growth opportunities to others who need development. While assigning work to experts speeds things up, it can create silos and single points of failure. Slowing down to coach less experienced team members builds long-term team flexibility and provides evidence for their career progression, even if it means short-term slower delivery."
+  }
+]

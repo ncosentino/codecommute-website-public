@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How can teams reduce friction caused by nitpicking in code reviews?",
+    "answer": "I recommend investing in linting tools and establishing consistent code styling standards. This helps automate the enforcement of trivial style rules like whitespace or indentation, which often cause unnecessary delays. By reducing these minor debates, teams can focus on more meaningful code review feedback and improve overall efficiency."
+  },
+  {
+    "question": "What should you do if a team member is gatekeeping code reviews and causing bottlenecks?",
+    "answer": "I suggest trying to understand their motivations first, as they usually want to help and maintain code quality, not be malicious. Having a direct conversation with them to discuss the impact and exploring solutions together, like introducing linting or clearer guidelines, can help resolve the issue. If needed, escalate to management for feedback, but early peer communication is often more effective."
+  },
+  {
+    "question": "How do you handle non-blocking comments in code reviews to promote learning?",
+    "answer": "I make it clear when a comment is a nitpick or an opportunity for improvement without blocking the current work. I use comments to educate and inform the author about better practices or naming conventions for future changes. This approach encourages learning and collaboration rather than frustration over minor issues that don't prevent merging the code."
+  }
+]

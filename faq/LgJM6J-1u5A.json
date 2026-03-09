@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What characteristics do engineering managers look for in a junior developer candidate during an interview?",
+    "answer": "I look for candidates who are curious, eager to learn, and able to articulate their thought process clearly. For junior developers, soft skills like problem-solving, communication, and a genuine eagerness to improve are very important. Demonstrating calmness, honesty, and confidence during conversations also makes a strong positive impression."
+  },
+  {
+    "question": "How can a junior developer prepare for a follow-up evaluation after being asked to learn fundamentals of a programming language?",
+    "answer": "I recommend reviewing the major concepts you learned, such as object-oriented programming basics and common data structures like dictionaries and lists in the language you're using. Be ready to discuss simple code snippets, explain what the code is doing, identify bugs, and reason through scenarios like async-await usage. Anticipate that the interviewer might quiz you on these fundamentals or ask you to walk through code examples."
+  },
+  {
+    "question": "Why might a company prefer hiring a junior developer instead of someone with more experience?",
+    "answer": "From my perspective, building a balanced engineering team with different experience levels is important for continuity and coaching opportunities. Junior developers can focus on smaller tasks like bug fixes, which might not interest senior or principal engineers who are looking for bigger organizational impact work. Having juniors allows mid-level engineers to mentor and helps maintain a healthy team dynamic."
+  }
+]

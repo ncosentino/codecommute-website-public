@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What is the social aspect of being a software developer like in a typical company?",
+    "answer": "I spend a lot of time interacting with other people at work, especially as I become more senior. Software development is a team sport, so while I do spend time programming, a significant part of my day involves communication and collaboration with teammates and other departments."
+  },
+  {
+    "question": "Do you need to be good at math to have a career in software development?",
+    "answer": "I don't believe you need to be amazing at math to be a software developer. What really helps is having mathematical or algorithmic thinking, which means being able to think through logical steps and solve problems systematically. The amount of math required depends on the domain; for example, graphics or finance roles require more math, but many software development roles do not."
+  },
+  {
+    "question": "What is it like working with legacy code in software development?",
+    "answer": "Most of the time, I work on existing codebases that have been evolving over years, which can be quite different from building projects from scratch. These codebases often look messy or imperfect because they have to adapt to changing business requirements and have been maintained by multiple developers. Understanding why the code is the way it is requires asking genuine questions and appreciating the history behind it."
+  }
+]

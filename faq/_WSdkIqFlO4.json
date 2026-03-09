@@ -1,0 +1,14 @@
+[
+  {
+    "question": "Will AI replace software engineering jobs completely in the near future?",
+    "answer": "I don't think software engineering jobs will be completely replaced by AI anytime soon. While AI can automate some tasks, especially mundane or repetitive ones, it is more likely to enhance our work rather than replace us. The future of software engineering will involve changing what we focus on, but there will still be plenty of opportunities in the field."
+  },
+  {
+    "question": "How do I effectively use AI tools like Copilot or ChatGPT in software development?",
+    "answer": "I use AI tools to assist with tasks like code completion, writing SQL queries, and refactoring code. These tools help me get a good starting point or handle repetitive work, but I always review and modify the output to ensure it meets my needs. Using AI effectively means not blindly trusting it but leveraging it to unblock yourself and improve productivity while still applying your own knowledge and critical thinking."
+  },
+  {
+    "question": "What risks do software developers face if they ignore AI and technological changes?",
+    "answer": "The biggest risk is complacency, not AI itself. If you refuse to acknowledge or use AI as a tool, or if you resist learning new technologies and automating parts of your work, you risk becoming obsolete. Embracing technological change and continuously learning are essential to staying relevant and valuable in your career."
+  }
+]

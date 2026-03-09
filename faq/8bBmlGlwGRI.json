@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What are the key challenges when switching from a software engineer to a product owner role?",
+    "answer": "When switching from software engineering to product ownership, a key challenge is moving away from hands-on coding to focusing on prioritizing work and representing the customer. It requires developing new skills like balancing business needs with customer pain points, communicating effectively with engineers, and understanding technical constraints. It can be a steep learning curve, especially if you haven't done customer-facing work before."
+  },
+  {
+    "question": "How important is technical knowledge for a product owner coming from an engineering background?",
+    "answer": "Having technical knowledge as a product owner is very valuable because it helps you understand engineers' concerns and communicate priorities effectively. While it's not an absolute requirement, being able to engage in technical discussions prevents misunderstandings and friction. Maintaining some programming skills can also help you prototype and stay connected to the development process."
+  },
+  {
+    "question": "What advice do you have for engineers interested in transitioning to a product owner role?",
+    "answer": "I recommend maintaining some level of technical involvement if you're interested in transitioning to a product owner role, as it helps with communication and credibility. Also, try to learn in public by writing blog posts or sharing your learning journey, which helps internalize new skills and gain feedback. Finally, be patient with the process, network with existing product owners, and view any setbacks as opportunities to learn and grow."
+  }
+]

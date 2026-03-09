@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What are the main challenges of maintaining a legacy .NET application as a sole developer?",
+    "answer": "I find that maintaining a legacy .NET application alone is tough because the code is often brittle and tightly coupled, with little to no reliable test coverage. Every change risks breaking something else, and without good tests, it's hard to feel confident making fixes or adding features. It’s a constant struggle to patch issues while trying to avoid perpetuating the problems inherent in legacy code."
+  },
+  {
+    "question": "How can I effectively use AI tools when working on legacy .NET projects?",
+    "answer": "I use AI tools where I can, but some tools like Cursor might not work perfectly with legacy .NET projects due to build or compatibility issues. However, I believe it’s often a matter of adapting your workflow, such as running builds via command line or using different AI tools that fit your scenario better. Being curious and flexible with tool usage helps me get the most out of AI assistance, even if it’s not ideal."
+  },
+  {
+    "question": "How should I handle communication issues with a product manager who misunderstands my use of AI tools and legacy system challenges?",
+    "answer": "I think it’s important to confront the communication gap directly by having an open conversation with the product manager. I would show them how I’m using AI tools and explain the real challenges of working with brittle legacy code in terms they can understand. Understanding their goals and clarifying expectations can help us align better and work more effectively as a team, rather than letting misunderstandings create friction."
+  }
+]

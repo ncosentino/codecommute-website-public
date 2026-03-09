@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What models do you currently rotate between for programming in Visual Studio?",
+    "answer": "I typically rotate between GPT-5 and the latest Sonnet model, like 4.5, when programming in Visual Studio. If I notice the agent becoming less effective or 'stupid,' I switch between these models to break through that plateau and improve interaction quality."
+  },
+  {
+    "question": "Why did you choose not to use GPT-5 for generating social media posts in your project?",
+    "answer": "I initially picked GPT-5 for generating social media posts, but it was insanely slow, taking about 10 seconds per post. Switching to GPT-4 mini reduced the time to 2 seconds without a noticeable drop in quality, greatly improving the user experience."
+  },
+  {
+    "question": "How do you use GitHub Copilot and Cursor differently in your software development workflow?",
+    "answer": "I use GitHub Copilot extensively for asynchronous tasks like generating code from GitHub issues, allowing me to work on multiple things in parallel without constant supervision. For supervised coding sessions where I want immediate feedback and plan modifications, I prefer Cursor because of its fast, responsive planning and coding capabilities."
+  }
+]

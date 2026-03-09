@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What AI tool do you recommend TPMs use first to gain traction in their role?",
+    "answer": "I recommend TPMs use whatever AI tools are approved by their workplace IT department. For example, at Microsoft, I use Copilot because it's approved and integrated with our systems. Using personal AI accounts with proprietary work data is a huge no and can cause serious problems."
+  },
+  {
+    "question": "How should a TPM approach learning about a technical area using AI tools?",
+    "answer": "I start at a high level and gradually zoom in. I use AI tools to ask broad questions about the system, such as integration points and architecture, to build a mental model. This helps identify subject matter experts and shared dependencies, making technical conversations easier."
+  },
+  {
+    "question": "What are key considerations for effectively using AI tools with workplace documentation?",
+    "answer": "It's critical that your documentation is accessible to the AI tool and kept up to date. If your AI can't access important sources like Jira or internal wikis, its usefulness is limited. Also, documentation maintenance is a tax that someone has to pay, but it's necessary for accurate AI-assisted insights."
+  }
+]

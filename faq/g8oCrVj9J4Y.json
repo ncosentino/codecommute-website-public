@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What is Needler and how do I use it for dependency injection in my projects?",
+    "answer": "Needler is an opinionated dependency registration framework I built, inspired by packages like Scrutor and Autofac. I use it to keep program entry points lightweight by reducing dependency registration to just a few lines of code. It helps me build plugin architectures where functionality can be added without modifying the entry point, and I share tutorials on how to use it, though I don't expect everyone to adopt my approach."
+  },
+  {
+    "question": "How do you approach integrating Semantic Kernel with dependency injection in your applications?",
+    "answer": "Semantic Kernel has a unique dependency injection model where the kernel instance is recommended to be transient or scoped per request, which seems heavy to me since building the kernel involves configuring plugins. To handle this, I experimented with copying service descriptors from the root service provider to the Semantic Kernel builder's service collection, allowing shared dependencies. Although this approach feels unconventional and I'm still exploring best practices, it currently works for me and I plan to refine it further."
+  },
+  {
+    "question": "What are your plans for working with local large language models (LLMs) and Semantic Kernel?",
+    "answer": "I currently use Semantic Kernel with Azure OpenAI, but I want to port my projects to run on local LLMs, which I haven't done before. I'm learning from tutorials by creators like Hassan Hhabib and plan to create my own tutorials on setting up local LLMs with C#. My motivation includes exploring alternatives to cloud services and potentially reducing costs, and I'm curious about the performance and accuracy of local models compared to cloud-based ones."
+  }
+]

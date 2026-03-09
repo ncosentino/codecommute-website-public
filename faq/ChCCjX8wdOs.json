@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What is the biggest struggle junior developers face when onboarding remotely?",
+    "answer": "I have observed that junior developers often struggle with feeling connected during remote onboarding. Despite encouragement to reach out for help, some are hesitant due to shyness or fear of bothering others. I emphasize that asking questions is crucial and welcomed, as it helps unblock them and accelerates their learning."
+  },
+  {
+    "question": "How do junior developers typically handle code reviews and knowing when their code is ready?",
+    "answer": "Many juniors struggle with knowing when their code is ready for review. Initially, they might get a lot of feedback which can feel overwhelming, but this improves over time. Some may overcompensate by delaying reviews to avoid criticism, so I advise finding a balance and using draft pull requests to get early feedback."
+  },
+  {
+    "question": "Why do junior developers often need more guidance on timelines and work scope?",
+    "answer": "Junior developers usually lack a clear sense of how long tasks should take and how to scope their work. I have found that more frequent check-ins and smaller milestones help them stay on track. While I generally avoid micromanaging, juniors often benefit from more hands-on support to feel comfortable asking questions and managing their deliverables."
+  }
+]

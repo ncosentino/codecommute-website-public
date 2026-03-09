@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How do you balance self-documenting code versus written documentation and architectural docs?",
+    "answer": "I believe code should be somewhat self-documenting but not every bit of logic needs a comment, as that can be distracting. Comments are helpful when explaining decisions or unusual code patterns. Architectural documentation is valuable for high-level design and should be maintained to avoid drift from the codebase, but it comes with a maintenance tax that teams need to balance."
+  },
+  {
+    "question": "What differences have you noticed between startups and big tech companies regarding documentation practices?",
+    "answer": "In my experience, startups tend to have less formal documentation and rely more on whiteboarding, brainstorming, and code reviews. Big tech companies often have a strong culture around architectural documents and design reviews, with formal processes to maintain and review documentation. Both approaches have trade-offs related to onboarding and maintenance effort."
+  },
+  {
+    "question": "How do you handle the maintenance tax associated with keeping documentation up to date?",
+    "answer": "I think the key is to distribute the maintenance tax among team members, such as having people update onboarding docs as they go through them. Architectural documents should be kept as high-level and easy to maintain as possible, like diagrams. I also see potential in AI tools to automate documentation updates and reduce the manual effort required to keep docs current."
+  }
+]

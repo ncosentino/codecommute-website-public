@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How will AI impact software engineering jobs in the next 20 to 30 years?",
+    "answer": "I believe AI will change software engineering jobs rather than eliminate them entirely. While some specific tasks may become obsolete, the overall role will evolve, requiring new skills and adaptation. AI can assist with coding and decision-making, but human engineers will still be needed to manage, analyze, and guide the process."
+  },
+  {
+    "question": "Can AI completely replace software engineers in building and maintaining software?",
+    "answer": "From my experience, AI agents can build software to some extent, but they often produce incomplete or faulty results that require human intervention. For example, I had a team of AI agents build an application that didn't compile or run correctly, showing that human oversight and expertise remain crucial. AI can help, but it won't fully replace the engineering and analytical work involved."
+  },
+  {
+    "question": "What advice do you have for software engineers concerned about AI replacing their jobs?",
+    "answer": "I recommend focusing on building and expanding your skill set to adapt to changes rather than giving up. Embracing AI as a tool can enhance your work and open new opportunities, including roles that involve managing AI agents. If you reach a limit in software engineering, you can apply your analytical skills to other fields, so it's important to stay flexible and keep learning."
+  }
+]

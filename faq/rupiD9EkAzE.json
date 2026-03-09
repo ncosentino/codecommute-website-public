@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How do I determine if a remote employee really needs help or is just sandbagging?",
+    "answer": "I look for signals like lack of communication, missing meetings, and rare commits, but my first instinct is not to assume they're slacking. Instead, I try to have open conversations to understand if something is going on personally or professionally. Building trust and respect helps employees feel comfortable sharing their challenges, so I can support them effectively rather than just suspecting them of sandbagging."
+  },
+  {
+    "question": "How do I manage the working capacity of remote developers to keep them productive?",
+    "answer": "I have conversations with my team about their current workload and whether they have capacity for additional tasks. I emphasize that being busy with engaging work is good, but not being overwhelmed. If someone is blocked or waiting on something, I encourage them to pick up other work or help others, balancing quality and consistency over just doing more tasks."
+  },
+  {
+    "question": "What strategies do I use to help remote junior developers who stay blocked and don't communicate?",
+    "answer": "I remind them that it's okay to ask for help and encourage them to reach out to multiple teammates or me if they're unsure. Sometimes I set up more frequent check-ins or touchpoints to create a forcing function for communication. My goal is to build momentum and make them feel effective rather than shaming them, recognizing that comfort levels and personalities can affect their willingness to ask for help."
+  }
+]

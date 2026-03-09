@@ -1,0 +1,14 @@
+[
+  {
+    "question": "Why are side projects important for new software developers trying to get hired?",
+    "answer": "I believe side projects are crucial for new developers because they provide hands-on practice that tutorials alone can't offer. Building projects helps you develop real skills and creates content for your resume, making you stand out in a competitive job market. Without side projects, you risk staying in 'tutorial hell' and not gaining the practical experience employers look for."
+  },
+  {
+    "question": "Do senior software engineers need to work on side projects in their free time?",
+    "answer": "In my opinion, it depends on your situation. If you have solid work experience and your resume aligns with your career goals, you probably don't need side projects. However, if you enjoy building things or want to learn new skills, side projects can be beneficial, but they're not mandatory for senior engineers who are already employed and learning on the job."
+  },
+  {
+    "question": "Is watching tutorials enough to become a better software developer?",
+    "answer": "No, watching tutorials alone won't make you a better developer. Tutorials can help you understand concepts and overcome sticking points, but real improvement comes from actively building projects and practicing. Like any skill, you need to do the work yourself, not just consume content, to truly develop your abilities."
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What are the main areas to focus on when interviewing for an engineering manager role at big tech companies?",
+    "answer": "When interviewing for engineering manager roles at big tech companies, I focus on three main areas: data structures and algorithms (elite code style questions), system design, and behavioral interviews. Behavioral interviews also cover project management and people management, including how to grow and lead teams and manage underperforming employees."
+  },
+  {
+    "question": "How should I allocate my preparation time among coding, system design, and behavioral interviews for an engineering manager position?",
+    "answer": "I recommend spending time on all three areas but focusing most on the areas where you feel less confident. For me, that means dedicating more time to data structures and algorithms and system design, even though my role is mostly about people and project management. It's important to research the company’s interview style because some, like Amazon in my experience, may focus mainly on behavioral questions."
+  },
+  {
+    "question": "What strategies do you use to prepare for behavioral interviews as an engineering manager?",
+    "answer": "For behavioral interviews, I prepare by keeping stories and examples fresh in my mind. I review past projects, challenges, and growth opportunities with my team members so I can quickly recall relevant experiences. This helps me answer questions like 'Tell me about a time where you had a failed project' with concrete examples without needing to invent answers on the spot."
+  }
+]

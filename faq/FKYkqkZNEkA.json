@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How can I develop the skill set of a principal engineer beyond just the title?",
+    "answer": "I believe the key difference between a senior and principal engineer is the scale of impact. At the principal level, you need to deliver work that impacts multiple teams or the organization as a whole, not just your own team. This means leading projects and designs that have organizational reach and creating opportunities to work cross-functionally. You need to proactively seek out or create challenges that allow you to demonstrate this broader impact."
+  },
+  {
+    "question": "What should I do if my manager only wants me to focus on repetitive front-end tasks and I feel stuck?",
+    "answer": "In that situation, I recommend having a conversation with your manager about your career growth and desire for more impactful work. However, if your current environment limits those opportunities, you may need to create them yourself by engaging with other teams and stakeholders to identify broader challenges. Alternatively, changing teams or companies might be necessary to find a role that naturally allows for wider impact, but this is not guaranteed to be easier."
+  },
+  {
+    "question": "Is project complexity the right measure to assess readiness for promotion to principal engineer?",
+    "answer": "I don't think complexity of projects is the right measure. Instead, focus on the complexity of the problems you solve. A complex problem with a simple solution is valuable. The feedback about expecting more complex projects might actually mean they want to see you solving larger scale or more novel problems that have organizational impact, not just complex code or features."
+  }
+]

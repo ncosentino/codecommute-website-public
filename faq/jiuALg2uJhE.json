@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What is the current status of stack ranking at Microsoft according to your experience?",
+    "answer": "In my nearly 5 years at Microsoft, I have never been asked to stack rank anyone or been involved in conversations that included stack ranking. While it might have existed at some point in the company's history, it has not been part of my experience or communicated as an upcoming change."
+  },
+  {
+    "question": "How do you view the use of Performance Improvement Plans (PIPs) in software engineering management?",
+    "answer": "I have used PIPs in my career as an engineering manager to help turn people's performance around. The goal of a PIP is to document areas for improvement and create a plan to help employees improve, not just to fire them. While some may assume PIPs are just a step toward termination, I believe they are a tool for supporting employee growth when used properly."
+  },
+  {
+    "question": "What is your perspective on the recent news and rumors about Microsoft’s performance management changes?",
+    "answer": "I think a lot of the news around Microsoft’s performance management, like stack ranking or PIP culture, can be misleading or misrepresented. News outlets often prioritize clicks over accuracy, which can create a distorted picture. From what I know, there have been no official communications about introducing stack ranking or using PIPs solely to fire people, and managing underperformance is handled through regular conversations and documentation."
+  }
+]

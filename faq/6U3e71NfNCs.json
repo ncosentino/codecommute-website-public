@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How can a beginner improve their coding skills if they feel they are not good at coding?",
+    "answer": "I believe if you feel you're not good at coding yet, it might be because you haven't spent a lot of time programming. It's important to avoid negative self-talk and instead frame it as something you're working on improving. Building projects outside of school and practicing consistently will help you get better over time."
+  },
+  {
+    "question": "What advice do you have for someone who wants to make a lot of money in coding but doesn't know where to start?",
+    "answer": "My advice is to get started building stuff in any direction you choose, because nearly none of the directions are wrong and you can always pivot later. Trying to find the perfect roadmap before starting often leads to analysis paralysis. Pick a programming language or tech stack that interests you, start building projects, and learn as you go."
+  },
+  {
+    "question": "How should a beginner choose which programming language or tech stack to learn first?",
+    "answer": "I recommend doing some homework by researching different languages and tech stacks, then analyzing their pros and cons based on factors like community support and usage. If you're unsure, pick one area like web development to anchor your learning. Present your findings and preferences when asking for advice to get more helpful and specific recommendations."
+  }
+]

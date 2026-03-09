@@ -1,0 +1,14 @@
+[
+  {
+    "question": "Do all roles and levels at FAANG companies require practicing LeetCode-style coding questions?",
+    "answer": "Yes, 100%. I don't know a big tech company at this point in time that doesn't ask LeetCode-style coding questions. Even as an engineering manager, I was asked these types of questions at almost every big tech company I interviewed at, except Amazon. So as a software engineer, you can definitely expect to be asked these questions."
+  },
+  {
+    "question": "How should I approach system design interview questions for big tech companies?",
+    "answer": "You should start by clarifying the functional and non-functional requirements and what's in and out of scope before diving into building the system. It's important to understand the major building blocks, how components integrate, and considerations like scale, storage, consistency, and latency. Memorizing answers is not ideal; instead, focus on understanding the concepts so you can confidently explain your design during the interview."
+  },
+  {
+    "question": "What is the best way to prepare for behavioral interview questions in big tech interviews?",
+    "answer": "I recommend using the STAR method (Situation, Task, Action, Result) to structure your answers. Behavioral questions focus on your interactions and behaviors, not technical choices. You should clearly communicate real scenarios from your experience that demonstrate how you operate, especially in situations involving teamwork or conflict. Using AI tools like ChatGPT can help you practice framing your answers effectively."
+  }
+]

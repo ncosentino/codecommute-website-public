@@ -1,0 +1,14 @@
+[
+  {
+    "question": "Is it normal for engineering managers to ask for ETAs on research tasks?",
+    "answer": "I think it's understandable that managers ask for ETAs even on research tasks, though it can feel uncomfortable because research involves uncertainty. From my experience, asking for ETAs helps start conversations about progress and alignment, not to enforce strict deadlines. It's a way to assess if we're on track or need to adjust priorities or scope."
+  },
+  {
+    "question": "How do you handle providing ETAs for research tasks when the timeline is uncertain?",
+    "answer": "I recommend providing a best-effort estimate based on your gut feeling and prior experience, but also being clear about uncertainties. Time boxing is very helpful—setting a fixed amount of time to explore the research before reassessing. This approach allows us to manage expectations and adjust based on what we learn during the research."
+  },
+  {
+    "question": "What should engineers and managers keep in mind about the outcomes of research tasks?",
+    "answer": "It's important to remember that research tasks may not always lead to a successful solution, and that's okay. The value often comes from the learning and data collected, even if the hypothesis isn't proven. Time boxing research helps prevent wasted effort, and sharing what was learned can unblock future work and lead to impactful results later."
+  }
+]

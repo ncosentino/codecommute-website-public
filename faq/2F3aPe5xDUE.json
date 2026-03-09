@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How do I decide when to hire an engineering manager if I have a small team?",
+    "answer": "I recommend stepping back and understanding the problem you're trying to solve before hiring an engineering manager. If you have six engineers and can still manage them effectively, maybe you don't need an EM yet. However, if you're stretched thin, trying to scale, or your responsibilities prevent you from giving your team enough attention, it might be time to hire one. The key is to find the right timing between waiting too long and hiring too early."
+  },
+  {
+    "question": "What should I look for when interviewing an engineering manager if I'm not an expert in that role?",
+    "answer": "I would focus on what you expect the engineering manager to accomplish, such as team growth, people management, and project coordination. You don't need to be proficient in their technical skills, but you should assess their ability to grow teams, manage people, and facilitate effective work. Structuring interviews around these core responsibilities and understanding what success looks like in the role will help guide your questions and evaluation."
+  },
+  {
+    "question": "How can I interview for a technical role when I don't have expertise in that area?",
+    "answer": "First, clarify what problem you're trying to solve and what success looks like in that role. Then, think about the traits and outcomes you want from the candidate, like collaboration, knowledge sharing, and technical competence relevant to your needs. Instead of trying to verify technical expertise yourself, focus on questions that give you confidence in their ability to succeed and consider how you'll evaluate their performance once hired. This approach helps you ask meaningful questions even without deep technical knowledge."
+  }
+]

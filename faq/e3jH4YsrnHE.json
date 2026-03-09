@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How do you use analyzers to enforce coding patterns when using AI code generation?",
+    "answer": "I write custom analyzer rules in C# using Roslyn to enforce specific coding patterns in my codebase. When AI generates code that doesn't meet these rules, the build fails, prompting the AI to fix the issues. This helps catch unwanted patterns like unnecessary comments or missing assert messages, providing guard rails for AI-generated code."
+  },
+  {
+    "question": "What challenges have you encountered when using AI to write code that follows your preferred result pattern?",
+    "answer": "AI sometimes ignores my preferred result pattern, leading to inconsistent code where some parts follow the pattern and others don't. Even with instructions and examples, AI can produce code that throws exceptions instead of using my custom result type. This inconsistency makes the codebase convoluted, so I use analyzers to help enforce the pattern more strictly."
+  },
+  {
+    "question": "How do you compare AI's mistakes in coding to human developers' mistakes?",
+    "answer": "I realize that AI making dumb decisions is similar to humans making mistakes due to missed details or misunderstandings. While I might get frustrated with AI, I try to remind myself that people also make errors and usually do their best. The key is to provide clearer instructions and guard rails, whether for AI or people, to improve outcomes rather than blaming the intelligence behind the errors."
+  }
+]

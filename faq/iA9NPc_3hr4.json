@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How do you measure software development quality when QA frequently rejects completed work?",
+    "answer": "I measure quality by looking at the amount of rework, the number of times things get sent back, and the amount of lost time due to sending work back. I aim to reduce these metrics as close to zero as possible because a high rate indicates inefficiency and lack of collaboration during development. While some issues will always escape, I want those to be exceptions rather than the norm."
+  },
+  {
+    "question": "What development process do you recommend to avoid frequent QA rejections and delays?",
+    "answer": "I do not believe in a process where developers build something fully and then hand it off to QA as a gatekeeper. Instead, I advocate for early and continuous collaboration with testers or user proxies throughout development. This includes breaking down work into smaller deliverables, doing draft reviews early, and involving testers or product owners from the start to create tighter feedback loops and avoid surprises at the end."
+  },
+  {
+    "question": "How did your teams handle testing and quality assurance differently to improve software development outcomes?",
+    "answer": "On one team, we had a tester who acted more like a consultant and user proxy, collaborating closely with developers from the beginning to discuss workflows and testing strategies. Over time, we integrated testing responsibilities into development and product management roles, maintaining early feedback and user involvement. On another team, I introduced a test strategist role who worked with developers from the start to ensure proper test coverage and infrastructure, which worked well for repeatable development tasks."
+  }
+]

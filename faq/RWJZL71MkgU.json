@@ -1,0 +1,14 @@
+[
+  {
+    "question": "Why is there often no formal training for new engineering managers?",
+    "answer": "From what I've seen and heard, it's very uncommon for companies to provide formal training before someone becomes a manager. Usually, if you've been doing your current job well and shown some informal leadership, you get promoted to manager and then have to figure things out on the job. Most new managers experience a phase of confusion because they weren't prepared or trained for the people management responsibilities."
+  },
+  {
+    "question": "How do you approach mentoring aspiring engineering managers?",
+    "answer": "I participate as a mentor in an aspiring managers program where I meet regularly with my mentee to share insights and experiences. We focus mainly on the people leadership aspects because those are often new to them, unlike project management or architecture which they might already know. I also have to be careful about privacy, so instead of sharing confidential details, I explain my general processes and approaches to managing people."
+  },
+  {
+    "question": "What challenges do you face when creating courses for software engineers?",
+    "answer": "Most of my audience is interested in C# and .NET programming content, which performs better than my general software engineering advice. I want to create courses from a manager's perspective to help engineers develop leadership skills, but it's challenging to bridge the gap between technical content and broader career development topics. Also, course creation requires a significant time commitment to prepare and record material, so I sometimes have to prioritize which courses to focus on."
+  }
+]

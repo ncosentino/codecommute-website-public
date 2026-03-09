@@ -1,0 +1,14 @@
+[
+  {
+    "question": "Why should I include numbers and metrics on my software engineering resume?",
+    "answer": "I include numbers and metrics on my resume to help illustrate the impact I've had in a way that others can understand, especially non-technical people or those outside my domain. Quantifying achievements shows the scale and significance of my work, which might not be obvious otherwise, and helps me stand out to hiring managers."
+  },
+  {
+    "question": "How can I make my technical achievements understandable to non-technical resume reviewers?",
+    "answer": "I try to avoid proprietary jargon and instead communicate the impact using quantifiable results that anyone can grasp, like performance improvements or cost savings. For example, instead of just saying I migrated a system, I explain that I led a migration involving 37 teams that resulted in a 62.5% average throughput gain, which conveys the scale and importance clearly."
+  },
+  {
+    "question": "What is a good way to test if my resume effectively communicates my impact?",
+    "answer": "I recommend having a friend or significant other who isn't familiar with my technical domain read my resume to see if they can understand the significance of my work. If they have no idea what I've done, it signals that I need to reword or better explain my achievements so the impact is clearer to a broader audience."
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How do you recommend junior software engineers get unblocked when onboarding remotely?",
+    "answer": "I recommend junior engineers reach out proactively to their onboarding buddy or team members when blocked. It's important to remember that you're not bothering anyone; your buddy is there to help you. If you feel uncomfortable, you can also reach out to me as a manager, and I encourage using team chat to ask questions rather than waiting indefinitely for one person to respond."
+  },
+  {
+    "question": "What should you do if you're blocked waiting on a partner team that isn't responding?",
+    "answer": "If a partner team isn't responding after multiple attempts like messages and emails, I encourage escalating by adding your manager to the communication thread. This often helps because I can provide additional context about the urgency and criticality of the issue. The goal is not to blame anyone but to get the necessary help to move forward."
+  },
+  {
+    "question": "Is it effective to wait until daily stand-up meetings to raise that you're blocked?",
+    "answer": "No, I don't think waiting until the next stand-up to raise a block is effective. If you get stuck, you should seek help immediately rather than waiting a whole day or longer. Stand-ups are one tool to communicate blocks, but you should also use team chat or reach out directly to teammates to get unblocked as soon as possible."
+  }
+]

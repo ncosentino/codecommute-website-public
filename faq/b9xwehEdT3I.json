@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How should I handle communication when I'm on call and receive a page from a partner team?",
+    "answer": "I recommend acknowledging the page quickly, even if you don't have an answer right away. Let the partner team know you received their message and are looking into it. This helps reduce their anxiety and shows that someone is actively working on the issue."
+  },
+  {
+    "question": "What advice do you have for new engineers who are nervous about their first on call rotation?",
+    "answer": "I tell new engineers that they are not expected to fix all the bugs themselves, especially in unfamiliar areas. Being transparent about your experience level and letting others know you're trying your best can actually help. Most internal teams appreciate honesty and collaboration when you're learning."
+  },
+  {
+    "question": "How can I effectively learn from on call incidents instead of just relying on experts to fix problems?",
+    "answer": "I suggest trying to troubleshoot issues yourself first and only asking experts for guidance rather than complete solutions. When working with experts, try to be in the driver's seat by having them walk you through the steps. This hands-on approach helps you retain knowledge better and prepares you for future incidents."
+  }
+]

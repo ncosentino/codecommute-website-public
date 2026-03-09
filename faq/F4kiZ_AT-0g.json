@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What is the first step I should take when joining a new team as a senior developer?",
+    "answer": "The first step I take when joining a new team is to observe and learn without trying to change anything. Even as a senior developer, it's important not to rush into imposing changes because you don't have enough information yet and people may resist changes from someone new."
+  },
+  {
+    "question": "How important is building trust and respect with team members when starting on a new project?",
+    "answer": "Building trust and respect with team members is crucial, especially if you want to lead or influence the team effectively. I focus on listening, understanding, and consistently following through on my actions to earn their trust and respect over time, which helps when proposing changes or resolving conflicts."
+  },
+  {
+    "question": "What is the best approach to learning a new system as a senior developer?",
+    "answer": "I recommend approaching system learning from both a high-level and detailed perspective. Spend time exploring the codebase and also engage with subject matter experts to get walkthroughs and documentation. Additionally, actively confirm your understanding by sharing it back with them to ensure clarity and fill in any gaps."
+  }
+]

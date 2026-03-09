@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How do you evaluate coding skills during software developer interviews?",
+    "answer": "I focus on problem solving rather than memorization or finding tricky optimizations. I look to see how candidates think through problems and write actual code, regardless of the programming language they use. The bar for coding ability is relatively low because I believe candidates can learn new languages quickly if they understand core programming concepts."
+  },
+  {
+    "question": "What approach do you take when assessing system design skills in interviews?",
+    "answer": "I want to see that candidates understand the big building blocks and can discuss trade-offs like resilience, security, and scalability. I don't expect a perfect design but rather how they think through changing requirements and real-world constraints. I value hearing their reasoning behind design choices and how they adapt when requirements evolve."
+  },
+  {
+    "question": "Why do you emphasize behavioral and project-related questions in interviews?",
+    "answer": "I focus heavily on behavioral questions to understand how candidates interact with teams, resolve conflicts, and influence others. I try to make candidates comfortable so they can openly discuss challenges like receiving feedback or mentoring juniors. These interpersonal skills are crucial since software development is largely about working effectively with others."
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What are 'connects' at Microsoft and how do they help with employee performance?",
+    "answer": "At Microsoft, connects are checkpoints used to level set expectations between managers and employees. They are not the performance review itself but help ensure there are no surprises by providing feedback on whether someone is meeting, exceeding, or underperforming expectations. This process involves employees filling out a document about their wins, challenges, and goals, which I then respond to with comments before having a conversation to align on performance."
+  },
+  {
+    "question": "Why do software estimates often end up being wrong, and how should teams handle this?",
+    "answer": "Software estimates often go wrong because unexpected complications arise that weren't accounted for initially. I believe it's crucial to raise awareness as soon as you realize something is off track rather than hiding it out of fear or embarrassment. Communicating early allows the team to reprioritize work, pivot to more important tasks, and avoid wasting time on something that is taking longer than expected, fostering a culture where speaking up is encouraged and not punished."
+  },
+  {
+    "question": "How did you resolve the SQL query performance issue with the keyword search feature?",
+    "answer": "I initially tried adding a full-text index on a text column to speed up the keyword search, but the query timed out and was very slow. After dumping the database locally, I tested the query and added compound indices recommended by ChatGPT, which improved execution time from over 30 seconds to about 1 second. This showed me that the problem was likely related to running the query remotely rather than the query itself, and running it locally on the same network resolved the performance issue."
+  }
+]

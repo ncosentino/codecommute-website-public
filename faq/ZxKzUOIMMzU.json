@@ -1,0 +1,14 @@
+[
+  {
+    "question": "Why do software engineering job postings often require expertise in both front-end and back-end development?",
+    "answer": "I believe that when companies receive many applications for a front-end developer position, they tend to raise the bar by asking for additional skills like back-end experience. If two candidates have equal front-end skills, the one with back-end knowledge is often preferred because they bring more versatility and can contribute in multiple areas. This trend is partly due to high competition and companies wanting more well-rounded developers."
+  },
+  {
+    "question": "How has remote work affected the competitiveness of software engineering roles?",
+    "answer": "Remote work has significantly increased competition because job postings that were once limited to local candidates are now open to applicants worldwide. This means many more people can apply for the same position, increasing the volume of applications and making it harder to stand out. Companies respond by raising their requirements to filter candidates, which can make job postings seem more demanding than before."
+  },
+  {
+    "question": "Why do some entry-level software engineering jobs require several years of experience or a university degree?",
+    "answer": "From my experience, this is often a way companies manage the large volume of applications they receive. By setting higher bars like requiring a degree or multiple years of experience, they can reduce the number of applicants to a more manageable pool. It’s not necessarily about fairness but about supply and demand, as companies have many qualified candidates to choose from and want to streamline their hiring process."
+  }
+]

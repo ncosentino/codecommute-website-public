@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What is the typical duration and purpose of company hackathons?",
+    "answer": "Hackathons at companies can vary in length from 24 hours to a week. They are often used as dedicated time for learning, building projects, or collaborating with others, sometimes with the freedom to work on anything and other times scoped to business-related work. The goal can be to encourage creativity, learning new technologies, or cross-team collaboration."
+  },
+  {
+    "question": "Why might hackathons be considered an anti-pattern by some developers?",
+    "answer": "Some developers feel hackathons are an anti-pattern because they question why dedicated time must be carved out instead of encouraging innovation and learning as part of regular work. They may feel pressured or guilty about not working on their main priorities during hackathons, and some argue that innovation should be integrated into everyday workflows rather than isolated in special events."
+  },
+  {
+    "question": "How should companies align their goals and communication around hackathons to avoid frustration?",
+    "answer": "Companies should clearly define and communicate the motivation behind hackathons, whether it's for learning, collaboration, or business innovation. They should avoid sending mixed messages, such as encouraging free exploration but then expecting business-related outcomes, which can cause guilt or frustration. Transparency and alignment on expectations help participants feel supported and engaged during hackathons."
+  }
+]

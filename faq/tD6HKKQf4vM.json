@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What is the best approach for new coders to learn programming effectively?",
+    "answer": "I recommend that new coders spend more time trying to build things and getting stuck rather than just copying code from tutorials or AI tools. Building small projects and breaking them down into manageable pieces helps reinforce learning and develop problem-solving skills. Getting stuck and figuring out solutions is crucial for making breakthroughs and gaining real experience."
+  },
+  {
+    "question": "What traits make a great entry-level intern or junior engineer?",
+    "answer": "Being curious and eager to learn are the most important traits I look for in entry-level interns or junior engineers. I value people who ask questions to understand the domain and show interest in challenges without becoming overwhelmed. Proactively communicating about workload and progress also helps me support their growth effectively."
+  },
+  {
+    "question": "How should junior developers handle asking for help when they get stuck?",
+    "answer": "I encourage junior developers to ask questions as soon as they get stuck after doing some initial homework to try to solve the problem on their own. It’s important to seek clarity if unsure about the task and to explain what you have tried when asking for help. People want to help you get unblocked, and effective communication about your challenges makes it easier for the team to support you."
+  }
+]

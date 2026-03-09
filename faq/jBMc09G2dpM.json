@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What should I do if I hate my software developer job due to increased workload and poor management?",
+    "answer": "I would first consider if there's something about your team or position worth investing energy into changing. If changing your team isn't an option, reflect on whether the company culture or your manager is the main issue. Sometimes, trying to drive change can be difficult, especially if you're exhausted, but it's worth assessing before deciding your next move."
+  },
+  {
+    "question": "Is quiet quitting a good strategy for dealing with job dissatisfaction as a software developer?",
+    "answer": "Personally, I don't recommend quiet quitting because it can make your work life feel empty and unfulfilling. While the paycheck might still come in, spending your work hours disengaged isn't a positive way to live. Instead, I suggest using your time to improve your skills, practice interviews, and prepare for a job switch if that's your goal."
+  },
+  {
+    "question": "How can I prepare to switch jobs if I'm struggling with technical interviews and feeling stuck?",
+    "answer": "I recommend brushing up on your resume, practicing coding problems like those on LeetCode, and preparing for system design and behavioral interview questions. Even if you regularly do architecture work, practicing open-ended system design questions can help. Having multiple scenarios ready for behavioral questions can also boost your confidence during interviews."
+  }
+]

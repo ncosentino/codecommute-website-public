@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How can developers manage large pull requests to avoid AI-generated code slop?",
+    "answer": "I recommend keeping pull requests smaller to make them easier to review and understand. Large pull requests with thousands of file changes make it difficult to provide meaningful feedback, and AI tends to generate large volumes of code, which exaggerates this problem. Smaller, more focused pull requests help maintain quality and clarity."
+  },
+  {
+    "question": "What practices should developers follow before submitting code for review to reduce AI slop?",
+    "answer": "I suggest reading and running your code locally before submitting it for review, and also reviewing the code in the pull request tool as others will see it. This helps catch issues like dead code or irrelevant changes early. Taking these extra steps prevents pushing AI-generated slop and saves reviewers time."
+  },
+  {
+    "question": "What guard rails can teams put in place to reduce AI-related code quality issues?",
+    "answer": "I advise implementing automated tools like linters, custom analyzers, and continuous integration systems that enforce coding standards and run tests automatically. These guard rails prevent developers from pushing poor-quality or inconsistent code, including AI-generated slop. Automation helps guide developers toward best practices and reduces human error."
+  }
+]

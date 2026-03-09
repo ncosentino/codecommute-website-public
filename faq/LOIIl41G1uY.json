@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How should I ask for help when I'm unsure about a concept or run into a bug during my software engineering internship?",
+    "answer": "I recommend first reaching out to your assigned mentor or intern buddy, as they are there specifically to help answer your questions and guide you. If your mentor isn't available, your manager is a good backup. Additionally, try to understand who the subject matter experts are on your team so you can ask them directly, and don't hesitate to use team chats to crowdsource answers."
+  },
+  {
+    "question": "What is the best way to ask questions when I'm stuck on a task during my internship?",
+    "answer": "When you're stuck, first make sure you have clarity on what is being asked of you. Then, try something on your own before asking for help. When you do ask, be ready to explain what you have already tried, as this shows effort and helps your mentor guide you better. This approach helps you learn more effectively and avoids relying on others to do the thinking for you."
+  },
+  {
+    "question": "What kinds of questions should I ask my mentor during my first software engineering internship?",
+    "answer": "I suggest focusing initially on questions related to your work and learning goals to show you're productive and eager to learn. You can ask about your mentor's career journey, how they developed certain skills like debugging or working with databases, and request specific feedback on your work. Also, if you're genuinely curious, asking about their interests or side projects can be a great way to build rapport and learn from their experiences."
+  }
+]

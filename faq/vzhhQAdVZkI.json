@@ -1,0 +1,14 @@
+[
+  {
+    "question": "Do developers need to know the inner workings of framework methods for coding interviews?",
+    "answer": "In coding interviews, especially those focused on data structures and algorithms, I believe you should be prepared to explain how things work under the hood rather than just calling built-in framework methods. Interviewers typically want you to implement solutions from scratch to demonstrate your understanding, so relying solely on framework methods might not be sufficient."
+  },
+  {
+    "question": "Should I memorize every framework method and its internal implementation to be a good developer?",
+    "answer": "No, I don't recommend memorizing every framework method or knowing all their internals. Instead, I focus on understanding the tradeoffs and reasons why different methods or approaches exist within a framework. This knowledge helps me make better decisions without needing to know every detail by heart."
+  },
+  {
+    "question": "How does the expectation to know framework internals change with seniority?",
+    "answer": "The more senior you are, the more you are expected to understand and explain the internals of the frameworks you use. However, even at a senior level, I don't claim to know everything perfectly. Most people, including myself, won't be experts on every detail, and that's okay. It's important to be honest about your knowledge level and focus on continuous learning."
+  }
+]

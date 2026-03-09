@@ -1,0 +1,14 @@
+[
+  {
+    "question": "Should beginners in software development avoid using AI tools until they have more projects?",
+    "answer": "I don't recommend beginners avoid AI tools entirely. Instead, it's important to understand your goals and how you use the tools. If you're just copying code without learning, it might hinder your growth, but using AI effectively can help you build projects faster and learn more efficiently."
+  },
+  {
+    "question": "How can beginners use AI tools effectively to learn programming?",
+    "answer": "I suggest challenging yourself to ask questions about the code AI generates rather than just copying and pasting it. Use AI as a learning aid by understanding what the code does and how it works. This approach helps you leverage AI to deepen your understanding instead of bypassing the learning process."
+  },
+  {
+    "question": "What should you do if AI tools repeatedly provide incorrect or unhelpful code?",
+    "answer": "If AI keeps giving you the same mistakes, take a step back and reconsider your approach. It might mean you need to rethink your prompts or even solve the problem yourself. I experienced this myself when I spent an hour trying to fix a SQL query with AI before realizing the initial suggestion was correct and I was the one making the mistake."
+  }
+]

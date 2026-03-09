@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How does Microsoft expect software developers to use AI tools like ChatGPT?",
+    "answer": "Microsoft encourages developers to use AI tools and provide feedback on them to help improve their accuracy and usefulness. They understand these tools aren't perfect and want developers to actively engage with them, using their agency to shape how AI is integrated into workflows. The expectation is that developers use AI tools thoughtfully, not blindly copying output without understanding it."
+  },
+  {
+    "question": "What advice do you have for developers struggling with impostor syndrome when using AI tools like ChatGPT?",
+    "answer": "Impostor syndrome is common and affects many developers, especially when using new tools like AI. It's important to recognize that impostor syndrome means you have the skills but doubt yourself, not that you're an actual impostor. Building experience and reflecting on past successes can help manage these feelings, and using AI tools is becoming a normal part of development rather than a sign of inadequacy."
+  },
+  {
+    "question": "How should developers use ChatGPT or other AI tools when coding to avoid becoming overly reliant?",
+    "answer": "I recommend using AI tools like ChatGPT as a helpful aid but always reviewing and understanding the code it generates. Instead of copying and pasting blindly, you should manually type out or verify the output and ask for explanations if something is unclear. This approach ensures you truly understand the code, which is crucial for debugging and maintaining quality in your projects."
+  }
+]

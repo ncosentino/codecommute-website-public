@@ -1,0 +1,14 @@
+[
+  {
+    "question": "Why do managers frequently ask for status updates during software development projects?",
+    "answer": "I find that managers often ask for status updates because they need to provide information to other stakeholders, especially non-technical ones like executives or project managers. It's not about distrust but about coordinating across teams and ensuring deliverables are on track within a set timeframe. These updates help identify if anyone is blocked and if adjustments or support are needed."
+  },
+  {
+    "question": "How can I handle feeling overwhelmed by frequent requests for status updates at work?",
+    "answer": "When I feel overwhelmed by frequent status update requests, I recommend having a polite and respectful conversation with the person asking. I try to understand what they are trying to accomplish with the updates and discuss if there's a less disruptive way to provide the information. Taking a deep breath and seeking to understand their perspective helps me find a sustainable approach that works for both of us."
+  },
+  {
+    "question": "What strategies can reduce the burden of multiple people requesting status updates from the same engineer?",
+    "answer": "In my experience, creating a dedicated group chat with all involved parties helps centralize communication and avoid bombarding the engineer with multiple requests. This way, only one person asks for updates, and everyone stays informed. It also creates a safe space for the engineer to push back or share concerns, improving transparency and reducing stress."
+  }
+]

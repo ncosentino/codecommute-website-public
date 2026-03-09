@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How can I make junior developers more effective at reviewing pull requests?",
+    "answer": "I believe the key is to slow down and spend time educating junior developers on the technical concepts they may be missing. It's important to help them build their skills gradually by guiding them through code reviews and explaining the reasoning behind certain code patterns. Avoiding the problem by excluding juniors won't help long term; instead, invest time in knowledge transfer and hands-on learning sessions."
+  },
+  {
+    "question": "What should I do when junior developers struggle with live site incidents during on-call duties?",
+    "answer": "I encourage letting juniors struggle a little bit while providing guidance and support. They should be encouraged to investigate issues themselves with time-boxed efforts and come back for help if stuck. This approach helps them build experience and confidence over time, rather than having seniors solve every problem for them, which can lead to burnout and skill gaps."
+  },
+  {
+    "question": "What strategies have you found helpful for improving knowledge sharing on complex teams?",
+    "answer": "We've tried knowledge sharing sessions where subject matter experts walk through scenarios and incidents, recording these for later reference. I also want to try live, interactive sessions where I attempt to diagnose issues while being observed and coached, which helps both me and the experts improve documentation and troubleshooting skills. Encouraging hands-on practice and structured learning helps juniors gain deeper understanding and skills."
+  }
+]

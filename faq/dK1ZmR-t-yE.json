@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How did your startup team approach Agile processes differently from traditional methods?",
+    "answer": "In our startup, we initially tried traditional Agile methods like story points and sprint planning but found them ineffective and time-consuming. We eventually moved to a very lightweight process with minimal ceremonies, focusing more on conversations about the work rather than debating story points. This allowed us to be nimble, pivot quickly, and focus on delivering value without getting bogged down in process overhead."
+  },
+  {
+    "question": "What challenges did you observe with Agile and process-heavy approaches in large tech companies like Microsoft?",
+    "answer": "At Microsoft, I noticed there is much more process and planning due to the scale and dependencies between many teams. While this structure helps coordinate efforts, it often feels slow and heavy compared to a startup environment. However, when urgent work arises, teams can temporarily bypass the heavy process and operate with startup-like agility, which shows that the process-heavy approach is more of a steady state rather than a fixed rule."
+  },
+  {
+    "question": "How do you recommend teams maintain agility while scaling and dealing with complex dependencies?",
+    "answer": "I recommend keeping processes as lightweight as possible and constantly questioning whether the current way of working is effective. Teams should have autonomy to adapt or challenge processes that don't add value. Regular retrospectives and open conversations about priorities and challenges help maintain alignment and allow teams to pivot quickly when needed, balancing structure with flexibility."
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How does planning differ between startups and big tech companies in software engineering?",
+    "answer": "In startups, planning often starts with chaos and immediate priorities, focusing on short-term goals like fixing bugs or building requested features, with little long-term planning. Over time, startups may adopt sprint planning and quarterly reviews, but flexibility remains key. In big tech, planning is more regimented due to many teams and dependencies, involving longer-term semester planning and alignment with business strategy, but still requires agility to handle unexpected changes."
+  },
+  {
+    "question": "What role do dependencies and stakeholder communication play in software engineering planning?",
+    "answer": "Dependencies between teams are critical in planning because one team's deliverables often rely on another's work. Effective planning involves early and frequent communication with stakeholders to align priorities and manage trade-offs when priorities shift. Understanding who depends on you and who you depend on helps in making informed decisions and minimizing surprises when plans change."
+  },
+  {
+    "question": "Why is it important to optimize for agility rather than just sticking strictly to a plan in software engineering?",
+    "answer": "Plans in software engineering will inevitably change due to unforeseen issues or shifting priorities, so optimizing solely for a perfect plan is not effective. Instead, I focus on creating plans that provide direction and measurable goals but remain flexible to adapt as needed. Agility allows teams to pivot quickly while maintaining alignment on objectives and key results, ensuring progress even when circumstances evolve."
+  }
+]

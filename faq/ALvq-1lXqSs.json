@@ -1,0 +1,14 @@
+[
+  {
+    "question": "When is mandatory time tracking necessary for developers?",
+    "answer": "I find that mandatory time tracking is necessary in situations where you have to bill hours to a client, such as freelance or contract work. It can also be required when working on subsidized projects that need detailed tracking for approval. Outside of these cases, many developers may not need explicit time tracking in their normal workflow."
+  },
+  {
+    "question": "Why do developers often dislike mandatory time tracking?",
+    "answer": "From my experience, developers dislike mandatory time tracking because it feels boring, time-consuming, and like a pointless extra task when there's no clear value. It often leads to looking for shortcuts and reduces the quality of the time tracking data. The cognitive load and frequency of tracking can make it feel like a frustrating chore rather than a helpful process."
+  },
+  {
+    "question": "What is a better approach than mandatory time tracking to ensure developers are doing their work?",
+    "answer": "I prefer addressing issues of productivity by talking directly with individuals to understand their interests, motivations, and any challenges they face. I believe in putting people first, finding interesting work for them, and building trust rather than imposing sweeping time tracking policies. If trust is an issue, it's better to invest in improving team trust and engagement rather than relying on time tracking as a control mechanism."
+  }
+]

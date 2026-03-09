@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How can a software engineer make themselves valuable without becoming irreplaceable in a negative way?",
+    "answer": "I believe the best way to add value is by making yourself replaceable, meaning you build systems and processes so well that others can take over your responsibilities. This approach allows you to move on to more important work and prevents you from becoming a bottleneck or stuck in one role. Instead of hoarding knowledge or control, I focus on enabling my team and automating repetitive tasks to create a multiplier effect."
+  },
+  {
+    "question": "What is the philosophy behind automating parts of your software engineering job?",
+    "answer": "I advocate for automating repetitive or manual parts of your job so that you don't have to spend time on them continuously. For example, if you need to collect and analyze data regularly, you can build tools or systems that automatically provide that data and alert you when issues arise. This frees you up to focus on higher-value work and makes you more valuable to your team and company."
+  },
+  {
+    "question": "How do you approach leadership and team management to make a team more effective?",
+    "answer": "As an engineering manager, I aim to enable my team to do their best work by aligning their efforts with business goals and fostering a culture of open communication and continuous improvement. I work to replace myself by empowering team members to identify and implement process improvements, support each other, and make decisions collaboratively. This way, the team becomes autonomous and productive even when I'm not directly involved in every detail."
+  }
+]

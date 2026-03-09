@@ -1,0 +1,14 @@
+[
+  {
+    "question": "Why is leadership important for individual contributors in software engineering?",
+    "answer": "I believe leadership is important for individual contributors because software engineering involves working with other people. To have more impact in your career, you need to collaborate effectively and lead regardless of your title. Leadership helps you grow and work with others to achieve bigger goals."
+  },
+  {
+    "question": "How should leaders build trust with their software engineering teams?",
+    "answer": "I think trust goes both ways in leadership. You need to earn your team's trust by being credible and accountable, but you also need to trust your team members to figure out how to solve problems on their own. Giving them ownership and space to make decisions helps build their trust and motivation."
+  },
+  {
+    "question": "What is the downside of telling engineers exactly how to do their work?",
+    "answer": "When you tell engineers exactly how to do their work, you remove their ownership and motivation. Especially for senior engineers, it can be disengaging because they don't get to contribute their ideas or solve challenging problems. Instead, I prefer to provide the why and some guidance, then trust them to figure out the how."
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "question": "Is splitting front end and back end work a good approach for learning software development?",
+    "answer": "I think it depends on your goals. Splitting work between front end and back end can be effective for productivity, especially if team members focus on areas they are comfortable with. However, if your goal is to maximize learning, you might want to switch roles or try full stack development to get exposure to more technologies."
+  },
+  {
+    "question": "How can working in a team with split responsibilities still provide learning opportunities?",
+    "answer": "Even when roles are split, you get exposure to different parts of the system through integration. For example, as a back end developer, I learn about front-end caching or authentication because I have to coordinate with those systems. This integration helps me learn new things even if I'm focused on a specific area."
+  },
+  {
+    "question": "What are the trade-offs between effectiveness and learning when dividing work among software engineers?",
+    "answer": "Our setup is usually optimized for effectiveness, where people work in areas they know well to produce results quickly. This can minimize learning since you're working with familiar technologies. But sometimes, slowing down to let someone explore a less familiar area can help the team learn and reduce risk if key knowledge is shared among multiple people."
+  }
+]

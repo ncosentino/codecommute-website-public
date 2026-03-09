@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How should a team lead handle a software engineer who is content and not receptive to mentorship?",
+    "answer": "As a team lead, I think it's important to raise awareness of the situation with the manager in a constructive way. You should acknowledge that the engineer is doing good work at their current level but may not be interested in stretching beyond their comfort zone. It's also helpful to explore if the engineer genuinely enjoys their work or is just content, and try to align their tasks with what they like to do, which can naturally encourage growth."
+  },
+  {
+    "question": "Is it problematic if a software engineer is content with their current role and not seeking career growth?",
+    "answer": "I don't think there's anything wrong with an engineer being content with where they are in their career. While many people strive for promotion and growth, some reach a level where they feel good about their work-life balance and compensation. From a management perspective, it's important to respect that mindset, but also to ensure awareness so that team planning and capacity take this into account."
+  },
+  {
+    "question": "What impact does having a content software engineer who resists growth have on a small team?",
+    "answer": "On a small team, having an engineer who is content and not interested in growth can reduce flexibility because they may need handholding for tasks outside their comfort zone. This can affect the team's ability to take on bigger or more complex features. Therefore, it's important for the manager and team lead to be aware of this dynamic to adjust expectations, plan capacity accordingly, and consider resourcing if needed."
+  }
+]

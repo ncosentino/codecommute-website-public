@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How did you use GitHub Copilot Spaces to investigate memory leaks in your codebase?",
+    "answer": "I used GitHub Copilot Spaces to chat with an AI assistant that had access to my entire codebase across multiple repositories. This allowed me to explore and reason about the code remotely, even when I wasn't at my computer. It helped me identify potential inefficiencies and memory leaks by analyzing the code in context."
+  },
+  {
+    "question": "What challenges did you face when replacing the image processing library with NetVIPS?",
+    "answer": "When I replaced the image processing library magic.net with NetVIPS using AI-assisted refactoring, the resizing functionality worked but I unintentionally broke some behaviors. Specifically, I lost the logic that avoided loading large images unnecessarily, which caused some posts with large images to be rejected. This happened because I relied too much on AI for refactoring without fully understanding the nuances of the original code."
+  },
+  {
+    "question": "How did you use AI to improve memory management in your image resizing code?",
+    "answer": "I repeatedly prompted GitHub Copilot in Visual Studio to find inefficient memory allocations and resource leaks in my codebase. While I didn't trust AI to fix the issues automatically, it was very effective at identifying places where streams were not disposed properly or where extra copies were made. After about 10 to 15 iterations of reviewing and fixing these findings, I was able to significantly improve memory usage and see better memory release patterns in my application."
+  }
+]
