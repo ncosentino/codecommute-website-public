@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://codecommute.com/sitemap.xml
+Sitemap: https://codecommute.com/video-sitemap.xml
