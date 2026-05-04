@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What are 'skills' in the context of agent harnesses, and how do they work with an LLM?",
+    "answer": "I see skills as basically a prompt with metadata that the LLM can preload into context so it can decide to invoke a skill. I think of them like function calls in code, but looser and more flexible. I can chain and nest them, and if the LLM lacks a required piece of information, it will ask the user."
+  },
+  {
+    "question": "How can you customize or override a generic skill without duplicating it?",
+    "answer": "I wrap the generic skill and override behavior in the wrapper so I don't have to duplicate it. I learned that it's just a prompt, so you can say when you call this other skill, don’t do steps 2 and 3; instead do X."
+  },
+  {
+    "question": "What are you focusing on regarding orchestration and tooling like Microsoft Agent Framework?",
+    "answer": "I am exploring Microsoft Agent Framework as the successor to semantic kernel for agent orchestration. I want to convert my skills from Copilot CLI into Microsoft Agent Framework so I can run code and orchestrate across multiple agents. I think the goal is to coordinate tool calls across agents and build orchestrations inside code rather than relying only on the chat context."
+  }
+]

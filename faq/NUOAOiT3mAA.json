@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How have my AI tooling costs and rate limits affected my workflow recently?",
+    "answer": "I've moved away from Claude Pro Max (200 bucks a month) because I wasn't using it. I've gravitated to Copilot CLI as my main development tool, but I'm hitting rate limits and my spending is higher than I expected. I’m not sure what’s going on and I’m considering whether to dial up the Copilot budget or re-evaluate Claude."
+  },
+  {
+    "question": "How am I approaching targeted instruction files and context-sensitive instructions for Copilot/Claude?",
+    "answer": "I’m experimenting with targeted instruction files for Copilot CLI, trying to put more specific guidance in dedicated spots instead of a single big agents MD file. I see a tradeoff: loading lots of context can pollute the agent's understanding, and I'm still figuring out how ordering and precedence work when contexts span folders. I would love context-aware instructions and plugins for dedicated globbed instructions or context-sensitive files to share patterns across repositories."
+  },
+  {
+    "question": "What is my view on distributing and sharing MCP servers and the need for a paved path for secure, compliant deployment?",
+    "answer": "I’m looking at how we distribute and share MCP servers for skills and agent prompts, and there’s no paved path yet for distributing or deploying them in a compliant, secure way. It's easy to configure an MCP server if you already have one, but there's no standard way to share or deploy across teams; we need a simple, compliant workflow to do that. I think we need a plug-in marketplace or common surface to sync and distribute these configurations so people don’t have to reinvent the wheel."
+  }
+]

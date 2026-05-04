@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How do you provide context back to the person assigning a new task to manage context switching?",
+    "answer": "I've found that providing context back to the person assigning the new task is one of the most helpful approaches. I remind them what we're already working on and what we agreed were the top priorities, and I ask whether the new task is truly more important than those. If we can, we realign on which work takes precedence."
+  },
+  {
+    "question": "What strategy do you use to limit work in progress and shelter your team from interruptions?",
+    "answer": "I try to shelter team members from context switches as much as possible and prefer keeping work in progress limited. In practice, junior engineers might handle one or two active items, while more senior engineers can handle three or four, as long as priorities are clear. We also watch for blockers so work doesn't stall for long."
+  },
+  {
+    "question": "How do you handle urgent interruptions like security or live service issues and clarify priorities with stakeholders?",
+    "answer": "When urgent issues like security or live-service incidents come up, I work to shelter the team by stepping in myself whenever possible. There are times when that's not realistic and I have to pull someone in. In those cases, we have conversations with stakeholders to clarify severity and criticality, and we ask clarifying questions to decide whether it's a must-fix now or a feature request."
+  }
+]

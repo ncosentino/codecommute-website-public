@@ -1,0 +1,14 @@
+[
+  {
+    "question": "When do you feel most creative and energized, and has that timing changed over time?",
+    "answer": "I've found that creativity and mental energy peak in the evening for me. I'm a night owl, and historically between 10:00 and 11:00 at night something turns on and I feel creative and want to work on hard problems. I would then eventually fall asleep by continuing to think about those hard problems, which could keep me up around 2:00 a.m. I've been slowly trying to shift to being a morning person for scheduling with my wife and CrossFit, waking up around 5:30 a.m., but it's been a long process."
+  },
+  {
+    "question": "How do you manage energy on days with lots of people interactions and meetings?",
+    "answer": "I find people time is mentally taxing as an introvert, so I schedule one-on-ones and meetings on particular days and in bulk. I do this because it is mentally and emotionally taxing to have interactions spread across every day. On those days I feel exhausted at the end of work and I sometimes need a quick nap to reset my brain."
+  },
+  {
+    "question": "What has your experience been with using AI tools to manage complex workflows, and what challenges have you encountered?",
+    "answer": "I've been experimenting with having the model first write a skill that explains the orchestration I want it to use, so it outputs a workflow before it runs. That helps me catch if it's about to do something stupid and makes it easier to verify the plan and keep it aligned with the context. I still run into cases where the model produces results that don't match the steps or can't explain its reasoning, which is frustrating."
+  }
+]

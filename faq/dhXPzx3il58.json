@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How do you use Copilot CLI with Google Page Insights to optimize your Blazor blog, and what have you learned?",
+    "answer": "I use an MCP server for Google Page Insights, let Copilot process the data, and then I validate the recommendations before applying fixes. I find it helpful for performance feedback, but sometimes it seems like it's guessing because it can't always tell what's causing latency or layout shifts. I also test on my phone to compare, and I notice the real-world speeds can feel instant even when Page Insights reports slow."
+  },
+  {
+    "question": "How did you manage changing the publish date to preserve permalinks for your Blazor blog?",
+    "answer": "I made the scary decision to track a different publish date so that I wouldn't accidentally break the permalinks. I needed Copilot to prove to me that it wasn't going to break literally every page, so I migrated all my data and tested the changes locally using a test schema. Copilot wrote the migrations with tests and even did TDD around it to cover edges."
+  },
+  {
+    "question": "Why did you convert your Blazor site to server-side rendering and what role did Copilot play?",
+    "answer": "I decided that 99% of my blog content doesn't need SignalR interactivity, so I converted to Blazor server-side rendering. I worked with Copilot to perform the conversion, pushed it live, and fixed a few small bugs along the way. I even discovered I lost my Google Analytics tag during the process, which tests didn't catch."
+  }
+]

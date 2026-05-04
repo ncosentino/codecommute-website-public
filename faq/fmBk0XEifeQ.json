@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How do you approach quantifying manager skills?",
+    "answer": "I think quantifying manager skills is challenging. I would start by saying there’s a lot of variance in what is expected of a manager. I then break that into qualitative parts and think about how to measure those areas, keeping in mind that expectations vary by company and experience."
+  },
+  {
+    "question": "What areas do you consider when evaluating an engineering manager?",
+    "answer": "I consider several focus areas for an engineering manager, starting with technical ability. I also look at project management—prioritization, roadblocks, dependencies, and whether we have the right skills and staffing. I place a lot of emphasis on people management—helping people grow, balancing levels across the team, and keeping them engaged and supported."
+  },
+  {
+    "question": "Can you quantify manager effectiveness with numeric targets or tools?",
+    "answer": "I don’t think there is a tool or system that exists categorically across all manager aspects that would give you a good numeric value. I think you could come up with some type of assessment, but it’s not perfectly quantitative and will look different depending on seniority, team composition, and lifecycle. I think it will look different depending on the seniority of a manager, the team composition, and the lifecycle of the product or service."
+  }
+]

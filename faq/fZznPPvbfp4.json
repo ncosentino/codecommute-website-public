@@ -1,0 +1,14 @@
+[
+  {
+    "question": "Why has Copilot CLI become your tool of choice over Claude?",
+    "answer": "I found Claude never got me to truly be glued to it. I can see Copilot CLI doing that right now. I think it could be timing or that a CLI tool finally matches my productivity perspective."
+  },
+  {
+    "question": "How are you thinking about organizing skills and prompts across multiple repositories?",
+    "answer": "I’m thinking about formalizing the best practices and expectations for skills, MCP servers, and agents MD files. I suspect I’m not the only one who works in multiple repositories and completely different projects, and I want guiding principles that stay the same. I also think a plugin or marketplace system in VS Code is moving in the right direction, even though it still feels a bit clunky."
+  },
+  {
+    "question": "What guard rails have you added to your AI-assisted workflow to handle issues like serialization and DI patterns?",
+    "answer": "I added a Roslin analyzer in place to stop problematic serialization patterns and enforce correct constructors. I also enforced that we should always use an IReadOnlyCollection for certain dependency injection scenarios so the AI doesn't wander into invalid patterns. I’m hoping these guard rails will help me monitor what it’s doing and allow iterative improvements."
+  }
+]

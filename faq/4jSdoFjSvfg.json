@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How do you view AI affecting tech debt—could it make tech debt go away or make it worse?",
+    "answer": "I think there are parts to both sides and the truth is somewhere between them. I also think it will depend on how things are executed, the type of software you're building, and how the tools and models evolve over time."
+  },
+  {
+    "question": "What are the two forms of tech debt described in the talk?",
+    "answer": "I describe two forms of tech debt: conscious tech debt, where we ship a feature faster and plan to refactor later, and unintentional tech debt, where drift accumulates over time. I see conscious debt as a deliberate decision and unintentional debt as a result of evolving architectures and added unknowns."
+  },
+  {
+    "question": "What guard rails and testing practices do you use to keep AI-generated code from increasing tech debt?",
+    "answer": "I use guard rails like steering the AI toward a TDD and red-green approach, and I run mutations to test how changes behave. I also rely on multiple layers of tests, including unit tests, integration tests, and prompts that run outside CI/CD, with roughly 1500 tests in the app to gain confidence that a big refactor won’t break everything."
+  }
+]

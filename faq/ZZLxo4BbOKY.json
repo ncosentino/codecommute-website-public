@@ -1,0 +1,14 @@
+[
+  {
+    "question": "Is it good to have strong opinions as a senior developer?",
+    "answer": "I think it's really good that people have opinions, especially when you've lived through things and can back them up with data and examples. I think everyone should have opinions, and it's what you do with that opinion that changes the framing. However, if your strong opinion becomes a roadblock, that can slow progress and harm the team."
+  },
+  {
+    "question": "How should you communicate strong opinions to avoid slowing the team?",
+    "answer": "I think there's absolutely value in communicating these things to the other person because your intention is to be informative and to help. I believe that how you present it and what you do after can dictate the impact—it should raise awareness with context rather than gatekeeping. If you raise awareness and let them decide how to proceed, you can progress rather than stall."
+  },
+  {
+    "question": "What factors influence whether strong opinions help or hurt team progress?",
+    "answer": "I think trust is a big part of whether strong opinions help or hinder. I see how power dynamics and perceived seniority can make junior team members hesitant to push back. I also notice detachment from business context or an obsession with coding patterns can turn strong opinions into blockers."
+  }
+]

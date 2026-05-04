@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How did you adjust your approach to building with Microsoft Agent Framework?",
+    "answer": "I took a more narrow approach by focusing on a single stage of the orchestration rather than trying to implement the entire pipeline at once. I started with the first stage, ensuring I could get it working before expanding. I'm using GPT4.1, which isn't great at producing a lot of text, so I focused on giving it the right tools it could use."
+  },
+  {
+    "question": "Why did your first attempt to translate your existing orchestration fail?",
+    "answer": "I found that translating my orchestration into a Microsoft Agent Framework pipeline produced terrible results, and it even seemed to bypass built-in framework pieces. It would sometimes create its own parallel pipeline instead of using the framework’s orchestration. I hadn't given it enough documentation to pull from and relied on high-level docs, which limited its understanding until I iterated."
+  },
+  {
+    "question": "What tooling did you add to improve editing and reliability in your agent workflow?",
+    "answer": "I added a search-and-replace tool and an edit tool, plus a bulk edit tool so I could apply multiple edits at once. I also used an insert tool so the model could insert or replace text without rewriting the whole artifact. I found that giving it a lot of context about what's wrong and where to fix it, including specific forbidden words, was the biggest factor in improving the results."
+  }
+]

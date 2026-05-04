@@ -10,6 +10,13 @@
 
 ## Episodes
 
+- [Measuring the Unmeasurable: Manager Effectiveness](https://codecommute.com/videos/fmBk0XEifeQ/): A viewer asked about how quantifiable manager skills are. Let's see if we can come up with something for engineering...
+- [Building For Reusability - How I Am Trying To Scale My Development](https://codecommute.com/videos/UX6bTD6csIo/): In this video, I talk about building reusable components across projects that I work on -- AI skills, prompts, and...
+- [The Common Denominator - Challenges Scaling a Testing Team](https://codecommute.com/videos/pQUXauEUONs/): A viewer submitted a question on challenges with staffing their testing team for us to discuss!
+- [AI is Reshaping Developer Careers - Here's What I'm Hearing](https://codecommute.com/videos/8-4cmsRCWVE/): What's the current AI outlook for developers? Fearful? Excited? How are things shifting?
+- [I Went Back to Microsoft Office After Work From Home](https://codecommute.com/videos/FP_xv6BoIgA/): I lost the intro due to audio issues, but here are some thoughts on RTO at Microsoft.
+- [Behind the Scenes: Developing with Microsoft Agent Framework](https://codecommute.com/videos/e-36edn9dG4/): In this video, I'll chat through some of my development with Microsoft Agent Framework (MAF).
+- [Why Good Ideas Still Fail to Get Backing](https://codecommute.com/videos/xiH5UrXiQm8/): This video is a response to a viewer looking for feedback on getting buy-in for a proposal that should help their whole...
 - [Agentic Skill Reuse, LLM Costs, and My Own Development](https://codecommute.com/videos/NUOAOiT3mAA/): In this video, we'll chat through some AI tool usage and things I have been focused on in my own development using AI.
 - [Burnout Isn't Just From Being Too Busy](https://codecommute.com/videos/jece159yr6E/): In this video, we'll chat about burnout and reflect on why it's not just a product of being too busy.
 - [How To Build Side Projects When There Is High Competition](https://codecommute.com/videos/wnACCnN9_KI/): From the comments, Epich Tech Nav asked for some perspective on how to build side projects when there is a lot of...

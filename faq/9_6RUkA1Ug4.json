@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How do you describe leading by example when encouraging AI adoption in a team?",
+    "answer": "I think leading by example can help build trust and respect, and it doesn’t have to be about always coding in front of the team. I also believe you can demonstrate it by taking actions like reaching out for help and showing that it’s okay to ask questions. I believe that actions speak louder than words, and leading by example can be helpful, though it’s not necessarily 100% required."
+  },
+  {
+    "question": "What are the risks of a manager who is not actively contributing when trying to lead by example with AI?",
+    "answer": "I think if a manager is not actively contributing to the codebase and tries to lead by example by doing a feature, it can backfire. I believe it can create more work for the team because AI-generated code may be hard to understand and will require reviews. I would describe that as a tax on the team rather than a clean contribution."
+  },
+  {
+    "question": "When is it beneficial for a manager to contribute or use AI in code-related tasks?",
+    "answer": "I think it can be great to lean into AI and show you could work on one of the next features or a bug when you’re already hands-on. I think for smaller teams or early-stage companies, where you have a couple direct reports, it probably makes sense for you to be contributing as well. I think it doesn't have to be the manager; it could be a senior engineer or someone else on the team who is hands-on."
+  }
+]

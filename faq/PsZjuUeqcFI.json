@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How do you handle switching between Copilot CLI and Claude Code when you hit API rate limits?",
+    "answer": "I switched back to Claude because Copilot CLI started hitting rate limits and API errors nonstop, even though my budget said I had plenty left. I tried to balance between Claude and Copilot CLI rather than derail my work to switch completely. I don’t think Claude is clearly better in my experience, and both interfaces are quite similar, but the outages pushed me back to Claude."
+  },
+  {
+    "question": "What issues did you experience with Claude regarding instruction files and guidance?",
+    "answer": "I felt like Claude was back in stupid mode, and the guidance from my agents MD files and pre-commit hooks that I relied on with Copilot vanished. I found that it would write code but not write the tests, wouldn’t commit correctly, and sometimes the tests didn’t compile. I wasn’t sure if migrating to an agent MD file was the issue, so I had to check whether I had migrated correctly."
+  },
+  {
+    "question": "What did you learn about building orchestration with Needler and Microsoft Agent Framework?",
+    "answer": "I learned I needed to do analytics on the orchestration and to build reusable components instead of vibing through it. I checked the Microsoft documentation and realized they had already built a lot of that tooling, which made me rethink my approach. I wasted a ton of time and will go back to the drawing board, using the documented middleware and Needler in a more structured way."
+  }
+]
