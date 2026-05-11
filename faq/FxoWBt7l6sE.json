@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How do you approach building reusable templates and instruction files for AI-assisted development?",
+    "answer": "I started building out templates for different types of projects and a common spot for my instruction files. I want it to be basically one click to have everything set up, not starting from scratch each time. I also use file-path-based instructions so the LLM loads context only for the files I'm going to touch."
+  },
+  {
+    "question": "How do you coordinate a fleet of agents to fix templates across multiple projects?",
+    "answer": "I used a fleet of agents to tackle multiple templates at once. I told Copilot to use a fleet of agents and repeat the process for the other templates, then synthesize the results so I could understand what's broken. The fleet helps identify common issues across templates and validate fixes by running tests and re-checking results."
+  },
+  {
+    "question": "How do you create specialized agents for game mechanics and ensure they rely on external sources?",
+    "answer": "I created specialized agents for Diablo, Path of Exile, Last Epoch, and Grim Dawn and asked them to focus on game mechanics rather than story. I told them not to trust or rely on their training data and to perform web searches. I then used a fleet to have those agents discuss the problem and converge on a recommended approach."
+  }
+]

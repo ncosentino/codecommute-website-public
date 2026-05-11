@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How do you define a platform and its role in supporting live services?",
+    "answer": "I frame a platform as a shared offering that is provided to services so that they don't have to duplicate the effort. Platforms are also live services themselves, but they're infrastructure for the live services. The side effect is that if there's an issue with the platform it can have sweeping impact across all of the services that depend on that platform."
+  },
+  {
+    "question": "What are the challenges of prioritizing work when supporting a platform with many dependent services?",
+    "answer": "I find it's very challenging to optimize effectiveness with support because there is an unbounded amount of work and things to focus on. It can be hard to scale when there are many teams involved, so I have to shield my team from random fires and avoid constant firefighting. So I prioritize by classes of issues and look for scalable improvements to unblock partners."
+  },
+  {
+    "question": "What improvements or tooling could help platform teams reduce support load and empower partners?",
+    "answer": "I think better documentation and agentic tooling around that would dramatically help. I also see potential in incremental AI support rather than trying to automatically resolve everything right away, so we can build a paved path and improve upfront information before bringing in smarter automation."
+  }
+]
