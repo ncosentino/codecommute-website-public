@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How can I use time boxing and calendar blocking to reduce context switching?",
+    "answer": "I would turn off notifications and block off time for focused work (for example, two hours) so I can concentrate on a single task. I would block that time in my calendar so I'm busy and can decide to reschedule if needed. I would also build in breaks between blocks to avoid burnout and to help manage interruptions."
+  },
+  {
+    "question": "What strategy do you use to minimize context switching when code reviews or design docs are waiting for feedback?",
+    "answer": "I go to a team chat and ping the team when I need a pull request reviewed or design docs looked at. I tag a couple of subject matter experts to surface it so someone can check it out when they have a moment. I find this approach helps surface reviews so they can be addressed when people have a moment to look at them."
+  },
+  {
+    "question": "How should you involve your manager when context switching becomes overwhelming?",
+    "answer": "I would bring it up in a one-on-one and describe that I'm having challenges staying on top of multiple priorities due to constant context switching. I want to be effective and I'm looking for guidance or extra support. I emphasize that asking for help isn't a weakness and that bringing visibility to the issue can prevent bigger problems."
+  }
+]

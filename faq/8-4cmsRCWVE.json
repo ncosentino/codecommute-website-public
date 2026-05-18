@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How is the fear of being replaced by AI shifting toward being left behind, according to your observations?",
+    "answer": "I’ve been hearing a fear around being replaced by AI, and I think that narrative is shifting toward being left behind. I’m seeing two shapes of this: people worrying that peers using tools like Claude or Copilot are moving faster, and people who aren’t building AI-enabled products at all. I’m noticing this mostly in social media and conversations outside my direct team."
+  },
+  {
+    "question": "What approach do you take as an engineering manager to help developers who feel left behind by AI?",
+    "answer": "I’ve been leaning into education and hands-on support as an engineering manager to help people who feel left behind. I can spend time in one-on-one or small group sessions to help with tooling, and I’ll look for other ways to share knowledge beyond demos. I want to understand each person's challenges and tailor approaches, including group sessions or peer help, to scale access."
+  },
+  {
+    "question": "How do you view using AI in developer workflows versus integrating AI into products or services?",
+    "answer": "I see two separate angles: using AI in my own developer workflow versus integrating AI into the product or service we build. I know there are cases where slamming AI into the hot path makes no sense due to performance, so I look for AI-enabled analysis or peripheral integrations instead. I want to advocate for AI integration where feasible, even if it isn’t part of the immediate road map, and encourage teams to speak up."
+  }
+]

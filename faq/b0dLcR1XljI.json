@@ -1,0 +1,14 @@
+[
+  {
+    "question": "Is there ROI on learning C?",
+    "answer": "Yes. The ROI on learning C has nothing to do with C itself. It's about developing a deeper understanding of patterns, practices, and how things work that you can apply across languages. I think there's value in foundations rather than memorizing language-specific minutiae."
+  },
+  {
+    "question": "How should you weigh knowledge of fundamentals versus language-specific minutiae for ROI?",
+    "answer": "I believe understanding programming languages will continue to have a benefit. But the ROI of deep, hyperspecific language knowledge can be lower than understanding the general principles behind how software works. If someone is valued for language minutiae, I want to see that they understand the underlying principles and can apply them when switching languages."
+  },
+  {
+    "question": "What are your thoughts on AI's impact on ROI and when is AI helpful versus needing knowledge?",
+    "answer": "AI tools can let you build things without knowing a language, like building an HTTP server in Rust without prior knowledge. But having a foundational understanding helps you ask the right questions and troubleshoot when you get stuck. I did not have to know Go to get that build, though if I ran into Go-specific issues I think knowing Go would help, and as AI improves, understanding fundamentals will stay valuable."
+  }
+]

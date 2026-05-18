@@ -10,6 +10,11 @@
 
 ## Episodes
 
+- [Gen X vs Millenials vs Gen Z Developers](https://codecommute.com/videos/Yl7MsC0pJoI/): From the comments, this viewer was offering some perspective on managing different generations of engineers.
+- [AI Tooling Doesn't Mean You Skip The Engineering](https://codecommute.com/videos/AnWL4Rc7nNQ/): From the comments this time, this viewer wanted some perspective on whether software engineering is even worth it...
+- [The Bane of Developers - Context Switching!](https://codecommute.com/videos/l_l1O9vYGQc/): From the ExperiencedDevs subreddit, this developer wanted help with context switching.
+- [This Is Why Developers Leave Good Companies](https://codecommute.com/videos/aHRNKVgjIE0/): From the ExperiencedDevs subreddit, this topic is about dealing with crappy managers! Let's dive in!
+- [Is AI Actually Making Your Teams More Productive?](https://codecommute.com/videos/VmWRDA5yhjI/): How do we measure productivity due to AI? Let's discuss some different angles.
 - [Build It Once Or Build It Nonce! Then Have Agents Do It.](https://codecommute.com/videos/FxoWBt7l6sE/): In this video, I discuss an approach I am trying to make reusable building blocks for my agentic scaffolding.
 - [Your Start Time Doesn't Define Your Work Ethic (Or Does It?)](https://codecommute.com/videos/83gXcbdUcns/): From the ExperiencedDevs subreddit, this developer wanted perspectives on the perception of managers/leadership on...
 - [The Boundary Problem Every Developer Faces](https://codecommute.com/videos/EXmkwXcqdnE/): From the ExperiencedDevs subreddit, this developer wanted perspectives on dealing with partner teams constantly asking...
