@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How do you handle non-determinism when building repeatable agentic workflows?",
+    "answer": "I find that LLMs are non-deterministic, and when I'm building repeatable software, a small prompt change can cause cascading failures. I rely on evals, including programmatic evals and LLM-based assertions, to test and score the outputs. This helps me understand and manage the brittleness as I iterate."
+  },
+  {
+    "question": "What challenges do you face when migrating from harness-based workflows to programmatic code?",
+    "answer": "I've been trying to migrate from relying on a harness like Copilot CLI or Claude Code to something more programmatic, and it's night and day. The harnesses are incredibly capable, and the libraries I'm using don't replicate that capability well, so I end up tuning a lot. I've been at it for over a month outside of work with little progress, and I feel like I'm losing my mind."
+  },
+  {
+    "question": "How have diagnostics and tooling patterns helped you manage agentic flows?",
+    "answer": "I've found that having full diagnostics in my LLM flows is critical. I've started decorating all of my tools with a single decorator to enforce the same standards across tools, which makes adding new tools easier. This approach reduces duplication and helps ensure consistency, so when I add a new tool I don't have to remember to apply the file size check."
+  }
+]

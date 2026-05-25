@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How do you think about measuring developer productivity?",
+    "answer": "I think measuring developer productivity is a difficult problem and not universally solved. I point out obvious bad metrics like lines of code or bugs closed, because they can be gamed. I believe it's more realistic to measure on a per-team basis by throughput of value-delivering work (like user stories), and that an increase in throughput would indicate higher productivity."
+  },
+  {
+    "question": "What does an AI productivity unlock look like in practice?",
+    "answer": "I see AI unlocks in three groups: those who haven't experienced one yet, those with some unlocks, and those who have many. An unlock can be something small like helping with a document or analyzing data, not necessarily writing huge code; it can just make a task far more efficient."
+  },
+  {
+    "question": "How should incentive structures be designed to avoid undermining teamwork when using AI?",
+    "answer": "I think incentivizing individuals rather than teams leads to misalignment and doesn't deliver customer value. When leadership pushes for 'look at my AI results' the focus shifts to vanity metrics and individuals chasing personal glory instead of the team's goals. I would rather see teams aligned on shared objectives, using OKRs to push for higher outcomes and avoiding a star-player mentality."
+  }
+]

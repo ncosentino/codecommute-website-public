@@ -1,0 +1,14 @@
+[
+  {
+    "question": "Will AI replace software engineers or make the industry disappear?",
+    "answer": "I don't think the industry is cooked and it's never going to disappear. There will always be more hard, interesting problems to solve, even as AI helps us move through them faster. AI is a tool that can help with architecture, debugging, and design, but you are not forced to use it in every situation or give up thinking creatively. There will still be problems AI struggles with, so human engineering remains essential."
+  },
+  {
+    "question": "What should aspiring engineers do to prepare for the software industry?",
+    "answer": "I recommend continuing to focus on fundamentals and exploring different areas before you work full-time. Be curious, learn how things work, and practice solving hard problems by weighing pros and cons. I personally had six internships during university and tried embedded software, startups, medical work, banking, and mobile apps to discover what I liked."
+  },
+  {
+    "question": "What is the role of AI in engineering work, and how should you use it?",
+    "answer": "I believe AI can help me with debugging, architecture, and design, but it doesn't mean I must always prompt it or stop thinking creatively. It's another tool—multi-purpose and powerful—that I use, and I expect to chat with AI and teammates as part of the workflow. I still have to solve hard problems, and I won't rely on AI for everything. There will always be hard problems left for engineers like me to solve."
+  }
+]

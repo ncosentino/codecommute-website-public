@@ -1,0 +1,14 @@
+[
+  {
+    "question": "Why don't code coverage gates reliably incentivize developers to write tests?",
+    "answer": "I like the idea of code coverage as a metric, and it can go up over time until you hit a minimum, but in practice gating on it doesn't add value. I see it forcing people to fight the system to meet a number, and you end up adding tests just to check the box instead of testing what matters. There are inconsistencies between local reports and the CI results, which makes it frustrating. So the threshold approach often feels more like a pain than a true incentive."
+  },
+  {
+    "question": "How do you get buy-in for writing tests without enforcing them with gates?",
+    "answer": "I try to listen to the pain points people have with testing—what's frustrating, what adds friction—and tailor my argument to address those concerns. I look for practical signals of value, like after a post-incident review to show how tests could have helped, or starting small and proving value with one other person."
+  },
+  {
+    "question": "What approach do you use to show the long-term value of tests and build momentum?",
+    "answer": "I try to frame it around reducing long-term risk and debt by showing that tests give earlier signals and help catch regressions earlier through shifting left. I use post-incident reviews to illustrate what could have been caught by tests and to motivate value. I start small, build momentum by co-writing tests with one other person, and aim for a codebase where anyone can touch code without breaking it."
+  }
+]
