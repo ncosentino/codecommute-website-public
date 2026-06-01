@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How do you manage standups and syncing across teams in different time zones?",
+    "answer": "I don't run daily standups for cross-time-zone teams; we do a weekly standup instead and rely on chat and email between meetings. The frequency is a big part of the challenge, and we sometimes shift the time to accommodate daylight savings so it's not crappy for anyone. We balance asynchronous updates with a focused live meeting to discuss anything that needs dialogue."
+  },
+  {
+    "question": "What strategies do you use to reduce wasted meeting time and make meetings more effective?",
+    "answer": "I've started leaning into async updates throughout the week and making sure we have a good snapshot for the sync. In the live meeting, we skip long status updates and focus on things that truly need dialogue. If something can be done asynchronously, we use email or chat instead of pulling everyone together. I don't like prescribing how things should run; I want the team to drive changes and I support them."
+  },
+  {
+    "question": "How do you handle unclear meeting goals or attendees who question whether they need to be there?",
+    "answer": "I try to get clarification by asking what the goal of the meeting is and why my involvement is needed. I might mention that I don’t know what we’re trying to accomplish or whether I need to be there. If after clarifying it’s not necessary for me to attend, I skip it."
+  }
+]

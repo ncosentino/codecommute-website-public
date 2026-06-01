@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How do you balance process and agility when deploying changes across a large surface area?",
+    "answer": "I think you have to strike a balance between having some processes and agility. If you have no processes in place things can get chaotic, but if everything is overprocessed it creates friction and slows you down. There will always be exceptions to rules, and you need escape hatches so teams can make the right decisions in the right situations."
+  },
+  {
+    "question": "What role do guard rails and flighting play in safe changes?",
+    "answer": "I think deployment in large platforms uses guard rails and a defined cadence. We have a deployment cadence that slows you down by default, and going faster is an exceptional case because there are risks with changing a large surface area. We also use flighting to gate changes, and I believe these guard rails exist to protect the service and the code."
+  },
+  {
+    "question": "Can you give examples of situations where strong rules should be enforced vs. exceptions?",
+    "answer": "I think in most cases you want to enforce the rules, but there should be exceptions. For example, automation that scans for secrets should be high friction most of the time, though I can imagine rare cases where you need to allow an exception. I also hear debates about flaky tests in CI/CD—some teams evict flaky tests, others argue for escape hatches. There are also lower-tier guidelines that are recommended but not enforced."
+  }
+]

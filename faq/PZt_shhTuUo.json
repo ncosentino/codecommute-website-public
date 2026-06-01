@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How can I improve my ability to be heard when my ideas are routinely ignored?",
+    "answer": "I think it's not that this person has bad ideas, it's that they're not doing a helpful job like selling those ideas or pitching them to people on the team. I suggest being genuinely curious and engaging with others' rationale rather than shutting down ideas. I believe you can often find a middle ground that delivers value when you understand where someone is coming from."
+  },
+  {
+    "question": "What approach should I take instead of shutting down others' ideas?",
+    "answer": "I encourage being genuinely curious and asking why rather than saying 'that's a waste of time.' I explain that understanding the other side's rationale can reveal data or considerations you didn't have. I think the goal is to deliver more value to customers, not simply to win an argument."
+  },
+  {
+    "question": "How can teams balance different goals like time-saving and flexibility when designing features?",
+    "answer": "I suggest trying to align with the team charter and values while looking for a middle ground. I describe a concrete example from the transcript: shipping with the main file format but designing for extensibility with a data access layer so we can add JSON later. I recognize that the right solution may vary by situation, so listening to both sides can help you reach a compromise."
+  }
+]
