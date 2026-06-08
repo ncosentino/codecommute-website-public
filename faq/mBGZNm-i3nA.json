@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What does the speaker say about the primary motivations behind engineers becoming the single point of failure?",
+    "answer": "I don't think malicious intent is the primary motivator. I think the speaker identifies time pressures and personal priorities (like promotions) as two big factors. I note that under time pressure, people rush and cut corners, which can create single points of failure. I also point out that personal priorities can drive people to focus on delivering for themselves rather than for the team."
+  },
+  {
+    "question": "What practices does the speaker describe to avoid a single point of failure in a system?",
+    "answer": "I describe several things that can help: documentation that explains how to work with the system, monitors and alerting with instructions for what to diagnose when they fire, and a self-healing or redundant setup so instances recover automatically. I also talk about code being accessible, readable, and highly tested so others can make changes without depending on one 'wizard' like Jim. I note that it's not trivial and there can be gaps, but these practices help ensure the codebase doesn't break the team when someone is unavailable."
+  },
+  {
+    "question": "How does the speaker describe organizational culture and motivation as factors in this issue?",
+    "answer": "I discuss that time pressure and personal motivation around promotions are two big factors. I point out that in some organizations promotions and rewards are tied to what you deliver rather than how you help the team, which can lead to a focus on self rather than collective impact. I also say that this isn't malicious, but it can result in a 'check the box, move on' mindset that hampers building systems that the whole team can own."
+  }
+]

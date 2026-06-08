@@ -1,0 +1,14 @@
+[
+  {
+    "question": "Why do you prefer embedded QA over a separate QA team?",
+    "answer": "I don't love the idea of QA being separate from a development team. I think that if you have a dedicated QA role it can lead others to punt responsibility for quality. I believe everyone contributing to the product is responsible for quality and should be embedded rather than isolated."
+  },
+  {
+    "question": "What is the adversarial dynamic you want testers to avoid, and how should quality be measured?",
+    "answer": "The goal of testers and QA is to help ensure quality, not just to find bugs. If the metric becomes the number of bugs found, people will game the system and treat it as adversarial. I believe value comes from preventing defects and collaborating to fix them, not simply tallying bugs."
+  },
+  {
+    "question": "How can testers collaborate with engineers to improve test coverage from the start of a feature?",
+    "answer": "From my experience, the best results come when testers are embedded in the team from the start and participate in design discussions. I encourage talking with the tester or QA as you begin a feature to bake in quality early, so it’s not an afterthought. If they don’t understand the coverage, they should assume nothing is covered and we walk them through the code changes and test coverage together."
+  }
+]

@@ -10,6 +10,10 @@
 
 ## Episodes
 
+- [What Makes A Good Tester Within A Development Team?](https://codecommute.com/videos/3encbkLhTyw/): From the comments, this viewer wanted to know about what makes a good tester within a development team.
+- [Making Myself Obsolete By Vibe Coding Ralph Loops For Agents](https://codecommute.com/videos/LeUp2M7IkCI/): AI hasn't replaces us yet, so here's a few steps I am taking to make myself obsolete.
+- [The Management Trap in Software Engineering](https://codecommute.com/videos/rPx83FVUerI/): From the ExperiencedDevs subreddit, this engineering manager said they're missing a lot of the joy they used to have as... [Spotify](https://podcasters.spotify.com/pod/show/codecommutevlog/episodes/Estimating-Projects-In-Software-Engineering-e34jb0m)
+- [The Risk of Becoming the Single Point of Failure of Your Codebase](https://codecommute.com/videos/mBGZNm-i3nA/): From the ExperiencedDevs subreddit, let's look at systems where you are the single point of failure.
 - [ADHD, Anxiety, and Depression in Software Engineering](https://codecommute.com/videos/Hx2B3FpGUl8/): From the ExperiencedDevs subreddit, this conversation is all about things that might be under the surface for many...
 - [How To Safely Make Changes In Large Distributed Systems](https://codecommute.com/videos/mjBKI8WlE48/): Distributed systems are hard. Making changes in distributed systems is even harder.
 - [The Right and Wrong Ways to Have Hackathons for Devs](https://codecommute.com/videos/cK8lVIdt57k/): Let's talk about hackathons for software engineers! Is there a right and a wrong way?
