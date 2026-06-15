@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What factors influence prioritization when developers want to focus on tech debt?",
+    "answer": "I see two big factors that influence prioritization: pressure to constantly deliver more, often with fewer people, and detachment from specific areas of the code. Because those making prioritization decisions are further from code, they may not inherently understand how particular areas of the code impact our ability to navigate changes. As a manager, I try to absorb a lot of that pressure and provide some shelter to the team."
+  },
+  {
+    "question": "How should you frame tech debt to prioritizers to gain buy-in?",
+    "answer": "I frame it in terms of shipping velocity and future work, not just code quality. I explain that if we don't fix the code in this area, bugs keep showing up and slow us down, but if we address it now, future features can be delivered more effectively. I point out that slowing down now can enable us to deliver other features faster later."
+  },
+  {
+    "question": "What reality about completing work should engineers accept when prioritizing?",
+    "answer": "I have to accept that there will be situations where things don't get done because there is an infinite amount of work and only finite resources. There is an infinite amount of work that has to get done and it's literally impossible to do all of it. I believe that some stuff we've planned may never get done, and that may be okay."
+  }
+]

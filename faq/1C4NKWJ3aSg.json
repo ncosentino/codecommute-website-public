@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How do you enforce boundaries between plugins to avoid cross-dependencies?",
+    "answer": "I like having plugins to give some forced separation. I make sure my plugins don't depend on each other; a feature plugin shouldn't reference another plugin. If someone tries to create such a dependency, I can catch that early with tests and prevent it during development."
+  },
+  {
+    "question": "Why do you keep a very thin entry point in your applications?",
+    "answer": "I keep the entry point extremely thin so I can swap it out and reuse the same code behind it. For example, I started with a console/terminal entry point, then swapped to an MCP server to host an LLM harness, keeping almost all of the code unchanged."
+  },
+  {
+    "question": "What pattern do you use to manage heavy dependencies in plugin features?",
+    "answer": "I use an adapter pattern with inversion of control. If a feature depends on a heavy dependency, I provide an adapter project that brings in the real implementation; otherwise I ship a default/no-op adapter. This lets you opt into the heavy dependency only when needed and keeps the rest of the system lightweight."
+  }
+]
