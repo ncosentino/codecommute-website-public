@@ -2,6 +2,241 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
     <url>
+        <loc>https://codecommute.com/videos/yFaT4HqSVZ0</loc>
+        <video:video>
+            <video:thumbnail_loc>https://i.ytimg.com/vi/yFaT4HqSVZ0/maxresdefault.jpg</video:thumbnail_loc>
+            <video:title>Build vs Buy vs Adopt - What Should Software Engineers Do?</video:title>
+            <video:description>From the ExperiencedDevs subreddit, this developer wanted perspective on how to make the build vs buy decision.</video:description>
+            <video:player_loc>https://www.youtube.com/embed/yFaT4HqSVZ0</video:player_loc>
+            <video:duration>2733</video:duration>
+            <video:view_count>46</video:view_count>
+            <video:publication_date>2026-06-19T19:00:22Z</video:publication_date>
+            <video:family_friendly>yes</video:family_friendly>
+            <video:live>no</video:live>
+            <video:tag>vlog</video:tag>
+            <video:tag>vlogger</video:tag>
+            <video:tag>vlogging</video:tag>
+            <video:tag>mercedes</video:tag>
+            <video:tag>mercedes AMG</video:tag>
+            <video:tag>Mercedes AMG GT</video:tag>
+            <video:tag>AMG GT</video:tag>
+            <video:tag>big tech</video:tag>
+            <video:tag>software engineering</video:tag>
+            <video:tag>software engineer</video:tag>
+            <video:tag>car vlog</video:tag>
+            <video:tag>vlogs</video:tag>
+            <video:tag>software development</video:tag>
+            <video:tag>software engineers</video:tag>
+            <video:tag>microsoft</video:tag>
+            <video:tag>programming</video:tag>
+            <video:tag>tips for developers</video:tag>
+            <video:tag>career in tech</video:tag>
+            <video:tag>faang</video:tag>
+            <video:tag>work vlog</video:tag>
+            <video:tag>devleader</video:tag>
+            <video:tag>dev leader</video:tag>
+            <video:tag>nick cosentino</video:tag>
+            <video:tag>engineering manager</video:tag>
+            <video:tag>leadership</video:tag>
+            <video:tag>msft</video:tag>
+            <video:tag>software developer</video:tag>
+            <video:tag>code commute</video:tag>
+            <video:tag>codecommute</video:tag>
+            <video:tag>commute</video:tag>
+            <video:tag>reddit</video:tag>
+            <video:tag>reddit stories</video:tag>
+            <video:uploader info="https://codecommute.com/">Code Commute</video:uploader>
+        </video:video>
+    </url>
+    <url>
+        <loc>https://codecommute.com/videos/L6TkFWr4t0g</loc>
+        <video:video>
+            <video:thumbnail_loc>https://i.ytimg.com/vi/L6TkFWr4t0g/maxresdefault.jpg</video:thumbnail_loc>
+            <video:title>My Agent Orchestration Is Finally One-Shotting From One-Liners</video:title>
+            <video:description>In this video, I touch on the first milestone where my agent orchestration is finally getting from simple prompt to built app in one shot.</video:description>
+            <video:player_loc>https://www.youtube.com/embed/L6TkFWr4t0g</video:player_loc>
+            <video:duration>1859</video:duration>
+            <video:view_count>69</video:view_count>
+            <video:publication_date>2026-06-19T15:31:13Z</video:publication_date>
+            <video:family_friendly>yes</video:family_friendly>
+            <video:live>no</video:live>
+            <video:tag>vlog</video:tag>
+            <video:tag>vlogger</video:tag>
+            <video:tag>vlogging</video:tag>
+            <video:tag>mercedes</video:tag>
+            <video:tag>mercedes AMG</video:tag>
+            <video:tag>Mercedes AMG GT</video:tag>
+            <video:tag>AMG GT</video:tag>
+            <video:tag>big tech</video:tag>
+            <video:tag>software engineering</video:tag>
+            <video:tag>software engineer</video:tag>
+            <video:tag>car vlog</video:tag>
+            <video:tag>vlogs</video:tag>
+            <video:tag>software development</video:tag>
+            <video:tag>software engineers</video:tag>
+            <video:tag>microsoft</video:tag>
+            <video:tag>programming</video:tag>
+            <video:tag>tips for developers</video:tag>
+            <video:tag>career in tech</video:tag>
+            <video:tag>faang</video:tag>
+            <video:tag>work vlog</video:tag>
+            <video:tag>devleader</video:tag>
+            <video:tag>dev leader</video:tag>
+            <video:tag>nick cosentino</video:tag>
+            <video:tag>engineering manager</video:tag>
+            <video:tag>leadership</video:tag>
+            <video:tag>msft</video:tag>
+            <video:tag>software developer</video:tag>
+            <video:tag>code commute</video:tag>
+            <video:tag>codecommute</video:tag>
+            <video:tag>commute</video:tag>
+            <video:tag>reddit</video:tag>
+            <video:tag>reddit stories</video:tag>
+            <video:uploader info="https://codecommute.com/">Code Commute</video:uploader>
+        </video:video>
+    </url>
+    <url>
+        <loc>https://codecommute.com/videos/ofureG6lIOw</loc>
+        <video:video>
+            <video:thumbnail_loc>https://i.ytimg.com/vi/ofureG6lIOw/maxresdefault.jpg</video:thumbnail_loc>
+            <video:title>How Do Software Engineers Have ANY IDEA What&#x27;s Going On?!</video:title>
+            <video:description>From the ExperiencedDevs subreddit, this developer wanted to understand how other developers navigate unknowns.</video:description>
+            <video:player_loc>https://www.youtube.com/embed/ofureG6lIOw</video:player_loc>
+            <video:duration>1343</video:duration>
+            <video:view_count>290</video:view_count>
+            <video:publication_date>2026-06-17T22:58:08Z</video:publication_date>
+            <video:family_friendly>yes</video:family_friendly>
+            <video:live>no</video:live>
+            <video:tag>vlog</video:tag>
+            <video:tag>vlogger</video:tag>
+            <video:tag>vlogging</video:tag>
+            <video:tag>mercedes</video:tag>
+            <video:tag>mercedes AMG</video:tag>
+            <video:tag>Mercedes AMG GT</video:tag>
+            <video:tag>AMG GT</video:tag>
+            <video:tag>big tech</video:tag>
+            <video:tag>software engineering</video:tag>
+            <video:tag>software engineer</video:tag>
+            <video:tag>car vlog</video:tag>
+            <video:tag>vlogs</video:tag>
+            <video:tag>software development</video:tag>
+            <video:tag>software engineers</video:tag>
+            <video:tag>microsoft</video:tag>
+            <video:tag>programming</video:tag>
+            <video:tag>tips for developers</video:tag>
+            <video:tag>career in tech</video:tag>
+            <video:tag>faang</video:tag>
+            <video:tag>work vlog</video:tag>
+            <video:tag>devleader</video:tag>
+            <video:tag>dev leader</video:tag>
+            <video:tag>nick cosentino</video:tag>
+            <video:tag>engineering manager</video:tag>
+            <video:tag>leadership</video:tag>
+            <video:tag>msft</video:tag>
+            <video:tag>software developer</video:tag>
+            <video:tag>code commute</video:tag>
+            <video:tag>codecommute</video:tag>
+            <video:tag>commute</video:tag>
+            <video:tag>reddit</video:tag>
+            <video:tag>reddit stories</video:tag>
+            <video:uploader info="https://codecommute.com/">Code Commute</video:uploader>
+        </video:video>
+    </url>
+    <url>
+        <loc>https://codecommute.com/videos/qbHD9oS26Z0</loc>
+        <video:video>
+            <video:thumbnail_loc>https://i.ytimg.com/vi/qbHD9oS26Z0/maxresdefault.jpg</video:thumbnail_loc>
+            <video:title>Want that Senior Dev Promotion? Start Taking Ownership Now!</video:title>
+            <video:description>A viewer submitted a question around ownership and working towards a senior position -- let&#x27;s dive in!</video:description>
+            <video:player_loc>https://www.youtube.com/embed/qbHD9oS26Z0</video:player_loc>
+            <video:duration>1320</video:duration>
+            <video:view_count>153</video:view_count>
+            <video:publication_date>2026-06-16T16:12:45Z</video:publication_date>
+            <video:family_friendly>yes</video:family_friendly>
+            <video:live>no</video:live>
+            <video:tag>vlog</video:tag>
+            <video:tag>vlogger</video:tag>
+            <video:tag>vlogging</video:tag>
+            <video:tag>mercedes</video:tag>
+            <video:tag>mercedes AMG</video:tag>
+            <video:tag>Mercedes AMG GT</video:tag>
+            <video:tag>AMG GT</video:tag>
+            <video:tag>big tech</video:tag>
+            <video:tag>software engineering</video:tag>
+            <video:tag>software engineer</video:tag>
+            <video:tag>car vlog</video:tag>
+            <video:tag>vlogs</video:tag>
+            <video:tag>software development</video:tag>
+            <video:tag>software engineers</video:tag>
+            <video:tag>microsoft</video:tag>
+            <video:tag>programming</video:tag>
+            <video:tag>tips for developers</video:tag>
+            <video:tag>career in tech</video:tag>
+            <video:tag>faang</video:tag>
+            <video:tag>work vlog</video:tag>
+            <video:tag>devleader</video:tag>
+            <video:tag>dev leader</video:tag>
+            <video:tag>nick cosentino</video:tag>
+            <video:tag>engineering manager</video:tag>
+            <video:tag>leadership</video:tag>
+            <video:tag>msft</video:tag>
+            <video:tag>software developer</video:tag>
+            <video:tag>code commute</video:tag>
+            <video:tag>codecommute</video:tag>
+            <video:tag>commute</video:tag>
+            <video:tag>reddit</video:tag>
+            <video:tag>reddit stories</video:tag>
+            <video:uploader info="https://codecommute.com/">Code Commute</video:uploader>
+        </video:video>
+    </url>
+    <url>
+        <loc>https://codecommute.com/videos/e7gV5avls6g</loc>
+        <video:video>
+            <video:thumbnail_loc>https://i.ytimg.com/vi/e7gV5avls6g/maxresdefault.jpg</video:thumbnail_loc>
+            <video:title>Buckle Up And Listen To These Software Engineering Failures</video:title>
+            <video:description>From the ExperiencedDevs subreddit, this topic is all about failures in software engineering.</video:description>
+            <video:player_loc>https://www.youtube.com/embed/e7gV5avls6g</video:player_loc>
+            <video:duration>1463</video:duration>
+            <video:view_count>124</video:view_count>
+            <video:publication_date>2026-06-15T12:00:18Z</video:publication_date>
+            <video:family_friendly>yes</video:family_friendly>
+            <video:live>no</video:live>
+            <video:tag>vlog</video:tag>
+            <video:tag>vlogger</video:tag>
+            <video:tag>vlogging</video:tag>
+            <video:tag>mercedes</video:tag>
+            <video:tag>mercedes AMG</video:tag>
+            <video:tag>Mercedes AMG GT</video:tag>
+            <video:tag>AMG GT</video:tag>
+            <video:tag>big tech</video:tag>
+            <video:tag>software engineering</video:tag>
+            <video:tag>software engineer</video:tag>
+            <video:tag>car vlog</video:tag>
+            <video:tag>vlogs</video:tag>
+            <video:tag>software development</video:tag>
+            <video:tag>software engineers</video:tag>
+            <video:tag>microsoft</video:tag>
+            <video:tag>programming</video:tag>
+            <video:tag>tips for developers</video:tag>
+            <video:tag>career in tech</video:tag>
+            <video:tag>faang</video:tag>
+            <video:tag>work vlog</video:tag>
+            <video:tag>devleader</video:tag>
+            <video:tag>dev leader</video:tag>
+            <video:tag>nick cosentino</video:tag>
+            <video:tag>engineering manager</video:tag>
+            <video:tag>leadership</video:tag>
+            <video:tag>msft</video:tag>
+            <video:tag>software developer</video:tag>
+            <video:tag>code commute</video:tag>
+            <video:tag>codecommute</video:tag>
+            <video:tag>commute</video:tag>
+            <video:tag>reddit</video:tag>
+            <video:tag>reddit stories</video:tag>
+            <video:uploader info="https://codecommute.com/">Code Commute</video:uploader>
+        </video:video>
+    </url>
+    <url>
         <loc>https://codecommute.com/videos/8q15vBnMQcw</loc>
         <video:video>
             <video:thumbnail_loc>https://i.ytimg.com/vi/8q15vBnMQcw/maxresdefault.jpg</video:thumbnail_loc>
@@ -9,7 +244,7 @@
             <video:description>From the ExperiencedDevs subreddit, this developer wanted perspective on getting their brain back into gear after time off.</video:description>
             <video:player_loc>https://www.youtube.com/embed/8q15vBnMQcw</video:player_loc>
             <video:duration>1191</video:duration>
-            <video:view_count>76</video:view_count>
+            <video:view_count>92</video:view_count>
             <video:publication_date>2026-06-10T12:00:05Z</video:publication_date>
             <video:family_friendly>yes</video:family_friendly>
             <video:live>no</video:live>
@@ -56,7 +291,7 @@
             <video:description>From the ExperiencedDevs subreddit, this developer wanted advice on asking about prioritizing tech debt.</video:description>
             <video:player_loc>https://www.youtube.com/embed/uSA_ot1FdX0</video:player_loc>
             <video:duration>1305</video:duration>
-            <video:view_count>107</video:view_count>
+            <video:view_count>118</video:view_count>
             <video:publication_date>2026-06-09T22:43:36Z</video:publication_date>
             <video:family_friendly>yes</video:family_friendly>
             <video:live>no</video:live>
@@ -103,7 +338,7 @@
             <video:description>This video is brain dump of some of the things that were top of mind for me regarding software architecture and testing strategies.</video:description>
             <video:player_loc>https://www.youtube.com/embed/1C4NKWJ3aSg</video:player_loc>
             <video:duration>2163</video:duration>
-            <video:view_count>71</video:view_count>
+            <video:view_count>78</video:view_count>
             <video:publication_date>2026-06-08T19:19:54Z</video:publication_date>
             <video:family_friendly>yes</video:family_friendly>
             <video:live>no</video:live>
@@ -150,7 +385,7 @@
             <video:description>From the comments, this viewer wanted to know about what makes a good tester within a development team.</video:description>
             <video:player_loc>https://www.youtube.com/embed/3encbkLhTyw</video:player_loc>
             <video:duration>1120</video:duration>
-            <video:view_count>91</video:view_count>
+            <video:view_count>99</video:view_count>
             <video:publication_date>2026-06-05T12:00:28Z</video:publication_date>
             <video:family_friendly>yes</video:family_friendly>
             <video:live>no</video:live>
@@ -197,7 +432,7 @@
             <video:description>AI hasn&#x27;t replaces us yet, so here&#x27;s a few steps I am taking to make myself obsolete.</video:description>
             <video:player_loc>https://www.youtube.com/embed/LeUp2M7IkCI</video:player_loc>
             <video:duration>3395</video:duration>
-            <video:view_count>125</video:view_count>
+            <video:view_count>132</video:view_count>
             <video:publication_date>2026-06-04T12:00:23Z</video:publication_date>
             <video:family_friendly>yes</video:family_friendly>
             <video:live>no</video:live>
@@ -244,7 +479,7 @@
             <video:description>From the ExperiencedDevs subreddit, this engineering manager said they&#x27;re missing a lot of the joy they used to have as a software engineer.</video:description>
             <video:player_loc>https://www.youtube.com/embed/rPx83FVUerI</video:player_loc>
             <video:duration>1500</video:duration>
-            <video:view_count>440</video:view_count>
+            <video:view_count>456</video:view_count>
             <video:publication_date>2026-06-02T12:00:18Z</video:publication_date>
             <video:family_friendly>yes</video:family_friendly>
             <video:live>no</video:live>
@@ -291,7 +526,7 @@
             <video:description>From the ExperiencedDevs subreddit, let&#x27;s look at systems where you are the single point of failure.</video:description>
             <video:player_loc>https://www.youtube.com/embed/mBGZNm-i3nA</video:player_loc>
             <video:duration>1045</video:duration>
-            <video:view_count>90</video:view_count>
+            <video:view_count>95</video:view_count>
             <video:publication_date>2026-06-01T12:00:21Z</video:publication_date>
             <video:family_friendly>yes</video:family_friendly>
             <video:live>no</video:live>
@@ -338,7 +573,7 @@
             <video:description>From the ExperiencedDevs subreddit, this conversation is all about things that might be under the surface for many developers.</video:description>
             <video:player_loc>https://www.youtube.com/embed/Hx2B3FpGUl8</video:player_loc>
             <video:duration>1295</video:duration>
-            <video:view_count>240</video:view_count>
+            <video:view_count>247</video:view_count>
             <video:publication_date>2026-05-29T12:00:16Z</video:publication_date>
             <video:family_friendly>yes</video:family_friendly>
             <video:live>no</video:live>
@@ -385,7 +620,7 @@
             <video:description>Distributed systems are hard. Making changes in distributed systems is even harder.</video:description>
             <video:player_loc>https://www.youtube.com/embed/mjBKI8WlE48</video:player_loc>
             <video:duration>1514</video:duration>
-            <video:view_count>84</video:view_count>
+            <video:view_count>88</video:view_count>
             <video:publication_date>2026-05-28T12:00:19Z</video:publication_date>
             <video:family_friendly>yes</video:family_friendly>
             <video:live>no</video:live>
@@ -432,7 +667,7 @@
             <video:description>Let&#x27;s talk about hackathons for software engineers! Is there a right and a wrong way?</video:description>
             <video:player_loc>https://www.youtube.com/embed/cK8lVIdt57k</video:player_loc>
             <video:duration>2079</video:duration>
-            <video:view_count>107</video:view_count>
+            <video:view_count>108</video:view_count>
             <video:publication_date>2026-05-27T12:00:37Z</video:publication_date>
             <video:family_friendly>yes</video:family_friendly>
             <video:live>no</video:live>
@@ -479,7 +714,7 @@
             <video:description>From the ExperiencedDevs subreddit, this developer perspectives on meaningless meeting culture.</video:description>
             <video:player_loc>https://www.youtube.com/embed/VrJFBg82UlM</video:player_loc>
             <video:duration>1763</video:duration>
-            <video:view_count>133</video:view_count>
+            <video:view_count>137</video:view_count>
             <video:publication_date>2026-05-26T12:00:04Z</video:publication_date>
             <video:family_friendly>yes</video:family_friendly>
             <video:live>no</video:live>
@@ -526,7 +761,7 @@
             <video:description>From the ExperiencedDevs subreddit, this developer wanted some thoughts on helping another engineer get their spark back.</video:description>
             <video:player_loc>https://www.youtube.com/embed/p_e6HG7LuUY</video:player_loc>
             <video:duration>2129</video:duration>
-            <video:view_count>84</video:view_count>
+            <video:view_count>90</video:view_count>
             <video:publication_date>2026-05-25T12:00:16Z</video:publication_date>
             <video:family_friendly>yes</video:family_friendly>
             <video:live>no</video:live>
@@ -573,7 +808,7 @@
             <video:description>From the ExperiencedDevs subreddit, this developer wanted a perspective on what to do when speaking up doesn&#x27;t feel worth it.</video:description>
             <video:player_loc>https://www.youtube.com/embed/PZt_shhTuUo</video:player_loc>
             <video:duration>1303</video:duration>
-            <video:view_count>181</video:view_count>
+            <video:view_count>184</video:view_count>
             <video:publication_date>2026-05-22T12:00:34Z</video:publication_date>
             <video:family_friendly>yes</video:family_friendly>
             <video:live>no</video:live>
@@ -620,7 +855,7 @@
             <video:description>From the ExperiencedDevs subreddit, this developer wanted to understand how to get teams to buy into testing without code coverage requirements.</video:description>
             <video:player_loc>https://www.youtube.com/embed/SR10tz_vvdQ</video:player_loc>
             <video:duration>2388</video:duration>
-            <video:view_count>58</video:view_count>
+            <video:view_count>60</video:view_count>
             <video:publication_date>2026-05-21T12:00:38Z</video:publication_date>
             <video:family_friendly>yes</video:family_friendly>
             <video:live>no</video:live>
@@ -667,7 +902,7 @@
             <video:description>From the ExperiencedDevs subreddit, this developer says their manager is pushing them all to get certifications in a weird way.</video:description>
             <video:player_loc>https://www.youtube.com/embed/5_snV77L6YI</video:player_loc>
             <video:duration>1765</video:duration>
-            <video:view_count>70</video:view_count>
+            <video:view_count>71</video:view_count>
             <video:publication_date>2026-05-20T12:00:15Z</video:publication_date>
             <video:family_friendly>yes</video:family_friendly>
             <video:live>no</video:live>
@@ -761,7 +996,7 @@
             <video:description>Agentic harnesses are REALLY proving just how powerful they are when you try to recreate them in code.</video:description>
             <video:player_loc>https://www.youtube.com/embed/-mRrpRleKGo</video:player_loc>
             <video:duration>2289</video:duration>
-            <video:view_count>86</video:view_count>
+            <video:view_count>87</video:view_count>
             <video:publication_date>2026-05-18T12:00:01Z</video:publication_date>
             <video:family_friendly>yes</video:family_friendly>
             <video:live>no</video:live>
@@ -808,7 +1043,7 @@
             <video:description>From the comments, this viewer was offering some perspective on managing different generations of engineers.</video:description>
             <video:player_loc>https://www.youtube.com/embed/Yl7MsC0pJoI</video:player_loc>
             <video:duration>1103</video:duration>
-            <video:view_count>134</video:view_count>
+            <video:view_count>141</video:view_count>
             <video:publication_date>2026-05-15T12:01:04Z</video:publication_date>
             <video:family_friendly>yes</video:family_friendly>
             <video:live>no</video:live>
@@ -855,7 +1090,7 @@
             <video:description>From the comments this time, this viewer wanted some perspective on whether software engineering is even worth it anymore.</video:description>
             <video:player_loc>https://www.youtube.com/embed/AnWL4Rc7nNQ</video:player_loc>
             <video:duration>1121</video:duration>
-            <video:view_count>131</video:view_count>
+            <video:view_count>132</video:view_count>
             <video:publication_date>2026-05-14T12:00:16Z</video:publication_date>
             <video:family_friendly>yes</video:family_friendly>
             <video:live>no</video:live>
@@ -902,7 +1137,7 @@
             <video:description>From the ExperiencedDevs subreddit, this developer wanted help with context switching.</video:description>
             <video:player_loc>https://www.youtube.com/embed/l_l1O9vYGQc</video:player_loc>
             <video:duration>2032</video:duration>
-            <video:view_count>107</video:view_count>
+            <video:view_count>108</video:view_count>
             <video:publication_date>2026-05-13T12:01:26Z</video:publication_date>
             <video:family_friendly>yes</video:family_friendly>
             <video:live>no</video:live>
@@ -949,7 +1184,7 @@
             <video:description>From the ExperiencedDevs subreddit, this topic is about dealing with crappy managers! Let&#x27;s dive in!</video:description>
             <video:player_loc>https://www.youtube.com/embed/aHRNKVgjIE0</video:player_loc>
             <video:duration>2034</video:duration>
-            <video:view_count>140</video:view_count>
+            <video:view_count>141</video:view_count>
             <video:publication_date>2026-05-12T12:00:01Z</video:publication_date>
             <video:family_friendly>yes</video:family_friendly>
             <video:live>no</video:live>
@@ -1325,7 +1560,7 @@
             <video:description>A viewer submitted a question on challenges with staffing their testing team for us to discuss!</video:description>
             <video:player_loc>https://www.youtube.com/embed/pQUXauEUONs</video:player_loc>
             <video:duration>1303</video:duration>
-            <video:view_count>69</video:view_count>
+            <video:view_count>70</video:view_count>
             <video:publication_date>2026-04-24T12:01:36Z</video:publication_date>
             <video:family_friendly>yes</video:family_friendly>
             <video:live>no</video:live>
@@ -1701,7 +1936,7 @@
             <video:description>An update on burning through tokens with Copilot CLI and Claude, as well as getting burned by vibe-coded output.</video:description>
             <video:player_loc>https://www.youtube.com/embed/PsZjuUeqcFI</video:player_loc>
             <video:duration>1200</video:duration>
-            <video:view_count>526</video:view_count>
+            <video:view_count>528</video:view_count>
             <video:publication_date>2026-04-14T12:00:47Z</video:publication_date>
             <video:family_friendly>yes</video:family_friendly>
             <video:live>no</video:live>
@@ -1748,7 +1983,7 @@
             <video:description>From the ExperiencedDevs subreddit, this developer wanted thoughts on task switching in software engineering.</video:description>
             <video:player_loc>https://www.youtube.com/embed/UBuSqdKMXNU</video:player_loc>
             <video:duration>1292</video:duration>
-            <video:view_count>948</video:view_count>
+            <video:view_count>949</video:view_count>
             <video:publication_date>2026-04-13T12:00:56Z</video:publication_date>
             <video:family_friendly>yes</video:family_friendly>
             <video:live>no</video:live>
@@ -1889,7 +2124,7 @@
             <video:description>Although I originally posted this a couple of weeks late, this might be my admission that I am almost fully moved on from Visual Studio.</video:description>
             <video:player_loc>https://www.youtube.com/embed/fZznPPvbfp4</video:player_loc>
             <video:duration>1556</video:duration>
-            <video:view_count>1136</video:view_count>
+            <video:view_count>1137</video:view_count>
             <video:publication_date>2026-04-03T12:00:00Z</video:publication_date>
             <video:family_friendly>yes</video:family_friendly>
             <video:live>no</video:live>

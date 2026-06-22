@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What is your litmus test for deciding whether to build in-house versus adopt?",
+    "answer": "My litmus test is whether the thing we're building will be our core technology. If the answer is no, I think we're probably not better off building it in house because it will require ongoing development and maintenance resources. I know there is a maintenance tax to keep this thing maintained."
+  },
+  {
+    "question": "What are the trade-offs of adopting off-the-shelf technology versus building your own?",
+    "answer": "I think when you pick something off the shelf you get a high level of trust and confidence because it's widely established and actively maintained. I also rely on the fact that there is often a community around it, and with open source you can contribute or fork the code; if it's not open, I may be blocked and rely on vendor support. I consider security a big factor, and with open source you benefit from scrutiny while still needing to ensure vulnerabilities are closed out."
+  },
+  {
+    "question": "When might a company turn an internal tool into an external product, or pursue convergence to avoid duplication?",
+    "answer": "I’ve seen internal tools grow from small deployments into products used across many services. I’ve observed that a dedicated team can maintain and expand it, turning it into something many teams depend on. I also see why larger organizations pursue convergence or unification so we don’t end up with multiple similar tools."
+  }
+]

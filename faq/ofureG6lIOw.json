@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How do you approach a problem when you have no idea what's going on with a live service?",
+    "answer": "I approach problems not just to prove something is right, but to build a matrix of what is known and what is an assumption. I test hypotheses by trying to prove or disprove them and I write it all down on a whiteboard or a shared space. Disproving a hypothesis is just as valuable as proving it."
+  },
+  {
+    "question": "What framework do you use to investigate difficult problems when you can't reproduce the issue or have limited signals?",
+    "answer": "I recognize that sometimes you can't reproduce the issue or you have limited information, and you may need better signals later. My framework is to write down hypotheses and prove or disprove them, using a whiteboard or shared space to track what's known and what's still an assumption. This turns the investigation from vibes into data-driven actions."
+  },
+  {
+    "question": "Why is it okay to not know the answer, and how do you cope with the expectation that you should know everything?",
+    "answer": "I remind myself that it's totally okay to not know and it's normal in engineering to have situations where you don't know what's going on. I believe the goal is to keep investigating and to be curious, focusing on making progress rather than feeling ashamed."
+  }
+]

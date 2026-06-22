@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How do you keep the LLM from intervening during end-to-end runs?",
+    "answer": "I keep the LLM running the whole thing completely hands-off. As soon as it needs to intervene, it's great you found an issue, but we have to restart the whole experiment. The goal is to have the end-to-end run be completely hands-off so the orchestration can operate without manual intervention."
+  },
+  {
+    "question": "What happened when the orchestration stalled at phase 11 and how did you address it?",
+    "answer": "It got stuck on phase 11 because it needed input from someone else and the session that started the LLM broke with no retry. I wired up a human in the loop responder so another agent could provide the input when needed. We added resiliency and I told it to commit the fixes and resume rather than restarting from scratch."
+  },
+  {
+    "question": "What is your long-term vision for this orchestration system and how do you want AI to handle work?",
+    "answer": "I see this as a hybrid between what GitHub Copilot cloud agents were doing and the terminal harness I use. I want to continuously fill a queue with work and have agents pick away at that work, describing the feature or bug and letting them spec it out. I want to minimize my involvement in the low level technical decisions and focus on stakeholders and business goals while the orchestration handles planning and distribution. I also want it to self-improve and spin off features, and eventually integrate dashboards and APIs."
+  }
+]
